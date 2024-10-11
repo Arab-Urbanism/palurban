@@ -38,10 +38,12 @@ collections:
 
   - label: "Pages"
     name: "pages"
-    files:
+    i18n: true
+    files: 
       - label: "Home page"
         name: "home"
-        file: "content/index.md"
+        i18n: true
+        file: "content/index.{{locale}}.md"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Subtitle, name: subtitle, widget: string}
