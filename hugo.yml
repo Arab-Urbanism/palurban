@@ -1,0 +1,23 @@
+baseURL: 'https://yamakan.place/'
+languageCode: en-us
+title: 'Palestine: Space and Politics'
+theme: ananke
+languages:
+  en:
+    disabled: false
+    languageCode: en
+    languageDirection: ltr
+    contentDir: content/en
+    languageName: English
+    title: ''
+    weight: 0
+  ar:
+    disabled: false
+    languageCode: ar
+    languageDirection: rtl
+    contentDir: content/ar
+    languageName: عربي
+    title: ''
+    weight: 0
+
+
