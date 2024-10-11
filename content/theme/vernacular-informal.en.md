@@ -1,12 +1,11 @@
 ---
-title: "The Vernacular and the Informal"
+title: The Vernacular and the Informal
+slug: vernacular-informal
 tags:
   - informality
   - vernacularity
 ---
-
 A significant aspect of Palestinian history and culture can be understood by examining various forms of vernacularity and “informality” which have developed over centuries in response to environmental, socio-economic, and political changes. The historic and contemporary Bedouin, peasant, and urban architecture associated with vernacular and informal modes of living, whether in villages, refugee camps, Jerusalem’s “informal” neighbourhoods, or elsewhere, provide valuable insights into the role of colonialism, capitalism and modernity in shaping Palestinian built environments. Similar to the histories of other regions worldwide, the vernacular and the informal in Palestine can be intertwined in ways that challenge their conventional understandings and meanings, offering a lens into intricate spatio-temporal relationships.
-
 
 ## Key Questions
 
@@ -65,3 +64,4 @@ A significant aspect of Palestinian history and culture can be understood by exa
 4. أمارة، أحمد ورامي صايغ. "الماضي الحاضر الحلقة 85: تاريخ النقب قبل النكبة." تقديم رامي صايغ، حركة الشبيبة اليافية، يناير، 11، 2024. بودكاست، رابط يوتيوب: 42:00. ([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=MYXGUavBiXY))
 5. خليفي، ميشيل. حكاية الجواهر الثلاث. عمر القطان وميشيل خليفي. 1995. 112 د. ([مصدر مفتوح الوصول](https://ok.ru/video/1436562164382))
 6. رمضان، يارا وغدير نجار. "تراث العمارة المؤقتة - مخيمات اللجوء." تقديم غدير نجارة، أبريل، 13، 2023. قناة يوتيوب، رابط يوتيوب: 1:06:09. ([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=MYCRbXiujXk))
+```

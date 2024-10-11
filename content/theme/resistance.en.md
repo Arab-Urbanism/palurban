@@ -1,5 +1,6 @@
 ---
 title: Resistance in and Beyond Public Space 
+slug: resistance
 tags:
   - resistance
 

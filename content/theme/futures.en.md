@@ -1,13 +1,11 @@
 ---
-title: 'Palestine Futures: Spaces and Imaginations'
-# summary: Write about your project here...
+title: "Palestine Futures: Spaces and Imaginations"
 slug: futures
 tags:
   - futures
   - forecasting
   - backcasting
 ---
-
 After the signing of the Oslo Accords, the 1990s saw a steady erosion of a Palestinian political project of territorial liberation and political emancipation. Radical politics and social imaginaries were replaced with a relentless integration into global neoliberalism. Simultaneously, the two-state solution was declared dead multiple times, and Palestinian calls for a one-state solution were revived. But as climate change looms over the region, the future looks more precarious than ever, prompting a search for futures that assert the position of Palestine in relation to its regional context. Meanwhile, a rich preoccupation with alternative futurities abound: from speculative fiction and artwork, to endeavours of archiving and imagining a decolonial future beyond the violence of settler colonialism, to questions of social reproduction and embodied futurities.
 
 ## Key Questions
@@ -63,4 +61,4 @@ After the signing of the Oslo Accords, the 1990s saw a steady erosion of a Pales
 - Recorded Lecture, Teaching Science Fiction While Living It in Lebanon ([https://youtu.be/](https://youtu.be/JpFxK4SELZU)[guEgt5r5RbU](https://www.youtube.com/watch?v=guEgt5r5RbU))
 -  Exploring New Horizons: A Conversation on Arabic Science Fiction | Ashraf Fagih ([https://youtu.be/JpFxK4SELZU](https://youtu.be/JpFxK4SELZU))
 - Recorded Conversation with Nat Muller, the Fire These Times ([Fire These Times](https://thefirethesetimes.com/2022/02/04/98-space-travel-nostalgia-and-retrofuturism-with-nat-muller/)) 
-- Countless Palestinian Futures, a project by Danah Abdulla and Sarona Abuaker ([web](https://palifutures.com)) 
+- Countless Palestinian Futures, a project by Danah Abdulla and Sarona Abuaker ([web](https://palifutures.com))

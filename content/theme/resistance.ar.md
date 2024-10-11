@@ -1,5 +1,6 @@
 ---
 title: الفضاء العام والمقاومة
+slug: resistance
 tags:
   - resistance
   - public space

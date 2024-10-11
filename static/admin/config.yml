@@ -1,7 +1,8 @@
 local_backend: true
 backend:
-  name: git-gateway
+  name: github
   branch: main # Branch to update (optional; defaults to master)
+  repo: majdal/palurban
 media_folder: static/img
 public_folder: /img
 
@@ -10,50 +11,21 @@ i18n:
   # multiple_folders - persists files in `<folder>/<locale>/<slug>.<extension>`
   # multiple_files - persists files in `<folder>/<slug>.<locale>.<extension>`
   # single_file - persists a single file in `<folder>/<slug>.<extension>`
-  structure: multiple_folders
+  structure: multiple_files
 
   # Required - a list of locales to show in the editor UI
   locales: [en, ar]
 
   # Optional, defaults to the first item in locales.
   # The locale to be used for fields validation and as a baseline for the entry.
-  default_locale: ar
+  default_locale: en
 
 collections:
-  # - label: "Languages"
-  #   name: "languages"
-  #   folder: "content/languages"
-  #   extension: "yml"
-  #   format: "yml"
-  #   create: false
-  #   slug: "{{code}}"
-  #   editor:
-  #     preview: false
-  #   fields:
-  #     - { label: "Language", name: "language" , widget: string}
-  #     - { label: "Country Code (for url)", name: "code" , widget: string}
-  # - label: "Post"
-  #   name: "post"
-  #   folder: "_posts"
-  #   slug: "{{year}}-{{month}}-{{day}}-{{title}}"
-  #   create: true
-  #   editor:
-  #     preview: false
-  #   fields:
-  #     - label: Language
-  #       name: language
-  #       widget: relation
-  #       collection: languages
-  #       searchFields: ["language"]
-  #       valueField: code
-  #       displayFields: ["language"]
-  #       default: "en"
-  #     - { label: "Title", name: "title", widget: "string" }
-  #     - { label: "Body", name: "body", widget: "markdown" }
   - name: 'theme'
     label: 'Theme'
-    folder: 'content/en/theme'
+    folder: 'content/theme'
     create: true
+    i18n: true
     slug: '{{slug}}'
     editor:
       preview: false
@@ -63,3 +35,14 @@ collections:
       # - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       # - { label: 'Language', name: 'language' }
+
+  - label: "Pages"
+    name: "pages"
+    files:
+      - label: "Home page"
+        name: "home"
+        file: "content/index.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Subtitle, name: subtitle, widget: string}
+          - {label: Body, name: body, widget: markdown}

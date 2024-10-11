@@ -1,44 +1,41 @@
 ---
-title: التدمير وإعادة الإعمار
+title: "Destruction and Reconstruction"
+slug: destruction-reconstruction
 tags:
   - reconstruction
 
 ---
 
+Today, as the world continues to watch the mass destruction of Gaza, questions of reconstruction emerge again, reflecting more than a century marked by destruction, writing and rewriting of history in Palestine. The settler colonial system has destroyed hundreds of Palestinian villages, educational centres, archives, and universities, changed streets’ and villages’ names, and continues to forcibly evict Palestinians from their homes and cities. This material and symbolic erasure has been used by Israel as a tool to uproot Palestinians and their heritage from their homeland. Millions of Palestinian refugees remain scattered around the world with no right to return even to the ruins of their homes and commemorate the Nakba. Despite the scale of this loss and injury, Palestine teaches us- geographers, architects and urban planners -to rethink the politics and aims of reconstruction towards imagining a free and just future that connects Palestinians within their own country, as well as Palestinians in diaspora. But where to start without an end of colonisation?
 
-في حين يواصل العالم اليوم مشاهدة التدمير ‏الهائل في غزة، تظهر أسئلة إعادة الإعمار مجدداً لتدفع بالتفكير فيما يزيد عن قرن من الزمان  شهدت فيه فلسطين دورات من التدمير و كتابة وإعادة كتابة التاريخ. دمّرت منظومة الاستعمار الاستيطاني مئات القرى الفلسطينية، ومراكز تعليمية، وأرشيفات، وجامعات وقامت أيضاً بتغيير أسماء الشوارع والقرى في حين يستمر التهجير القسري للفلسطينيين من بيوتهم ومدنهم. وقد استخدمت إسرائيل هذا المحو المادي والمعنوي كأداة لاقتلاع الفلسطينيين وتراثهم من موطنهم، ولا يزال ملايين اللاجئين الفلسطينيين مشتتين في أنحاء العالم من دون الحق في العودة حتى إلى أطلال منازلهم، أو لإحياء ذكرى النكبة. ولكن بالرغم من حجم الخسارة والجراح، تُعلّمنا فلسطين كجغرافيين، معماريين، ومخططين عمرانيين، أن نعيد التفكير في سياسات وأهداف إعادة الإعمار في شكل يسمح لنا بتخيل مستقبل عادل وحرّ؛ مستقبل يسمح للفلسطينيين بالتواصل مع وطنهم وأيضا مع فلسطينيّ المهجر. ولكن من أين نبدأ بدون إنهاء الاستعمار؟
+## Key Question
+- How have cities and villages in Palestine been impacted by cycles of destruction?
+- What is reconstruction in the context of Palestine? And how can we deconstruct reconstruction so that it moves beyond its materiality?
+- How could reconstruction create a future that connects with the dark histories of destruction rather than divorcing from it?
+- What is the role of cultural heritage in the process of reconstruction?
+- Reconstruction of cities requires the involvement of several stakeholders. What are the politics of reconstruction? How can local communities remain central in the future reconstruction? 
+## Key Cases
+- Cycles of destruction and reconstruction in Gaza.
+- Demolition of Palestinian’s villages during and after the 1948 Nakba.
+- Israel’s unlawful displacement and house demolition in the West Bank.
+- Reconstruction of housing in Gaza 1993-2000.
+- Reconstruction of memory in exile: archive reconstruction.
+- Refugee camps reconstruction (Jenin and Nahr al-Bared refugee camps).
+- The Competition for the Reconstruction of Destroyed Palestinian Villages. ([open-access link](https://www.plands.org/en/competition-news)).
 
-## أسئلة رئيسية
-
-- كيف تأثرت المدن والقرى في فلسطين بدورات التدمير المتكررة؟
-- ما هي إعادة الإعمار في سياق فلسطين؟ وكيف يمكن تفكيك  إعادة الإعمار بحيث تتخطى طابعها المادي؟
-- كيف يمكن لإعادة الإعمار أن تخلق مستقبلاً يتصل بالتاريخ التدمير المظلم بدلاً من الانفصال عنه؟
-- ما هو دور التراث الثقافي في عملية إعادة الإعمار؟
-- تتطلب إعادة إعمار المدن مشاركة العديد من أصحاب المصلحة. ما هي سياسات إعادة الإعمار؟ كيف يمكن للمجتمعات المحلية أن تبقى محورية في إعادة الإعمار المستقبلية؟
-
-## أمثلة رئيسية
-
-- دورات التدمير وإعادة الإعمار في غزة.
-- هدم القرى الفلسطينية أثناء وبعد نكبة 1948.
-- التهجير غير الشرعي وهدم المنازل من قبل إسرائيل في الضفة الغربية. 
-- إعادة إعمار المساكن في غزة 1993-2000.
-- إعادة بناء الذاكرة في المنفى: إعادة بناء الأرشيف.
-- إعادة إعمار مخيمات اللاجئين (مخيمي جنين ونهر البارد).
-- مسابقة إعادة إعمار القرى الفلسطينية المدمرة. ([مصدر مفتوح الوصول](https://www.plands.org/en/competition-news)).
-
-
-## مراجع رئيسية
+## Key References
 1. Ahmad, Nadia N. 2011. “Gaza: a case study of urban destruction through military involvement.” Master Thesis, The Temple University. ([open-access link](https://scholarshare.temple.edu/bitstream/handle/20.500.12613/645/Ahmad_temple_0225M_10714.pdf?sequence=1&isAllowed=y))
 2. Al-Haq. 2012. Escalation in Forcible Transfer and Demolitions in Area C. Palestinian Human Rights Organizations’ Council, September 28, 2012. ([open-access link](https://docslib.org/doc/2743276/escalation-in-forcible-transfer-and-demolitions-in-area-c-al-haq-on))
 3. Khalidi, Walid, ed. 1992. All That Remains: The Palestinian Villages Occupied and Depopulated by Israel in 1948. Washington DC: The Institute for Palestine Studies. ([link](https://www.palestine-studies.org/en/node/1649445)) //// **بالعربية**  الخالدي، وليد، محرر، كي لا ننسى: قرى فلسطين التي دمرتها إسرائيل سنة 1948 وأسماء شهدائها. ترجمة حسني زينة. واشنطن: مؤسسة الدراسات الفلسطينية. ([مصدر مفتوح الوصول)](https://archive.org/details/1948_20221204/page/n9/mode/2up)
 4. أبو سعادة، ندي. 2024. "إعادة الإعمار ومشروعنا التحرري." مؤسسة الدراسات الفلسطينية. أبريل 17، 2024. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/1655449))
 5. بشارة، خلدون. 2024. " تربية الأمل: نفعل في غزة ما يفعله العاطلون عن العمل." مجلة الدراسات الفلسطينية، 137 (شتاء):46 - 51. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/1654963))
 
+
 ----------------------
 
-## مراجع أخرى
+## Further Readings
 
-*الرجاء التواصل معنا للوصول لأي من المصادر التالية.*
+*Please contact us if you would like access to any resources.*
 
 1. Abujidi, Nurhan. 2014. Urbicide in Palestine: Spaces of Oppression and Resilience. London. New York: Routledge. ([link](https://www.taylorfrancis.com/books/mono/10.4324/9781315819099/urbicide-palestine-nurhan-abujidi))
 2. Amiry, Suad and Khaldun Bshara, eds. 2015. Reclaiming Space: The Rehabilitation of 50 Villages in Rural Palestine. Ramallah: Riwaq. (open-access link) pdf from Riwaq
@@ -60,8 +57,7 @@ tags:
 
 
 
-
-## مواد سمعية وبصرية
+## Audiovisual Material
 
 1. Abu Jabal, Salim, director. Roshmia. Boujabel Productions. 2015. 70 min. ([link](https://www.youtube.com/watch?v=1PHYtQu5NSU))
 2. Bakri, Mohammed, director. Jenin, Jenin. Iyad Tahar Samoudi. 2002. 54 min. ([open-access link](https://www.youtube.com/watch?v=dU9iNGc5Bf4))
