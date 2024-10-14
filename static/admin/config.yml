@@ -38,12 +38,8 @@ collections:
       - { label: 'Tags', name: 'tags', widget: 'list' }
       - { label: 'Last modified', name: 'lastmod', widget: 'datetime' }
       - { label: 'Preview summary', name: 'summary', widget: 'markdown' }
-      # - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      # - { label: 'Description', name: 'description', widget: 'string' }
-
       - { label: 'Image', name: 'image', widget: 'image' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-      # - { label: 'Language', name: 'language' }
 
   - label: "Pages"
     name: "pages"
