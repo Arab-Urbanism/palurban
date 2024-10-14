@@ -1,35 +1,39 @@
 ---
 title: "Palestine Futures: Spaces and Imaginations"
 slug: futures
+draft: false
+weight: 1
 tags:
   - futures
   - forecasting
   - backcasting
+lastmod: 2024-10-13T22:18:00
+summary: The future of Palestine
+image: /content/theme/futures.jpeg
 ---
 After the signing of the Oslo Accords, the 1990s saw a steady erosion of a Palestinian political project of territorial liberation and political emancipation. Radical politics and social imaginaries were replaced with a relentless integration into global neoliberalism. Simultaneously, the two-state solution was declared dead multiple times, and Palestinian calls for a one-state solution were revived. But as climate change looms over the region, the future looks more precarious than ever, prompting a search for futures that assert the position of Palestine in relation to its regional context. Meanwhile, a rich preoccupation with alternative futurities abound: from speculative fiction and artwork, to endeavours of archiving and imagining a decolonial future beyond the violence of settler colonialism, to questions of social reproduction and embodied futurities.
 
 ## Key Questions
+
 - How are Palestinians imagining and planning for alternative futures for Palestine? 
 - How desirable are such futures, given the fragmentation of the Palestinian people? 
 - What are the social, political, and economic formations that those futures (re)produce? 
 - How do we forge pathways for reaching the desired futures of Palestine? 
 
-
 ## Key Cases
+
 - Larissa Sansour’s trilogy: a Space Exodus (2008), Nation Estate (2012), and In the future they ate from the finest Porcelain (2015) all available via Kanopy. 
 - Palestine Land Society architectural competitions ([web](https://www.plands.org/en/competition-news))
 - One Democratic State movement ([web](https://onedemocraticstate.com))
 - Palestine + 100 ([web](https://commapress.co.uk/books/palestine-100/))
 - The Palestine Heirloom Seed Library (PHSL) ([web](https://viviensansour.com/Palestine-Heirloom)) 
 
-
 ## Key References 
 
-1. Farsakh, Leila. 2021. Introduction: The Struggle for Self-Determination and the Palestinian Quest for Statehood. In: Farsakh, L (ed.), _Rethinking Statehood in Palestine_. California: University of California Press. Open access ([link](https://doi.org/10.1525/luminos.113.a))
+1. Farsakh, Leila. 2021. Introduction: The Struggle for Self-Determination and the Palestinian Quest for Statehood. In: Farsakh, L (ed.), *Rethinking Statehood in Palestine*. California: University of California Press. Open access ([link](https://doi.org/10.1525/luminos.113.a))
 2. Hassouna, Silvia. 2023. Cultivating biodiverse futures at the (postcolonial) botanical garden. Transactions of the Institute of British Geographers, ([link](https://doi.org/10.1111/tran.12639))
 3. Hawari, Yara. 2020. Radical Futures: When Palestinians Imagine. Al-shabaka ([link](https://al-shabaka.org/commentaries/radical-futures-when-palestinians-imagine/))
 4. فائق مرعي 2020 معمار زاده الخيال: تجارب في التحرر المعماري باب الواد ([link](https://babelwad.com/ar/نصوص/معمار-زاده-الخيال-تجارب-في-التحرر-المع/)) 
-
 
 ----------------------
 
@@ -37,14 +41,14 @@ After the signing of the Oslo Accords, the 1990s saw a steady erosion of a Pales
 
 *Please contact us if you would like access to any resources.*
 
-1. Abu El-Haj, Nadia. 2001. _Facts on the Ground: Archaeological Practice and Territorial Self-Fashioning in Israeli Society_. Chicago: University of Chicago Press. ([Worldcat](https://search.worldcat.org/title/Facts-on-the-ground-:-archaeological-practice-and-territorial-self-fashioning-in-Israeli-society/oclc/47666593))
-2. Abu Sitta, Salman. 2007. _The Return Journey_. Palestine Land society ([worldcat](https://search.worldcat.org/title/173205494))
+1. Abu El-Haj, Nadia. 2001. *Facts on the Ground: Archaeological Practice and Territorial Self-Fashioning in Israeli Society*. Chicago: University of Chicago Press. ([Worldcat](https://search.worldcat.org/title/Facts-on-the-ground-:-archaeological-practice-and-territorial-self-fashioning-in-Israeli-society/oclc/47666593))
+2. Abu Sitta, Salman. 2007. *The Return Journey*. Palestine Land society ([worldcat](https://search.worldcat.org/title/173205494))
 3. Azeb, Sophia. 2019. Who will we be when we are free? On Palestine and Futurity. The Funambulist: Futurisms ([link](https://thefunambulist.net/magazine/24-futurisms/will-free-palestine-futurity-sophia-azeb)) 
-4. عازم، ابتسام، (2014) «سفر الإختفاء: رواية» منشورات الجمل  //// **In English** Azem, Ibtisam. and Antoon, Sinan. 2019. _The book of disappearance: a novel._ Syracuse, New York: Syracuse University Press. 
-6. El-Shakry, Hoda.  2021. ‘Palestine and the Aesthetics of the Future Impossible’, Interventions, 23(5), pp. 669–690. Available at: [https://doi.org/10.1080/1369801X.2021.1885471](https://doi.org/10.1080/1369801X.2021.1885471).
-7. Farsakh, Leila. (ed.) 2021. _Rethinking Statehood in Palestine: Self-Determination and Decolonization Beyond Partition_. California: University of California Press. DOI: [https://doi.org/10.1525/luminos.113](https://doi.org/10.1525/luminos.113)
-8. Hochberg, Gil Z. 2021. Becoming Palestine: toward an archival imagination of the future. Durham: Duke University Press. (Introduction is [Open Access](https://www.dukeupress.edu/Assets/PubMaterials/978-1-4780-1482-9_601.pdf)) 
-8. Joronen, Mikko, Helga Tawil-Souri, Merav Amir, and Mark Griffiths. 2021. "Palestinian futures: anticipation, imagination, embodiments. Introduction to special issue." Geografiska Annaler: Series B, Human Geography 103, no. 4: 277-282., DOI: 10.1080/04353684.2021.2004196 [[link](https://www.tandfonline.com/doi/full/10.1080/04353684.2021.2004196)]
+4. عازم، ابتسام، (2014) «سفر الإختفاء: رواية» منشورات الجمل  //// **In English** Azem, Ibtisam. and Antoon, Sinan. 2019. *The book of disappearance: a novel.* Syracuse, New York: Syracuse University Press. 
+5. El-Shakry, Hoda.  2021. ‘Palestine and the Aesthetics of the Future Impossible’, Interventions, 23(5), pp. 669–690. Available at: [https://doi.org/10.1080/1369801X.2021.1885471](https://doi.org/10.1080/1369801X.2021.1885471).
+6. Farsakh, Leila. (ed.) 2021. *Rethinking Statehood in Palestine: Self-Determination and Decolonization Beyond Partition*. California: University of California Press. DOI: [https://doi.org/10.1525/luminos.113](https://doi.org/10.1525/luminos.113)
+7. Hochberg, Gil Z. 2021. Becoming Palestine: toward an archival imagination of the future. Durham: Duke University Press. (Introduction is [Open Access](https://www.dukeupress.edu/Assets/PubMaterials/978-1-4780-1482-9_601.pdf)) 
+8. Joronen, Mikko, Helga Tawil-Souri, Merav Amir, and Mark Griffiths. 2021. "Palestinian futures: anticipation, imagination, embodiments. Introduction to special issue." Geografiska Annaler: Series B, Human Geography 103, no. 4: 277-282., DOI: 10.1080/04353684.2021.2004196 [[link](https://www.tandfonline.com/doi/full/10.1080/04353684.2021.2004196)]
 9. Muller, Nat. 2021. ‘Lunar Dreams: Space Travel, Nostalgia, and Retrofuturism in A Space Exodus and The Lebanese Rocket Society’, Science Fiction Studies, 48(1). Available at: [https://www-jstor-org.ezproxy01.rhul.ac.uk/stable/10.5621/sciefictstud.48.1.0124](https://www-jstor-org.ezproxy01.rhul.ac.uk/stable/10.5621/sciefictstud.48.1.0124).
 10. Rexer, Gala. 2023. The materiality of power and bodily matter (ing): embodied resistance in Palestine. Body & Society, 29(4), 3-28. [[Open Access](https://journals.sagepub.com/doi/10.1177/1357034X231201950)]
 11. Sabaiti, Nadia. 2021. Teaching Science Fiction While Living It in Lebanon | Society and Space. Available at: [https://www.societyandspace.org/articles/teaching-science-fiction-while-living-it-in-lebanon](https://www.societyandspace.org/articles/teaching-science-fiction-while-living-it-in-lebanon).

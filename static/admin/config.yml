@@ -24,6 +24,7 @@ collections:
   - name: 'theme'
     label: 'Theme'
     folder: 'content/theme'
+    media_folder: '/content/theme'
     create: true
     i18n: true
     slug: '{{slug}}'
@@ -31,8 +32,16 @@ collections:
       preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Slug', name: 'slug', widget: 'string' }
+      - { label: 'Is draft', name: 'draft', widget: 'boolean' }
+      - { label: 'Weight', name: 'weight', widget: 'number' }
+      - { label: 'Tags', name: 'tags', widget: 'list' }
+      - { label: 'Last modified', name: 'lastmod', widget: 'datetime' }
+      - { label: 'Preview summary', name: 'summary', widget: 'markdown' }
       # - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       # - { label: 'Description', name: 'description', widget: 'string' }
+
+      - { label: 'Image', name: 'image', widget: 'image' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       # - { label: 'Language', name: 'language' }
 
