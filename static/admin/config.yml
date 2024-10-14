@@ -80,6 +80,7 @@ collections:
         i18n: true
         file: "content/index.{{locale}}.md"
         fields:
-          - { label: Title, name: title, widget: string }
-          - { label: Subtitle, name: subtitle, widget: string }
-          - { label: Body, name: body, widget: markdown }
+          - { label: Title, name: title, widget: string, i18n: true }
+          - { label: Subtitle, name: subtitle, widget: string, i18n: true }
+          - { label: Image, name: image, widget: image, i18n: duplicate }
+          - { label: Body, name: body, widget: markdown, i18n: true }
