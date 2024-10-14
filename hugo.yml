@@ -2,7 +2,7 @@ baseURL: 'https://palestine-space-politics.netlify.app/'
 languageCode: en-us
 title: 'Palestine: space and politics'
 copyright: 'CC-BY Arab Urbanism team'
-# theme: ananke
+theme: ananke
 
 # hugo modules 
 module:
@@ -10,7 +10,7 @@ module:
     extended: true
     min: 0.135.0
   imports:
-    - path: github.com/sergeyklay/gohugo-theme-ed
+    # - path: github.com/sergeyklay/gohugo-theme-ed
 
 # Localization
 
