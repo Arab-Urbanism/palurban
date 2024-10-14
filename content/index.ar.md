@@ -1,21 +1,6 @@
 ---
-# This file represents a page section.
-headless: true
-
 title: "فلسطين: الفضاءات والسياسة"
 subtitle: "منهاج تأسيسي"
-
-# Order that this section will appear in.
-weight: 10
-
-author: admin
-#design:
-#  background:
-#    color: '#090a0b'
-#    text_color_light: true
-#    video:
-#      path:  # enter filename of a video in /assets/media
-#  css_class: fullscreen
 ---
 
 ’فلسطين: الفضاءات والسياسة’ (PSP) هو مشروع مفتوح الوصول يوفر موارداً للتعليم والبحث الناقد حول البيئات المبنية والطبيعية في فلسطين، ويأتي استجابة للطلب المتزايد على الموارد الأكاديمية عن فلسطين والتي توفر عمقاً وسياقاً يتجاوز موضوع التدمير الاستعماري المباشر. 

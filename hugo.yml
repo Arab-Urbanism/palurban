@@ -1,7 +1,22 @@
-baseURL: 'https://yamakan.place/'
+baseURL: 'https://palestine-space-politics.netlify.app/'
 languageCode: en-us
-title: 'Palestine: Space and Politics'
-theme: ananke
+title: 'Palestine: space and politics'
+copyright: 'CC-BY Arab Urbanism team'
+# theme: ananke
+
+# hugo modules 
+module:
+  hugoVersion:
+    extended: true
+    min: 0.135.0
+  imports:
+    - path: github.com/sergeyklay/gohugo-theme-ed
+
+# Localization
+
+locale:
+  date_format: '2006-01-02'
+  time_format: '15:04'
 languages:
   en:
     disabled: false
@@ -20,4 +35,33 @@ languages:
     title: ''
     weight: 0
 
+
+params:
+  tagline: 'a curriculum by Arab Urbanism'
+  description: 'a curriculum by Arab Urbanism from a spatial perspective at all scales. '
+  keywords:
+    - Palestine
+    - 'Arab Urbanism'
+    - Geography
+    - 'Urban planning'
+
+  ananke_socials:
+  - name: twitter
+    url: https://x.com/araburbanism
+  # - name: instagram
+  #   url: https://www.instagram.com/araburbanism_
+  - name: facebook
+    url: https://www.facebook.com/araburbanism
+  
+  # body_classes: 'garamond bg-near-black '
+  favicon: '/static/img/icon.png'
+  text_color: 'green'
+
+  seo:
+    publisher: 'Arab Urbanism' 
+  
+  privacy: 
+    googleTagManager:
+      disable: true 
+      respectDoNotTrack: true
 

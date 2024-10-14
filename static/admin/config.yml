@@ -1,8 +1,8 @@
-local_backend: true
 backend:
   name: github
-  branch: main # Branch to update (optional; defaults to master)
+  branch: main
   repo: majdal/palurban
+
 media_folder: static/img
 public_folder: /img
 
@@ -21,35 +21,65 @@ i18n:
   default_locale: en
 
 collections:
-  - name: 'theme'
-    label: 'Theme'
-    folder: 'content/theme'
-    media_folder: '/content/theme'
+  - name: "theme"
+    label: "Theme"
+    folder: "content/theme"
+    media_folder: "/content/theme"
     create: true
     i18n: true
-    slug: '{{slug}}'
+    slug: "{{slug}}"
     editor:
       preview: false
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Slug', name: 'slug', widget: 'string' }
-      - { label: 'Is draft', name: 'draft', widget: 'boolean' }
-      - { label: 'Weight', name: 'weight', widget: 'number' }
-      - { label: 'Tags', name: 'tags', widget: 'list' }
-      - { label: 'Last modified', name: 'lastmod', widget: 'datetime' }
-      - { label: 'Preview summary', name: 'summary', widget: 'markdown' }
-      - { label: 'Image', name: 'image', widget: 'image' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: "Title", name: "title", widget: "string", i18n: true }
+      - { label: "Slug", name: "slug", widget: "string", i18n: duplicate }
+      - {
+          label: "Is draft",
+          name: "draft",
+          widget: "boolean",
+          default: true,
+          i18n: true,
+        }
+      - {
+          label: "Weight",
+          name: "weight",
+          widget: "number",
+          required: false,
+          i18n: duplicate,
+        }
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "list",
+          required: false,
+          i18n: true,
+        }
+      - {
+          label: "Last modified",
+          name: "lastmod",
+          widget: "datetime",
+          default: "{{now}}",
+          i18n: true,
+        }
+      - {
+          label: "Preview summary",
+          name: "summary",
+          widget: "markdown",
+          required: false,
+          i18n: true,
+        }
+      - { label: "Image", name: "image", widget: "image", i18n: duplicate }
+      - { label: "Body", name: "body", widget: "markdown", i18n: true }
 
   - label: "Pages"
     name: "pages"
     i18n: true
-    files: 
+    files:
       - label: "Home page"
         name: "home"
         i18n: true
         file: "content/index.{{locale}}.md"
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Subtitle, name: subtitle, widget: string}
-          - {label: Body, name: body, widget: markdown}
+          - { label: Title, name: title, widget: string }
+          - { label: Subtitle, name: subtitle, widget: string }
+          - { label: Body, name: body, widget: markdown }
