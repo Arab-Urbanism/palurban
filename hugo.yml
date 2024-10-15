@@ -53,7 +53,8 @@ params:
   - name: facebook
     url: https://www.facebook.com/araburbanism
   
-  # body_classes: 'garamond bg-near-black '
+  # body_classes: 'ibm-plex-sans-arabic-regular bg-near-black '
+  # post_content_classes: 'ibm-plex-sans-arabic-regular'
   favicon: '/static/img/icon.png'
   text_color: 'green'
 
@@ -65,3 +66,6 @@ params:
       disable: true 
       respectDoNotTrack: true
 
+
+  custom_css: 
+    - 'custom.css'
