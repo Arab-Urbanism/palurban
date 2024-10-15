@@ -79,7 +79,7 @@ collections:
       - label: "Home page"
         name: "home"
         i18n: true
-        file: "content/index.{{locale}}.md"
+        file: "content/_index.{{locale}}.md"
         fields:
           - { label: Title, name: title, widget: string, i18n: true }
           - { label: Subtitle, name: subtitle, widget: string, i18n: true }
