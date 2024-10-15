@@ -1,20 +1,26 @@
 ---
 title: الفضاء العام والمقاومة
 slug: resistance
+draft: false
+weight: ""
 tags:
   - resistance
   - public space
   - spatial practice
+lastmod: 2024-10-14T22:48:00
+summary: ""
+image: /content/theme/publicspaceresistance.png
 ---
-
 غالبًا ما يُنظر إلى الاحتجاج الجماهيري في الفضاء العام باعتباره النمط السائد للمقاومة في الدول المعاصرة. وقد أكدت  ذلك، في 2011،  تلك الاحتجاجات الجماهيرية الثورية في كبرى الفضاءات العامة في عواصم عدة عبر أنحاء المنطقة العربية. في فلسطين، تتخلخل العلاقة المعهودة بين الفضاء العام والمقاومة بعدما أدت عقود من الاستعمار، والتخطيط القمعي، والرقابة الأمنية، خصوصاً مع استمرار قضية اللاجئين، إلى اضطراب المفاهيم حول ما يشكل "الجمهور" وتمثيله في المساحات التي تصممها وتديرها "الدولة". تُسلّط دراسة الفضاء العام والمقاومة في فلسطين الضوء على القيود والإمكانات المرتبطة بهذين المفهومين، وتوفر مصادر إلهام لأعمال المقاومة في أنماط متنوعة من المواقع.
 
 ## أسئلة رئيسية
+
 - كيف يصبح الفضاء العام موقعاً للمقاومة في سياقات الاستعمار والهيمنة؟  
 - كيف يؤدي التوسع الاستعماري عبر البيئات المبنية والطبيعية إلى زيادة مواقع المقاومة؟
 - كيف استخدم الفلسطينيون القوة المادية والرمزية لمختلف أنواع الفضاء العام لتحقيق مكاسب سياسية؟
 
 ## أمثلة رئيسية
+
 - الثورة العربية الفلسطينية (1936–1939)
 - يوم الأرض
 - الانتفاضتين الأولى والثانية
@@ -23,8 +29,8 @@ tags:
 - المقاومة في مخيمات اللاجئين
 - المقاومة ضد البنية التحتية للفصل العنصري
 
-
 ## مراجع رئيسية
+
 1. Alaqra, Ahmad. 2018. “(Un)Making Qalandia: Politicized Spatial Practices Of The Palestinian Refugee Camp.” The Funambulist Magazine, March 9, 2018. ([open-access link](https://thefunambulist.net/magazine/16-proletarian-fortresses/unmaking-qalandia-politicized-spatial-practices-palestinian-refugee-camp-ahmad-alaqra)) 
 2. Falah, Ghazi-Walid, and Colin Flint. 2004. “Geopolitical Spaces: The Dialectic of Public and Private Space in the Palestine–Israel Conflict.” The Arab World Geographer 7 (1–2): 117–34. ([open-access link](https://www.researchgate.net/profile/Colin-Flint-3/publication/292692290_Geopolitical_spaces_The_dialectic_of_public_and_private_space_in_the_Palestine-Israel_conflict/links/58a2433daca272046aafe6bd/Geopolitical-spaces-The-dialectic-of-public-and-private-space-in-the-Palestine-Israel-conflict.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19))
 3. Nasasra, Mansour. 2022. “From Damascus Gate to Shaikh Jarrah: The Palestinian Sovereignty Protests in East Jerusalem.” Protest 1 (2): 329–45. ([open-access link](https://brill.com/view/journals/prot/1/2/article-p329_006.xml))
@@ -56,10 +62,7 @@ Tamari, Salim. 2017. “The Sweet Aroma of Holy Sewage: Urban Planning and the N
 17. Totry-Fakhoury, Maisa, and Nurit Alfasi. 2018. “When Contradicting Public Space Regimes Collide: The Case of Palestinian Israeli Towns.” The Geographical Journal 184 (4): 429–42. ([link](https://rgs-ibg.onlinelibrary.wiley.com/doi/abs/10.1111/geoj.12265))
 18. Zawawi, Zahraa, Eric Corijn, and Bas Van Heur. 2013. “Public Spaces in the Occupied Palestinian Territories.” GeoJournal 78 (4): 743–58. ([link](https://link.springer.com/article/10.1007/s10708-012-9463-9))
 
-
-
 ## مواد سمعية وبصرية
 
 1. Cowan, Paul and Amer Shomali, directors. The Wanted 18. National Film Board of Canada, 2014, 1hr., 15 min. 
 2. د.م. 2017 "أبو جلدة والعرميط". د.ن. ([مصدر مفتوح الوصول](https://abujildeh.com/))
-

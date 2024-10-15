@@ -1,19 +1,24 @@
 ---
-title: Resistance in and Beyond Public Space 
+title: Resistance in and Beyond Public Space
 slug: resistance
+draft: false
+weight: ""
 tags:
   - resistance
-
+lastmod: 2024-10-14T22:48:00
+summary: ""
+image: /content/theme/publicspaceresistance.png
 ---
-
 Mass protest in public space is often situated as the normative mode of resistance in contemporary states. This was emphasized in 2011 when mass revolutionary protest emerged in large-scale public spaces in capital cities across the Arab region. In Palestine, this overlap of public space and resistance is interrupted. Decades of colonization, oppressive planning and policing, and the perpetuation of the refugee question have troubled notions of what constitutes the “public” and its representation in spaces designed and managed by the “state”. Studying public space and resistance in Palestine sheds light on the limitations and potentials of coupling these concepts, while providing inspiration for resistance acts in varied site types. 
 
 ## Key Questions
+
 - In what ways is public space a site of resistance in contexts of colonization and domination?
 - How does colonial expansion, through the built and natural environments, multiply sites of resistance? 
 - How have Palestinians used the material and symbolic power of different kinds of public space to make political claims? 
 
 ## Key Cases
+
 - Palestine Arab Revolt (1936–1939)
 - Land Day
 - 1st and 2nd Intifadas
@@ -23,12 +28,12 @@ Mass protest in public space is often situated as the normative mode of resistan
 - Resistance on apartheid infrastructure
 
 ## Key Resources
+
 1. Alaqra, Ahmad. 2018. “(Un)Making Qalandia: Politicized Spatial Practices Of The Palestinian Refugee Camp.” The Funambulist Magazine, March 9, 2018. ([open-access link](https://thefunambulist.net/magazine/16-proletarian-fortresses/unmaking-qalandia-politicized-spatial-practices-palestinian-refugee-camp-ahmad-alaqra)) 
 2. Falah, Ghazi-Walid, and Colin Flint. 2004. “Geopolitical Spaces: The Dialectic of Public and Private Space in the Palestine–Israel Conflict.” The Arab World Geographer 7 (1–2): 117–34. ([open-access link](https://www.researchgate.net/profile/Colin-Flint-3/publication/292692290_Geopolitical_spaces_The_dialectic_of_public_and_private_space_in_the_Palestine-Israel_conflict/links/58a2433daca272046aafe6bd/Geopolitical-spaces-The-dialectic-of-public-and-private-space-in-the-Palestine-Israel-conflict.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19))
 3. Nasasra, Mansour. 2022. “From Damascus Gate to Shaikh Jarrah: The Palestinian Sovereignty Protests in East Jerusalem.” Protest 1 (2): 329–45. ([open-access link](https://brill.com/view/journals/prot/1/2/article-p329_006.xml))
 4. تماري، سليم.2012. أم الغريب: تخطيط المدن وتطور الحيِّز العام في فلسطين العثمانية. حوليات القدس. 13. 26-46. ([مصدر مفتوح الوصول](https://store.palestine-studies.org/sites/default/files/hq-articles/11464.pdf)) //// **ENGLISH VERSION**
 Tamari, Salim. 2017. “The Sweet Aroma of Holy Sewage: Urban Planning and the New Public Space in Palestine.” In The Great War and the Remaking of Palestine. Berkeley, CA: University of California Press, 38-66. ([link](https://www.ucpress.edu/book/9780520291263/the-great-war-and-the-remaking-of-palestine)) 
-
 
 ## Further Resources 
 
@@ -53,10 +58,7 @@ Tamari, Salim. 2017. “The Sweet Aroma of Holy Sewage: Urban Planning and the N
 17. Totry-Fakhoury, Maisa, and Nurit Alfasi. 2018. “When Contradicting Public Space Regimes Collide: The Case of Palestinian Israeli Towns.” The Geographical Journal 184 (4): 429–42. ([link](https://rgs-ibg.onlinelibrary.wiley.com/doi/abs/10.1111/geoj.12265))
 18. Zawawi, Zahraa, Eric Corijn, and Bas Van Heur. 2013. “Public Spaces in the Occupied Palestinian Territories.” GeoJournal 78 (4): 743–58. ([link](https://link.springer.com/article/10.1007/s10708-012-9463-9))
 
-
-
 ## Audiovisual Material
 
 1. Cowan, Paul and Amer Shomali, directors. The Wanted 18. National Film Board of Canada, 2014, 1hr., 15 min. 
 2. د.م. 2017 "أبو جلدة والعرميط". د.ن. ([مصدر مفتوح الوصول](https://abujildeh.com/))
-
