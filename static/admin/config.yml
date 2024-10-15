@@ -85,3 +85,30 @@ collections:
           - { label: Subtitle, name: subtitle, widget: string, i18n: true }
           - { label: Image, name: image, widget: image, i18n: duplicate }
           - { label: Body, name: body, widget: markdown, i18n: true }
+      - label: "Themes list"
+        name: "theme"
+        i18n: true
+        file: "content/theme/_index.{{locale}}.md"
+        fields:
+          - { label: Title, name: title, widget: string, i18n: true }
+          - {
+              label: Subtitle,
+              name: subtitle,
+              widget: string,
+              i18n: true,
+              required: false,
+            }
+          - {
+              label: Image,
+              name: image,
+              widget: image,
+              i18n: duplicate,
+              required: false,
+            }
+          - {
+              label: Body,
+              name: body,
+              widget: markdown,
+              i18n: true,
+              required: false,
+            }
