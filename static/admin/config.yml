@@ -2,6 +2,7 @@ backend:
   name: github
   branch: main
   repo: majdal/palurban
+  base_url: https://sveltia-cms-auth.majd-al.workers.dev
 
 media_folder: static/img
 public_folder: /img
