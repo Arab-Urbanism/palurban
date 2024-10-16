@@ -23,14 +23,14 @@ languages:
     languageCode: en
     languageDirection: ltr
     languageName: English
-    title: ''
+    title: 'Palestine: space and politics'
     weight: 0
   ar:
     disabled: false
     languageCode: ar
     languageDirection: rtl
     languageName: عربي
-    title: ''
+    title: 'فلسطين: الفضاءات والسياسة'
     weight: 1
 
 

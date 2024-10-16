@@ -18,11 +18,11 @@
       {{end}}
     </header>
     {{ end }}
-    <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "plex"}} f4 nested-links {{ $.Param "text_color" | default "mid-gray" }} {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl4-l" "pr4-l" }} w-two-thirds-l">
+    <div class="nested-copy-line-height lh-copy plex {{ $.Param "post_content_classes"  | default ""}} f4 nested-links {{ $.Param "text_color" | default "mid-gray" }} {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl4-l" "pr4-l" }} w-two-thirds-l">
       {{- .Content -}}
       <!-- {{- partial "tags.html" . -}} -->
     </div>
-    <div class="">
+    <div class="w-third">
       {{- partial "theme-list.html" . -}}
     </div>
   </article>
