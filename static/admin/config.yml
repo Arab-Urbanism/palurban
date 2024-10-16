@@ -62,14 +62,20 @@ collections:
           default: "{{now}}",
           i18n: true,
         }
+      # - {
+      #     label: "Preview summary",
+      #     name: "summary",
+      #     widget: "markdown",
+      #     required: false,
+      #     i18n: true,
+      #   }
       - {
-          label: "Preview summary",
-          name: "summary",
-          widget: "markdown",
+          label: "Image",
+          name: "featured_image",
+          widget: "image",
+          i18n: duplicate,
           required: false,
-          i18n: true,
         }
-      - { label: "Image", name: "featured_image", widget: "image", i18n: duplicate }
       - { label: "Body", name: "body", widget: "markdown", i18n: true }
 
   - label: "Pages"
@@ -82,8 +88,14 @@ collections:
         file: "content/_index.{{locale}}.md"
         fields:
           - { label: Title, name: title, widget: string, i18n: true }
-          - { label: Subtitle, name: subtitle, widget: string, i18n: true }
-          - { label: Image, name: featured_image, widget: image, i18n: duplicate }
+          - { label: Subtitle, name: description, widget: string, i18n: true }
+          - {
+              label: Image,
+              name: featured_image,
+              widget: image,
+              i18n: duplicate,
+              required: false,
+            }
           - { label: Body, name: body, widget: markdown, i18n: true }
       - label: "Themes list"
         name: "theme"
