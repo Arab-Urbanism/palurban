@@ -18,9 +18,9 @@
     {{ range where .Site.RegularPages "Section" "theme" }}
       <li class="f2 pv2">
         <a href="{{ .RelPermalink }}" class="link dim black underline-hover">{{ .Title }}</a>
-        {{ with resources.Get .Params.featured_image }}
+        <!-- {{ with resources.Get .Params.featured_image }}
           <img src="{{ .RelPermalink }}">
-        {{ end }}
+        {{ end }} -->
       </li>
     {{ end }}
     </ul>
