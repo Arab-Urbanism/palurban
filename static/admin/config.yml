@@ -25,7 +25,8 @@ collections:
   - name: "theme"
     label: "Theme"
     folder: "content/theme"
-    media_folder: "/content/theme"
+    media_folder: "/assets/theme"
+    public_folder: "/theme"
     create: true
     i18n: true
     slug: "{{slug}}"
