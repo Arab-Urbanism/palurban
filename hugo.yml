@@ -43,13 +43,13 @@ params:
     - Geography
     - 'Urban planning'
 
-  ananke_socials:
-  - name: twitter
-    url: https://x.com/araburbanism
-  # - name: instagram
-  #   url: https://www.instagram.com/araburbanism_
-  - name: facebook
-    url: https://www.facebook.com/araburbanism
+  # ananke_socials:
+  # - name: twitter
+  #   url: https://x.com/araburbanism
+  # # - name: instagram
+  # #   url: https://www.instagram.com/araburbanism_
+  # - name: facebook
+  #   url: https://www.facebook.com/araburbanism
   
   # body_classes: 'ibm-plex-sans-arabic-regular bg-near-black '
   # post_content_classes: 'ibm-plex-sans-arabic-regular'

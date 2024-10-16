@@ -1,0 +1,11 @@
+{{ $related := .Site.RegularPages.Related . | first 15 }}
+{{ with $related }}
+<h3 class="f3">{{ T "explore_themes"}} </h3>
+<ul class="list ph0">
+    {{ range . }}
+    <li class="f2 pv2">
+        <a href="{{ .RelPermalink }}" class="link dim black underline-hover">{{ .Title }}</a>
+    </li>
+    {{ end }}
+</ul>
+{{ end }}

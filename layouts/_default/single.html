@@ -5,7 +5,6 @@
 {{ define "main" }}
   {{ $section := .Site.GetPage "section" .Section }}
   <article class="flex-l flex-wrap justify-between mw8 center ph3">
-    
     {{ $featured_image := partial "func/GetFeaturedImage.html" . }}
     {{ if not $featured_image }}
     <header class="mt4 w-100">
@@ -22,6 +21,9 @@
     <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "plex"}} f4 nested-links {{ $.Param "text_color" | default "mid-gray" }} {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl4-l" "pr4-l" }} w-two-thirds-l">
       {{- .Content -}}
       <!-- {{- partial "tags.html" . -}} -->
+    </div>
+    <div class="">
+      {{- partial "theme-list.html" . -}}
     </div>
   </article>
 {{ end }}
