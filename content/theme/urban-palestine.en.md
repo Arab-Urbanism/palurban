@@ -1,7 +1,7 @@
 ---
 title: Urban Palestine
 slug: urban-palestine
-draft: true
+draft: false
 weight: ""
 tags: []
 lastmod: 2024-10-15T22:32:00
