@@ -1,0 +1,23 @@
+{{ define "header" }}
+  {{ partial "page-header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+  {{ $section := .Site.GetPage "section" .Section }}
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      <h1 class="f1 mt3 mb1">
+        {{- .Title -}}
+      </h1>
+      {{ if not .Lastmod.IsZero }}
+      <time class="f6 mv4 dib tracked plex" {{ printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }}>
+        {{T "last_modified" }}: {{- .Lastmod | time.Format (default "2006-01-02" .Site.Params.date_format) -}}
+      </time>
+      {{end}}
+    </header>
+    <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "plex"}} f4 nested-links {{ $.Param "text_color" | default "mid-gray" }} {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl4-l" "pr4-l" }} w-two-thirds-l">
+      {{- .Content -}}
+      <!-- {{- partial "tags.html" . -}} -->
+    </div>
+  </article>
+{{ end }}
