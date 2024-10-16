@@ -69,7 +69,7 @@ collections:
           required: false,
           i18n: true,
         }
-      - { label: "Image", name: "image", widget: "image", i18n: duplicate }
+      - { label: "Image", name: "featured_image", widget: "image", i18n: duplicate }
       - { label: "Body", name: "body", widget: "markdown", i18n: true }
 
   - label: "Pages"
@@ -83,7 +83,7 @@ collections:
         fields:
           - { label: Title, name: title, widget: string, i18n: true }
           - { label: Subtitle, name: subtitle, widget: string, i18n: true }
-          - { label: Image, name: image, widget: image, i18n: duplicate }
+          - { label: Image, name: featured_image, widget: image, i18n: duplicate }
           - { label: Body, name: body, widget: markdown, i18n: true }
       - label: "Themes list"
         name: "theme"
@@ -100,7 +100,7 @@ collections:
             }
           - {
               label: Image,
-              name: image,
+              name: featured_image,
               widget: image,
               i18n: duplicate,
               required: false,

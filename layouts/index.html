@@ -1,6 +1,6 @@
 {{ define "main" }}
 <div class="flex-l mt2 mw8 center">
-  <article class="center cf pv5 ph3 ph4-ns mw10">
+  <article class="center cf pv1 ph3 ph4-ns mw10">
     <header>
       <!-- <h1 class="f1">
           {{ .Title }} 
@@ -10,14 +10,16 @@
       {{ .Content }}
     </div>
   </article>
-  <section class="center cf pv5 ph3 ph4-ns mw10">
-    <h4>{{ T "explore_themes" }}</h4>
-    <ul>
-      {{ range where .Site.RegularPages "Section" "theme" }}
-      <li>
-        <a href="{{.Permalink}}">{{.Title}}</a>
+</div>
+<div class="flex-l mt2 mw8 center">
+  <section class="cf pv1 ph3  mw10">
+    <h2 class="f1 center">{{ T "explore_themes" }}</h2>
+    <ul class="list pa0 plex">
+    {{ range where .Site.RegularPages "Section" "theme" }}
+      <li class="f2 pv2">
+        <a href="{{ .RelPermalink }}" class="link dim black underline-hover">{{ .Title }}</a>
       </li>
-      {{ end }}
+    {{ end }}
     </ul>
   </section>
 </div>
