@@ -7,7 +7,7 @@ tags:
   - resistance
 lastmod: 2024-10-14T22:48:00
 summary: ""
-image: /content/theme/publicspaceresistance.png
+featured_image: /theme/publicspaceresistance.png
 ---
 Mass protest in public space is often situated as the normative mode of resistance in contemporary states. This was emphasized in 2011 when mass revolutionary protest emerged in large-scale public spaces in capital cities across the Arab region. In Palestine, this overlap of public space and resistance is interrupted. Decades of colonization, oppressive planning and policing, and the perpetuation of the refugee question have troubled notions of what constitutes the “public” and its representation in spaces designed and managed by the “state”. Studying public space and resistance in Palestine sheds light on the limitations and potentials of coupling these concepts, while providing inspiration for resistance acts in varied site types. 
 
