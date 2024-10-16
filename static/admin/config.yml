@@ -98,6 +98,27 @@ collections:
               required: false,
             }
           - { label: Body, name: body, widget: markdown, i18n: true }
+      - label: "About us"
+        name: "about"
+        i18n: true
+        file: "content/about/_index.{{locale}}.md"
+        fields:
+          - { label: Title, name: title, widget: string, i18n: true }
+          - {
+              label: Subtitle,
+              name: description,
+              widget: string,
+              i18n: true,
+              required: false,
+            }
+          - {
+              label: Image,
+              name: featured_image,
+              widget: image,
+              i18n: duplicate,
+              required: false,
+            }
+          - { label: Body, name: body, widget: markdown, i18n: true }
       - label: "Themes list"
         name: "theme"
         i18n: true
