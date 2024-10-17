@@ -98,10 +98,10 @@ collections:
               required: false,
             }
           - { label: Body, name: body, widget: markdown, i18n: true }
-      - label: "About us"
-        name: "about"
+      - label: "Contact"
+        name: "contact"
         i18n: true
-        file: "content/about/_index.{{locale}}.md"
+        file: "content/contact/_index.{{locale}}.md"
         fields:
           - { label: Title, name: title, widget: string, i18n: true }
           - {

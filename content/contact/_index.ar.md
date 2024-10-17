@@ -1,7 +1,6 @@
 ---
 menu: ["main", "footer"]
-title: "About us"
+title: "للتواصل"
 ---
 
-# Contact us here
 {{< form-contact action="https://formspree.io/your@email.com" >}}
