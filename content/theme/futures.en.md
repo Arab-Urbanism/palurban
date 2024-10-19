@@ -7,7 +7,7 @@ tags:
   - futures
   - forecasting
   - backcasting
-lastmod: 2024-10-13T22:18:00
+lastmod: 2024-10-19T15:25:00
 featured_image: /theme/futures.jpeg
 summary: The future of Palestine
 ---
