@@ -54,7 +54,7 @@ params:
   # - name: facebook
   #   url: https://www.facebook.com/araburbanism
     - name: rss
-      url: https://palestine.araburbanism.com/index.xml
+      url: https://palestine.araburbanism.com/theme/index.xml
   
   # body_classes: 'ibm-plex-sans-arabic-regular bg-near-black '
   # post_content_classes: 'ibm-plex-sans-arabic-regular'
