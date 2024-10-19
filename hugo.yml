@@ -1,7 +1,7 @@
 baseURL: 'https://palestine.araburbanism.com/'
 languageCode: en-us
 title: 'Palestine: space and politics'
-copyright: 'CC-BY Arab Urbanism team'
+copyright: 'Arab Urbanism team. All content is licensed under Creative Commons attribution license (CC BY 4.0)'
 theme: ananke
 
 # hugo modules 
@@ -43,17 +43,20 @@ params:
     - Geography
     - 'Urban planning'
 
-  # ananke_socials:
+  ananke_socials:
   # - name: twitter
   #   url: https://x.com/araburbanism
   # # - name: instagram
   # #   url: https://www.instagram.com/araburbanism_
   # - name: facebook
   #   url: https://www.facebook.com/araburbanism
+    - name: rss
+      url: https://palestine.araburbanism.com/index.xml
   
   # body_classes: 'ibm-plex-sans-arabic-regular bg-near-black '
   # post_content_classes: 'ibm-plex-sans-arabic-regular'
-  favicon: '/static/img/icon.png'
+  favicon: '/img/favicon.ico'
+  icon: '/img/icon.png'
   # text_color: 'green'
 
   seo:
