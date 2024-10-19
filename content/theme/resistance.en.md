@@ -1,5 +1,5 @@
 ---
-title: Resistance in and Beyond Public Spaces
+title: Public Space and Resistance
 slug: resistance
 draft: false
 weight: ""
