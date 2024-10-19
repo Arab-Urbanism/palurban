@@ -2,7 +2,7 @@ backend:
   name: github
   branch: main
   repo: Arab-Urbanism/palurban
-  base_url: https://palestine-space-politics-auth.majd-al.workers.dev
+  base_url: https://sveltia-cms-auth.majd-al.workers.dev/
 
 media_folder: static/img
 public_folder: /img
