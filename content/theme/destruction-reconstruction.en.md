@@ -8,25 +8,25 @@ tags:
 lastmod: 2024-10-20T18:47:00
 featured_image: /theme/Destruction and reconstruction.jpg
 ---
-Today, as the world continues to watch the mass destruction of Gaza, questions of reconstruction emerge again, reflecting more than a century marked by destruction, writing and rewriting of history in Palestine. The settler colonial system has destroyed hundreds of Palestinian villages, educational centres, archives, and universities, changed streets’ and villages’ names, and continues to forcibly evict Palestinians from their homes and cities. This material and symbolic erasure has been used by Israel as a tool to uproot Palestinians and their heritage from their homeland. Millions of Palestinian refugees remain scattered around the world with no right to return even to the ruins of their homes and commemorate the Nakba. Despite the scale of this loss and injury, Palestine teaches us- geographers, architects and urban planners -to rethink the politics and aims of reconstruction towards imagining a free and just future that connects Palestinians within their own country, as well as Palestinians in diaspora. But where to start without an end of colonisation?
+Today, as the world continues to watch the mass destruction of Gaza, questions of reconstruction emerge again, reflecting more than a century marked by destruction, writing and rewriting of history in Palestine. The settler colonial system has destroyed hundreds of Palestinian villages, educational centers, archives, and universities, changed streets’ and villages’ names, and continues to forcibly evict Palestinians from their homes and cities. This material and symbolic erasure has been used by Israel as a tool to uproot Palestinians and their heritage from their homeland. Millions of Palestinian refugees remain scattered around the world with no right to return even to the ruins of their homes and commemorate the Nakba. Despite the scale of this loss and injury, Palestine teaches us- geographers, architects and urban planners -to rethink the politics and aims of reconstruction towards imagining a free and just future that connects Palestinians within their own country, as well as Palestinians in diaspora. But where to start without an end of colonization?
 
 ## Key Questions
 
-- How have cities and villages in Palestine been impacted by cycles of destruction?
+- How have Palestinian cities,villages and refugee camps been impacted by cycles of destruction?
 - What is reconstruction in the context of Palestine? And how can we deconstruct reconstruction so that it moves beyond its materiality?
 - How could reconstruction create a future that connects with the dark histories of destruction rather than divorcing from it?
 - What is the role of cultural heritage in the process of reconstruction?
-- Reconstruction of cities requires the involvement of several stakeholders. What are the politics of reconstruction? How can local communities remain central in the future reconstruction? 
+- Reconstruction of cities requires the involvement of several stakeholders. What are the politics of reconstruction? How can local communities remain central in the future reconstruction?
 
 ## Key Cases
 
-- Cycles of destruction and reconstruction in Gaza.
-- Demolition of Palestinian’s villages during and after the 1948 Nakba.
-- Israel’s unlawful displacement and house demolition in the West Bank.
-- Reconstruction of housing in Gaza 1993-2000.
-- Reconstruction of memory in exile: archive reconstruction.
-- Refugee camps reconstruction (Jenin and Nahr al-Bared refugee camps).
-- The Competition for the Reconstruction of Destroyed Palestinian Villages. ([open-access link](https://www.plands.org/en/competition-news)).
+- Cycles of destruction and reconstruction in Gaza
+- Demolition of Palestinian’s villages during and after the 1948 Nakba
+- Israel’s unlawful displacement and house demolition in the West Bank and an-Naqab
+- Reconstruction of housing in Gaza 1993-2000
+- Reconstruction of memory in exile: archive reconstruction
+- Refugee camps reconstruction (Jenin and Nahr al-Bared refugee camps)
+- The Competition for the Reconstruction of Destroyed Palestinian Villages. ([open-access link](https://www.plands.org/en/competition-news))
 
 ## Key Resources
 
