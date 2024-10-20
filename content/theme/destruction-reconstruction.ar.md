@@ -36,11 +36,9 @@ featured_image: /theme/Destruction and reconstruction.jpg
 4. أبو سعادة، ندي. 2024. "إعادة الإعمار ومشروعنا التحرري." مؤسسة الدراسات الفلسطينية. أبريل 17، 2024. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/1655449))
 5. بشارة، خلدون. 2024. " تربية الأمل: نفعل في غزة ما يفعله العاطلون عن العمل." مجلة الدراسات الفلسطينية، 137 (شتاء):46 - 51. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/1654963))
 
-----------------------
-
 ## مراجع أخرى
 
-*الرجاء التواصل معنا للوصول لأي من المصادر التالية.*
+*الرجاء [التواصل معنا](https://palestine.araburbanism.com/ar/contact/) للوصول لأي من المصادر التالية.*
 
 1. Abujidi, Nurhan. 2014. Urbicide in Palestine: Spaces of Oppression and Resilience. London. New York: Routledge. ([link](https://www.taylorfrancis.com/books/mono/10.4324/9781315819099/urbicide-palestine-nurhan-abujidi))
 2. Amiry, Suad and Khaldun Bshara, eds. 2015. Reclaiming Space: The Rehabilitation of 50 Villages in Rural Palestine. Ramallah: Riwaq. (open-access link) pdf from Riwaq
