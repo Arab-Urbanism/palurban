@@ -11,6 +11,6 @@ draft: false
 
 تم إعداد منهاج ’فلسطين: الفضاءات والسياسة’ من قبل مجموعة من الجغرافيين والمعماريين والمخططين الحضريين الملتزمين بدراسة فلسطين ضمن السياقات الإقليمية والعالمية، والمتأثرين باستعمار واحتلال أراضيهم، وتدمير مدنهم وقراهم، والتهجير من بلدانهم، وهم جزء من فريق [العمران العربي](https://www.araburbanism.com/ar/home/).
 
-نحن [دينا قدّومي](https://www.lse.ac.uk/sociology/people/Dena-Qaddumi) (منسقة)، وندي أبو سعادة، و[مجد الشهابي](https://majdal.cc)، وسامية حنّي، و[لانا جودة](https://birzeit.academia.edu/LanaJudeh)، وعمر جعبري سلامنكا، وفايق مرعي، و[عمّار عزّوز](https://www.geog.ox.ac.uk/staff/aazzouz.html)، و[آية نصّار](https://warwick.ac.uk/fac/soc/pais/people/nassar/).
+نحن [دينا قدّومي](https://www.lse.ac.uk/sociology/people/Dena-Qaddumi) (منسقة)، و[ندي أبو سعادة](https://www.nadiabusaada.com)، و[مجد الشهابي](https://majdal.cc)، و[سامية حنّي](https://www.samiahenni.com)، و[لانا جودة](https://birzeit.academia.edu/LanaJudeh)، وعمر جعبري سلامنكا، وفايق مرعي، و[عمّار عزّوز](https://www.geog.ox.ac.uk/staff/aazzouz.html)، و[آية نصّار](https://warwick.ac.uk/fac/soc/pais/people/nassar/).
 
 أخيراً، نود أن نعرب عن خالص شكرنا لمركز [رواق](https://www.riwaq.org/ar) و [مؤسسة الدراسات الفلسطينية](https://www.palestine-studies.org/ar) على توفير إمكانية الوصول إلى فصول مختارة من بعض منشوراتهم.
