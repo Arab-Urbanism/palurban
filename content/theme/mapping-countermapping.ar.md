@@ -32,22 +32,9 @@ featured_image: /theme/mapping-counter-mapping.png
 3. Al-Shihabi, Majd & Tahir, Madiha . 2019, December 16. Which Digital Instruments for the Revolution? THE FUNAMBULIST MAGAZINE, 27. [https://thefunambulist.net/magazine/27-learning-with-palestine/which-digital-instruments-for-the-revolution-madiha-tahir-majd-al-shihabi](https://thefunambulist.net/magazine/27-learning-with-palestine/which-digital-instruments-for-the-revolution-madiha-tahir-majd-al-shihabi) [Open Access]
 4. Anani, Yazid. 2020, “The Potter, the Poet, and Storytelling: Palestine from Above 2” *Jerusalem Quarterly*, Issue 82, Summer 2020 [https://www.palestine-studies.org/en/node/1650280](https://www.palestine-studies.org/en/node/1650280)   [Open Access]بالعربيّة: الخزّاف، الشاعر، وسرد الحكاي: https://www.palestine-studies.org/ar/node/1650280 
 
-----------------------
-
 ## مراجع أخرى
 
-## 
-
-1. Agha, Zena. 2020. “Maps, Technology, & Decolonial Spatial Practices in Palestine.” *Al-Shabaka*, January 14, 2020. ([open-access link](https://al-shabaka.org/briefs/maps-technology-and-decolonial-spatial-practices-in-palestine/)) **/// بالعربيّة:**  الآغا، زينة. 2020. "الخرائط والتكنولوجيا والممارسات المكانية لإنهاء الاستعمار في فلسطين." الشبكة، يناير 14، 2020. ([مصدر مفتوح الوصول](https://al-shabaka.org/briefs/%D8%A7%D9%84%D8%AE%D8%B1%D8%A7%D8%A6%D8%B7-%D9%88%D8%A7%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D9%85%D9%85%D8%A7%D8%B1%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%83%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D8%A5%D9%86%D9%87%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B9%D9%85%D8%A7%D8%B1-%D9%81%D9%8A-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86/))
-2. Bier, Jess. 2017. “Palestinian State Maps and Imperial Technologies of Staying Put.” *Public Culture*; 29 (1): 53–78. ([open-access link](https://jessbier.org/wp-content/uploads/2016/02/public-culture-2017-bier-53-78.pdf))
-3. Al-Shihabi, Majd, and Madiha Tahir. 2019. “Which Digital Instruments for the Revolution?” *The Funambulist Magazine* 27, December 16, 2019. ([open-access link](https://thefunambulist.net/magazine/27-learning-with-palestine/which-digital-instruments-for-the-revolution-madiha-tahir-majd-al-shihabi))
-4. Anani, Yazid. 2020. “The Potter, the Poet, and Storytelling: Palestine from Above 2” *Jerusalem Quarterly*, 82: 3-8. ([open-access link](https://www.palestine-studies.org/en/node/1650280))
-
-----------------------
-
-## Further Readings
-
-*الرجاء [التواصل معنا](/ar/contact/) للوصول لأي من المصادر التالية.*
+*الرجاء [التواصل معنا](https://palestine.araburbanism.com/ar/contact/) للوصول لأي من المصادر التالية.*
 
 1. Abusaada, Nadi. 2020. “Combined Action: Aerial Imagery and the Urban Landscape in Interwar Palestine, 1918-40.” *Jerusalem Quarterly* 81: 20-36. ([open-access link](https://www.palestine-studies.org/en/node/1650011)) /// **بالعربيّة:** أبو سعادة، ندي. 2020. "عمل مشترك: التصوير الجوّيّ والمشهد الحضريّ في فلسطين بين الحربين العالميتين." فصلية القدس، 81-82 (ربيع): 17-30. ([مصدر مفتوح الوصول](https://qattanfoundation.org/sites/default/files/jq_81-82_arabic_book-16.pdf))
 2. Abu Sitta, Salman. 2016. *Mapping my Return: A Palestinian Memoir.* Cairo: American University in Cairo Press. ([WorldCat link](https://search.worldcat.org/title/952421431))
