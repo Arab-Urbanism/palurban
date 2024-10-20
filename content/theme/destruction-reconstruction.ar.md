@@ -1,12 +1,12 @@
 ---
 title: التدمير وإعادة الإعمار
 slug: destruction-reconstruction
+draft: false
+weight: ""
 tags:
   - reconstruction
-
+lastmod: 2024-10-20T18:47:00
 ---
-
-
 في حين يواصل العالم اليوم مشاهدة التدمير ‏الهائل في غزة، تظهر أسئلة إعادة الإعمار مجدداً لتدفع بالتفكير فيما يزيد عن قرن من الزمان  شهدت فيه فلسطين دورات من التدمير و كتابة وإعادة كتابة التاريخ. دمّرت منظومة الاستعمار الاستيطاني مئات القرى الفلسطينية، ومراكز تعليمية، وأرشيفات، وجامعات وقامت أيضاً بتغيير أسماء الشوارع والقرى في حين يستمر التهجير القسري للفلسطينيين من بيوتهم ومدنهم. وقد استخدمت إسرائيل هذا المحو المادي والمعنوي كأداة لاقتلاع الفلسطينيين وتراثهم من موطنهم، ولا يزال ملايين اللاجئين الفلسطينيين مشتتين في أنحاء العالم من دون الحق في العودة حتى إلى أطلال منازلهم، أو لإحياء ذكرى النكبة. ولكن بالرغم من حجم الخسارة والجراح، تُعلّمنا فلسطين كجغرافيين، معماريين، ومخططين عمرانيين، أن نعيد التفكير في سياسات وأهداف إعادة الإعمار في شكل يسمح لنا بتخيل مستقبل عادل وحرّ؛ مستقبل يسمح للفلسطينيين بالتواصل مع وطنهم وأيضا مع فلسطينيّ المهجر. ولكن من أين نبدأ بدون إنهاء الاستعمار؟
 
 ## أسئلة رئيسية
@@ -27,8 +27,8 @@ tags:
 - إعادة إعمار مخيمات اللاجئين (مخيمي جنين ونهر البارد).
 - مسابقة إعادة إعمار القرى الفلسطينية المدمرة. ([مصدر مفتوح الوصول](https://www.plands.org/en/competition-news)).
 
-
 ## مراجع رئيسية
+
 1. Ahmad, Nadia N. 2011. “Gaza: a case study of urban destruction through military involvement.” Master Thesis, The Temple University. ([open-access link](https://scholarshare.temple.edu/bitstream/handle/20.500.12613/645/Ahmad_temple_0225M_10714.pdf?sequence=1&isAllowed=y))
 2. Al-Haq. 2012. Escalation in Forcible Transfer and Demolitions in Area C. Palestinian Human Rights Organizations’ Council, September 28, 2012. ([open-access link](https://docslib.org/doc/2743276/escalation-in-forcible-transfer-and-demolitions-in-area-c-al-haq-on))
 3. Khalidi, Walid, ed. 1992. All That Remains: The Palestinian Villages Occupied and Depopulated by Israel in 1948. Washington DC: The Institute for Palestine Studies. ([link](https://www.palestine-studies.org/en/node/1649445)) //// **بالعربية**  الخالدي، وليد، محرر، كي لا ننسى: قرى فلسطين التي دمرتها إسرائيل سنة 1948 وأسماء شهدائها. ترجمة حسني زينة. واشنطن: مؤسسة الدراسات الفلسطينية. ([مصدر مفتوح الوصول)](https://archive.org/details/1948_20221204/page/n9/mode/2up)
@@ -57,10 +57,6 @@ tags:
 14. أمارة، أحمد. 2018. "أم الحيران نموذج لتهجير وإعادة تهجير عرب النقب." مجلة الدراسات الفلسطينية، 114 (ربيع): 76 – 85. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/228128))
 15. سالم، يارا. 2024. سياسة الدعم والتمويل الغربية: ما قبل، والآن، وما بعد." مجلة الدراسات الفلسطينية، 137 (شتاء):220 - 226. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/1654964)).
 16. طه، لبنى، وباسل نصر. 2023. " أطفال يعيدون بناء مدرستهم عبر فن الرسوم المتحركة." مؤسسة الدراسات الفلسطينية. مارس 21، 2023. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/1653752)).
-
-
-
-
 
 ## مواد سمعية وبصرية
 

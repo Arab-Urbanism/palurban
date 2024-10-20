@@ -1,20 +1,24 @@
 ---
-title: "Destruction and Reconstruction"
+title: Destruction and Reconstruction
 slug: destruction-reconstruction
+draft: false
+weight: ""
 tags:
   - reconstruction
-
+lastmod: 2024-10-20T18:47:00
 ---
-
 Today, as the world continues to watch the mass destruction of Gaza, questions of reconstruction emerge again, reflecting more than a century marked by destruction, writing and rewriting of history in Palestine. The settler colonial system has destroyed hundreds of Palestinian villages, educational centres, archives, and universities, changed streets’ and villages’ names, and continues to forcibly evict Palestinians from their homes and cities. This material and symbolic erasure has been used by Israel as a tool to uproot Palestinians and their heritage from their homeland. Millions of Palestinian refugees remain scattered around the world with no right to return even to the ruins of their homes and commemorate the Nakba. Despite the scale of this loss and injury, Palestine teaches us- geographers, architects and urban planners -to rethink the politics and aims of reconstruction towards imagining a free and just future that connects Palestinians within their own country, as well as Palestinians in diaspora. But where to start without an end of colonisation?
 
 ## Key Question
+
 - How have cities and villages in Palestine been impacted by cycles of destruction?
 - What is reconstruction in the context of Palestine? And how can we deconstruct reconstruction so that it moves beyond its materiality?
 - How could reconstruction create a future that connects with the dark histories of destruction rather than divorcing from it?
 - What is the role of cultural heritage in the process of reconstruction?
 - Reconstruction of cities requires the involvement of several stakeholders. What are the politics of reconstruction? How can local communities remain central in the future reconstruction? 
+
 ## Key Cases
+
 - Cycles of destruction and reconstruction in Gaza.
 - Demolition of Palestinian’s villages during and after the 1948 Nakba.
 - Israel’s unlawful displacement and house demolition in the West Bank.
@@ -24,12 +28,12 @@ Today, as the world continues to watch the mass destruction of Gaza, questions o
 - The Competition for the Reconstruction of Destroyed Palestinian Villages. ([open-access link](https://www.plands.org/en/competition-news)).
 
 ## Key References
+
 1. Ahmad, Nadia N. 2011. “Gaza: a case study of urban destruction through military involvement.” Master Thesis, The Temple University. ([open-access link](https://scholarshare.temple.edu/bitstream/handle/20.500.12613/645/Ahmad_temple_0225M_10714.pdf?sequence=1&isAllowed=y))
 2. Al-Haq. 2012. Escalation in Forcible Transfer and Demolitions in Area C. Palestinian Human Rights Organizations’ Council, September 28, 2012. ([open-access link](https://docslib.org/doc/2743276/escalation-in-forcible-transfer-and-demolitions-in-area-c-al-haq-on))
 3. Khalidi, Walid, ed. 1992. All That Remains: The Palestinian Villages Occupied and Depopulated by Israel in 1948. Washington DC: The Institute for Palestine Studies. ([link](https://www.palestine-studies.org/en/node/1649445)) //// **بالعربية**  الخالدي، وليد، محرر، كي لا ننسى: قرى فلسطين التي دمرتها إسرائيل سنة 1948 وأسماء شهدائها. ترجمة حسني زينة. واشنطن: مؤسسة الدراسات الفلسطينية. ([مصدر مفتوح الوصول)](https://archive.org/details/1948_20221204/page/n9/mode/2up)
 4. أبو سعادة، ندي. 2024. "إعادة الإعمار ومشروعنا التحرري." مؤسسة الدراسات الفلسطينية. أبريل 17، 2024. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/1655449))
 5. بشارة، خلدون. 2024. " تربية الأمل: نفعل في غزة ما يفعله العاطلون عن العمل." مجلة الدراسات الفلسطينية، 137 (شتاء):46 - 51. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/1654963))
-
 
 ----------------------
 
@@ -53,9 +57,6 @@ Today, as the world continues to watch the mass destruction of Gaza, questions o
 14. أمارة، أحمد. 2018. "أم الحيران نموذج لتهجير وإعادة تهجير عرب النقب." مجلة الدراسات الفلسطينية، 114 (ربيع): 76 – 85. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/228128))
 15. سالم، يارا. 2024. سياسة الدعم والتمويل الغربية: ما قبل، والآن، وما بعد." مجلة الدراسات الفلسطينية، 137 (شتاء):220 - 226. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/1654964)).
 16. طه، لبنى، وباسل نصر. 2023. " أطفال يعيدون بناء مدرستهم عبر فن الرسوم المتحركة." مؤسسة الدراسات الفلسطينية. مارس 21، 2023. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/1653752)).
-
-
-
 
 ## Audiovisual Material
 
