@@ -32,9 +32,14 @@ featured_image: /theme/Destruction and reconstruction.jpg
 
 1. Ahmad, Nadia N. 2011. “Gaza: a case study of urban destruction through military involvement.” Master Thesis, The Temple University. ([open-access link](https://scholarshare.temple.edu/bitstream/handle/20.500.12613/645/Ahmad_temple_0225M_10714.pdf?sequence=1&isAllowed=y))
 2. Al-Haq. 2012. Escalation in Forcible Transfer and Demolitions in Area C. Palestinian Human Rights Organizations’ Council, September 28, 2012. ([open-access link](https://docslib.org/doc/2743276/escalation-in-forcible-transfer-and-demolitions-in-area-c-al-haq-on))
-3. Khalidi, Walid, ed. 1992. All That Remains: The Palestinian Villages Occupied and Depopulated by Israel in 1948. Washington DC: The Institute for Palestine Studies. ([link](https://www.palestine-studies.org/en/node/1649445)) //// **بالعربية**  الخالدي، وليد، محرر، كي لا ننسى: قرى فلسطين التي دمرتها إسرائيل سنة 1948 وأسماء شهدائها. ترجمة حسني زينة. واشنطن: مؤسسة الدراسات الفلسطينية. ([مصدر مفتوح الوصول)](https://archive.org/details/1948_20221204/page/n9/mode/2up)
+3. الخالدي، وليد، محرر، كي لا ننسى: قرى فلسطين التي دمرتها إسرائيل سنة 1948 وأسماء شهدائها. ترجمة حسني زينة. واشنطن: مؤسسة الدراسات الفلسطينية. ([مصدر مفتوح الوصول)](https://archive.org/details/1948_20221204/page/n9/mode/2up)
+
+English version: Khalidi, Walid, ed. 1992. *All That Remains: The Palestinian Villages Occupied and Depopulated by Israel in 1948.* Washington DC: The Institute for Palestine Studies. ([book description](https://www.palestine-studies.org/en/node/1649445) and [WorldCat link](https://search.worldcat.org/title/25632612))
+
 4. أبو سعادة، ندي. 2024. "إعادة الإعمار ومشروعنا التحرري." مؤسسة الدراسات الفلسطينية. أبريل 17، 2024. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/1655449))
 5. بشارة، خلدون. 2024. " تربية الأمل: نفعل في غزة ما يفعله العاطلون عن العمل." مجلة الدراسات الفلسطينية، 137 (شتاء):46 - 51. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/1654963))
+
+## 
 
 ## مراجع أخرى
 
