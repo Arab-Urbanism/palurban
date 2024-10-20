@@ -10,7 +10,7 @@ featured_image: /theme/Destruction and reconstruction.jpg
 ---
 Today, as the world continues to watch the mass destruction of Gaza, questions of reconstruction emerge again, reflecting more than a century marked by destruction, writing and rewriting of history in Palestine. The settler colonial system has destroyed hundreds of Palestinian villages, educational centres, archives, and universities, changed streets’ and villages’ names, and continues to forcibly evict Palestinians from their homes and cities. This material and symbolic erasure has been used by Israel as a tool to uproot Palestinians and their heritage from their homeland. Millions of Palestinian refugees remain scattered around the world with no right to return even to the ruins of their homes and commemorate the Nakba. Despite the scale of this loss and injury, Palestine teaches us- geographers, architects and urban planners -to rethink the politics and aims of reconstruction towards imagining a free and just future that connects Palestinians within their own country, as well as Palestinians in diaspora. But where to start without an end of colonisation?
 
-## Key Question
+## Key Questions
 
 - How have cities and villages in Palestine been impacted by cycles of destruction?
 - What is reconstruction in the context of Palestine? And how can we deconstruct reconstruction so that it moves beyond its materiality?
@@ -28,7 +28,7 @@ Today, as the world continues to watch the mass destruction of Gaza, questions o
 - Refugee camps reconstruction (Jenin and Nahr al-Bared refugee camps).
 - The Competition for the Reconstruction of Destroyed Palestinian Villages. ([open-access link](https://www.plands.org/en/competition-news)).
 
-## Key References
+## Key Resources
 
 1. Ahmad, Nadia N. 2011. “Gaza: a case study of urban destruction through military involvement.” Master Thesis, The Temple University. ([open-access link](https://scholarshare.temple.edu/bitstream/handle/20.500.12613/645/Ahmad_temple_0225M_10714.pdf?sequence=1&isAllowed=y))
 2. Al-Haq. 2012. Escalation in Forcible Transfer and Demolitions in Area C. Palestinian Human Rights Organizations’ Council, September 28, 2012. ([open-access link](https://docslib.org/doc/2743276/escalation-in-forcible-transfer-and-demolitions-in-area-c-al-haq-on))
@@ -36,9 +36,7 @@ Today, as the world continues to watch the mass destruction of Gaza, questions o
 4. أبو سعادة، ندي. 2024. "إعادة الإعمار ومشروعنا التحرري." مؤسسة الدراسات الفلسطينية. أبريل 17، 2024. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/1655449))
 5. بشارة، خلدون. 2024. " تربية الأمل: نفعل في غزة ما يفعله العاطلون عن العمل." مجلة الدراسات الفلسطينية، 137 (شتاء):46 - 51. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/1654963))
 
-----------------------
-
-## Further Readings
+## Further Resources
 
 *Please [contact us](https://palestine.araburbanism.com/contact/) if you would like access to any resources.*
 
