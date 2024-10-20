@@ -52,8 +52,6 @@ Tamari, Salim. 2008. *Mountain against the Sea:* *Essays on Palestinian Society 
 
 4. Taraki, Lisa. 2008. “Enclave Micropolis; The Paradoxical Case of Ramallah/al-Bireh.” *Journal of Palestine Studies* 37(4): 6–20. ([open-access link](https://www.palquest.org/sites/default/files/Enclave_Micropolis_The_Paradoxical_Case_of_Ramallahal-Bireh-_Lisa_Taraki.pdf)).
 
----------------
-
 ## مراجع أخرى
 
 *الرجاء [التواصل معنا](https://palestine.araburbanism.com/ar/contact/) للوصول لأي من المصادر التالية.*
