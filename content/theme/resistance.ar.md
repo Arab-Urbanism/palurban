@@ -41,7 +41,7 @@ Tamari, Salim. 2017. “The Sweet Aroma of Holy Sewage: Urban Planning and the N
 
 ## مراجع أخرى
 
-*الرجاء التواصل معنا للوصول لأي من المصادر التالية.*
+*الرجاء [التواصل معنا](https://palestine.araburbanism.com/ar/contact/) للوصول لأي من المصادر التالية.*
 
 1. Abusalim, Jehad. 2018. “The Great March of Return: An Organizer’s Perspective.” Journal of Palestine Studies 47 (4): 90–100. ([link](https://www.tandfonline.com/doi/abs/10.1525/jps.2018.47.4.90))
 2. Alım, Eray. 2020. “The Art of Resistance in the Palestinian Struggle Against Israel.” Turkish Journal of Middle Eastern Studies 7 (1): 45–79. ([open-access link](https://dergipark.org.tr/tr/download/article-file/1112140))

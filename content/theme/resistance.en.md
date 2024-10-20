@@ -40,7 +40,7 @@ Mass protest in public space is often situated as the normative mode of resistan
 
 ## Further Resources 
 
-*Please contact us if you would like access to any resources.*
+*Please [contact us](https://palestine.araburbanism.com/contact/) if you would like access to any resources.*
 
 1. Abusalim, Jehad. 2018. “The Great March of Return: An Organizer’s Perspective.” Journal of Palestine Studies 47 (4): 90–100. ([link](https://www.tandfonline.com/doi/abs/10.1525/jps.2018.47.4.90))
 2. Alım, Eray. 2020. “The Art of Resistance in the Palestinian Struggle Against Israel.” Turkish Journal of Middle Eastern Studies 7 (1): 45–79. ([open-access link](https://dergipark.org.tr/tr/download/article-file/1112140))
