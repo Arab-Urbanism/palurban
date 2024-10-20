@@ -40,9 +40,9 @@ A significant aspect of Palestinian history and culture can be understood by exa
 4. Dajani, Muna, De Leo, Daniela, and Nura AlKhalili. 2013. “Planned Informality as a by-product by the Occupation: The Case of Kufr Aqab Neighborhood in Jerusalem North.” Planum, Journal of Urbanism, 26 (1): 2–10. ([open-access link](https://www.academia.edu/2535199/Planned_Informality_as_a_by_product_of_the_Occupation_The_case_of_Kufr_Aqab_Neighbourhood_in_Jerusalem_North))
 5. Jabareen, Yosef, and Orwa Switat. 2019. “Insurgent informality: the struggle over space production between the Israeli state and its Palestinian Bedouin communities.” Space and Polity, 23(1): 92–113. ([open-access link](https://www.researchgate.net/publication/331584770_Insurgent_informality_the_struggle_over_space_production_between_the_Israeli_state_and_its_Palestinian_Bedouin_communities))
 
------------------  
+## Further Readings
 
-## Further Readings:
+*Please [contact us](https://palestine.araburbanism.com/contact/) if you would like access to any resources.*
 
 1. Abourahme, Nasser. 2020. “The camp.” Comparative Studies of South Asia, Africa and the Middle East, 40(1): 35–42. ([open-access link](https://www.academia.edu/43094939/The_Camp))
 2. Abourahme, Nasser. 2014. “Assembling and Spilling‐Over: Towards an ‘Ethnography of Cement’ in a Palestinian Refugee Camp.” International Journal of Urban and Regional Research, 39 (2): 200–217. ([link](https://www.researchgate.net/publication/269418778_Assembling_and_Spilling-Over_Towards_an_'Ethnography_of_Cement'_in_a_Palestinian_Refugee_Camp))
