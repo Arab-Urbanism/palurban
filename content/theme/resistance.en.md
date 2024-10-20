@@ -40,9 +40,6 @@ In English: 
 
 Tamari, Salim. 2017. “The Sweet Aroma of Holy Sewage: Urban Planning and the New Public Space in Palestine.” In *The Great War and the Remaking of Palestine*. Berkeley, CA: University of California Press, 38-66. ([chapter description](https://academic.oup.com/california-scholarship-online/book/16086/chapter-abstract/171088224?redirectedFrom=fulltext) and [WorldCat link](https://search.worldcat.org/title/1038189463))
 
-
-
-
 1.  //// **ENGLISH VERSION**
 Tamari, Salim. 2017. “The Sweet Aroma of Holy Sewage: Urban Planning and the New Public Space in Palestine.” In The Great War and the Remaking of Palestine. Berkeley, CA: University of California Press, 38-66. ([link](https://www.ucpress.edu/book/9780520291263/the-great-war-and-the-remaking-of-palestine)) 
 
