@@ -34,7 +34,16 @@ Mass protest in public space is often situated as the normative mode of resistan
 1. Alaqra, Ahmad. 2018. “(Un)Making Qalandia: Politicized Spatial Practices Of The Palestinian Refugee Camp.” The Funambulist Magazine, March 9, 2018. ([open-access link](https://thefunambulist.net/magazine/16-proletarian-fortresses/unmaking-qalandia-politicized-spatial-practices-palestinian-refugee-camp-ahmad-alaqra)) 
 2. Falah, Ghazi-Walid, and Colin Flint. 2004. “Geopolitical Spaces: The Dialectic of Public and Private Space in the Palestine–Israel Conflict.” The Arab World Geographer 7 (1–2): 117–34. ([open-access link](https://www.researchgate.net/profile/Colin-Flint-3/publication/292692290_Geopolitical_spaces_The_dialectic_of_public_and_private_space_in_the_Palestine-Israel_conflict/links/58a2433daca272046aafe6bd/Geopolitical-spaces-The-dialectic-of-public-and-private-space-in-the-Palestine-Israel-conflict.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19))
 3. Nasasra, Mansour. 2022. “From Damascus Gate to Shaikh Jarrah: The Palestinian Sovereignty Protests in East Jerusalem.” Protest 1 (2): 329–45. ([open-access link](https://brill.com/view/journals/prot/1/2/article-p329_006.xml))
-4. تماري، سليم.2012. أم الغريب: تخطيط المدن وتطور الحيِّز العام في فلسطين العثمانية. حوليات القدس. 13. 26-46. ([مصدر مفتوح الوصول](https://store.palestine-studies.org/sites/default/files/hq-articles/11464.pdf)) //// **ENGLISH VERSION**
+4. تماري، سليم.2012. أم الغريب: تخطيط المدن وتطور الحيِّز العام في فلسطين العثمانية. حوليات القدس. 13. 26-46. ([مصدر مفتوح الوصول](https://store.palestine-studies.org/sites/default/files/hq-articles/11464.pdf))
+
+In English: 
+
+Tamari, Salim. 2017. “The Sweet Aroma of Holy Sewage: Urban Planning and the New Public Space in Palestine.” In *The Great War and the Remaking of Palestine*. Berkeley, CA: University of California Press, 38-66. ([chapter description](https://academic.oup.com/california-scholarship-online/book/16086/chapter-abstract/171088224?redirectedFrom=fulltext) and [WorldCat link](https://search.worldcat.org/title/1038189463))
+
+
+
+
+1.  //// **ENGLISH VERSION**
 Tamari, Salim. 2017. “The Sweet Aroma of Holy Sewage: Urban Planning and the New Public Space in Palestine.” In The Great War and the Remaking of Palestine. Berkeley, CA: University of California Press, 38-66. ([link](https://www.ucpress.edu/book/9780520291263/the-great-war-and-the-remaking-of-palestine)) 
 
 ## Further Resources 
