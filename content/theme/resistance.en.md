@@ -36,12 +36,7 @@ Mass protest in public space is often situated as the normative mode of resistan
 3. Nasasra, Mansour. 2022. “From Damascus Gate to Shaikh Jarrah: The Palestinian Sovereignty Protests in East Jerusalem.” Protest 1 (2): 329–45. ([open-access link](https://brill.com/view/journals/prot/1/2/article-p329_006.xml))
 4. تماري، سليم.2012. أم الغريب: تخطيط المدن وتطور الحيِّز العام في فلسطين العثمانية. حوليات القدس. 13. 26-46. ([مصدر مفتوح الوصول](https://store.palestine-studies.org/sites/default/files/hq-articles/11464.pdf))
 
-In English: 
-
-Tamari, Salim. 2017. “The Sweet Aroma of Holy Sewage: Urban Planning and the New Public Space in Palestine.” In *The Great War and the Remaking of Palestine*. Berkeley, CA: University of California Press, 38-66. ([chapter description](https://academic.oup.com/california-scholarship-online/book/16086/chapter-abstract/171088224?redirectedFrom=fulltext) and [WorldCat link](https://search.worldcat.org/title/1038189463))
-
-1.  //// **ENGLISH VERSION**
-Tamari, Salim. 2017. “The Sweet Aroma of Holy Sewage: Urban Planning and the New Public Space in Palestine.” In The Great War and the Remaking of Palestine. Berkeley, CA: University of California Press, 38-66. ([link](https://www.ucpress.edu/book/9780520291263/the-great-war-and-the-remaking-of-palestine)) 
+English Version: Tamari, Salim. 2017. “The Sweet Aroma of Holy Sewage: Urban Planning and the New Public Space in Palestine.” In *The Great War and the Remaking of Palestine*. Berkeley, CA: University of California Press, 38-66. ([chapter description](https://academic.oup.com/california-scholarship-online/book/16086/chapter-abstract/171088224?redirectedFrom=fulltext) and [WorldCat link](https://search.worldcat.org/title/1038189463))
 
 ## Further Resources 
 
