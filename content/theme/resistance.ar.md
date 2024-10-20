@@ -64,5 +64,5 @@ Tamari, Salim. 2017. “The Sweet Aroma of Holy Sewage: Urban Planning and the N
 
 ## مواد سمعية وبصرية
 
-1. Cowan, Paul and Amer Shomali, directors. The Wanted 18. National Film Board of Canada, 2014, 1hr., 15 min. 
+1. Cowan, Paul and Amer Shomali, directors. 2014. *The Wanted 18*. National Film Board of Canada, 75 mins. ([link](https://www.kanopy.com/en/product/wanted-18-israeli-armys-pursuit-18-cows))
 2. د.م. 2017 "أبو جلدة والعرميط". د.ن. ([مصدر مفتوح الوصول](https://abujildeh.com/))
