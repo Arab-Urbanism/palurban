@@ -54,6 +54,8 @@ Tamari, Salim. 2008. *Mountain against the Sea:* *Essays on Palestinian Society 
 
 ## Further Readings
 
+*Please [contact us](https://palestine.araburbanism.com/contact/) if you would like access to any resources.*
+
 1. Abusaada, Nadi. 2021. “Building Urban Palestine: Jaffa and Nablus 1870-1930.” Thesis. University of Cambridge. ([open-access link)](https://www.repository.cam.ac.uk/items/d344acc0-066b-4205-9c53-2ecbc64b41bb)
 2. Abusaada, Nadi. 2022. “Essential Readings on Urban Palestine.” *Jadaliyya*, (January 16). ([open-access link](https://www.jadaliyya.com/Details/44213))
 3. Abu Shama, Hashem. 2021. “The Palestinian City, the Song, and Settler Colonial Gentrification: On “Better than Berlin” by Faraj Suleiman and Majd Kayyal.” *Jadaliyya,* (January 8). ([open-access link)](https://www.jadaliyya.com/Details/42216).
