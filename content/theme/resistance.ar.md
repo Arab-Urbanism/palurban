@@ -31,6 +31,17 @@ summary: ""
 
 ## مراجع رئيسية
 
+1. Alaqra, Ahmad. 2018. “(Un)Making Qalandia: Politicized Spatial Practices of the Palestinian Refugee Camp.” *The Funambulist Magazine*, March 9, 2018. ([open-access link](https://thefunambulist.net/magazine/16-proletarian-fortresses/unmaking-qalandia-politicized-spatial-practices-palestinian-refugee-camp-ahmad-alaqra)) 
+2. Falah, Ghazi-Walid, and Colin Flint. 2004. “Geopolitical Spaces: The Dialectic of Public and Private Space in the Palestine–Israel Conflict.” *The Arab World Geographer* 7 (1–2): 117–34. ([open-access link](https://www.researchgate.net/profile/Colin-Flint-3/publication/292692290_Geopolitical_spaces_The_dialectic_of_public_and_private_space_in_the_Palestine-Israel_conflict/links/58a2433daca272046aafe6bd/Geopolitical-spaces-The-dialectic-of-public-and-private-space-in-the-Palestine-Israel-conflict.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19))
+3. Nasasra, Mansour. 2022. “From Damascus Gate to Shaikh Jarrah: The Palestinian Sovereignty Protests in East Jerusalem.” *Protest* 1 (2): 329–45. ([open-access link](https://brill.com/view/journals/prot/1/2/article-p329_006.xml))
+4. تماري، سليم.2012. "أم الغريب: تخطيط المدن وتطور الحيِّز العام في فلسطين العثمانية." حوليات القدس. 13. 26-46. ([مصدر مفتوح الوصول](https://store.palestine-studies.org/sites/default/files/hq-articles/11464.pdf))
+
+English version: Tamari, Salim. 2017. “The Sweet Aroma of Holy Sewage: Urban Planning and the New Public Space in Palestine.” In *The Great War and the Remaking of Palestine*. Berkeley, CA: University of California Press, 38-66. ([chapter description](https://academic.oup.com/california-scholarship-online/book/16086/chapter-abstract/171088224?redirectedFrom=fulltext) and [WorldCat link](https://search.worldcat.org/title/1038189463))
+
+## مراجع أخرى
+
+*الرجاء [التواصل معنا](https://palestine.araburbanism.com/ar/contact/) للوصول لأي من المصادر التالية.*
+
 1. Abusalim, Jehad. 2018. “The Great March of Return: An Organizer’s Perspective.” *Journal of Palestine Studies* 47 (4): 90–100. ([link](https://www.tandfonline.com/doi/abs/10.1525/jps.2018.47.4.90))
 2. Alım, Eray. 2020. “The Art of Resistance in the Palestinian Struggle Against Israel.” *Turkish Journal of Middle Eastern Studies* 7 (1): 45–79. ([open-access link](https://dergipark.org.tr/tr/download/article-file/1112140))
 3. Alnaji, Hala, Shyma Naji, Husam Salem, Ibrahim Naji, and Mustefi Naji. 2016. “Visual Ethnography and Urban Practice Investigation: ‘The Palestinian Urban Practices in Gaza Strip during War 2014.’” ([open-access link](https://dadun.unav.edu/handle/10171/42256))
@@ -52,14 +63,6 @@ English version: Kanafani, Ghassan. 1980 [1972]. *The 1936-39 Revolt in Palestin
 16. Shibli, Adania. 2006. “Al-Manara Square: Monumental Architecture and Power.” *Jerusalem Quarterly*, no. 26, 52–64. ([open-access link](https://www.palestine-studies.org/sites/default/files/jq-articles/26_shibli_1_0.pdf))
 17. Totry-Fakhoury, Maisa, and Nurit Alfasi. 2018. “When Contradicting Public Space Regimes Collide: The Case of Palestinian Israeli Towns.” *The Geographical Journal* 184 (4): 429–42. ([link](https://rgs-ibg.onlinelibrary.wiley.com/doi/abs/10.1111/geoj.12265))
 18. Zawawi, Zahraa, Eric Corijn, and Bas Van Heur. 2013. “Public Spaces in the Occupied Palestinian Territories.” *GeoJournal* 78 (4): 743–58. ([link](https://link.springer.com/article/10.1007/s10708-012-9463-9))
-
-## مراجع أخرى
-
-*الرجاء [التواصل معنا](https://palestine.araburbanism.com/ar/contact/) للوصول لأي من المصادر التالية.*
-
-1. Abusalim, Jehad. 2018. “The Great March of Return: An Organizer’s Perspective.” Journal of Palestine Studies 47 (4): 90–100. ([link](https://www.tandfonline.com/doi/abs/10.1525/jps.2018.47.4.90))
-2. Alım, Eray. 2020. “The Art of Resistance in the Palestinian Struggle Against Israel.” Turkish Journal of Middle Eastern Studies 7 (1): 45–79. ([open-access link](https://dergipark.org.tr/tr/download/article-file/1112140))
-3. Alnaji, Hala, Shyma Naji, Husam Salem, Ibrahim Naji, and Mustefi Naji. 2016. “Visual Ethnography and Urban Practice Investigation: ‘The Palestinian Urban Practices in Gaza Strip during War 2014.’” ([open-access link](https://dadun.unav.edu/handle/10171/42256))
 
 ## مواد سمعية وبصرية
 
