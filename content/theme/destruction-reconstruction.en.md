@@ -39,7 +39,7 @@ Today, as the world continues to watch the mass destruction of Gaza, questions o
 
 ## Further Readings
 
-*Please contact us if you would like access to any resources.*
+*Please [contact us](https://palestine.araburbanism.com/contact/) if you would like access to any resources.*
 
 1. Abujidi, Nurhan. 2014. Urbicide in Palestine: Spaces of Oppression and Resilience. London. New York: Routledge. ([link](https://www.taylorfrancis.com/books/mono/10.4324/9781315819099/urbicide-palestine-nurhan-abujidi))
 2. Amiry, Suad and Khaldun Bshara, eds. 2015. Reclaiming Space: The Rehabilitation of 50 Villages in Rural Palestine. Ramallah: Riwaq. (open-access link) pdf from Riwaq
