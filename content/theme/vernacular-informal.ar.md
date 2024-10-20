@@ -4,7 +4,7 @@ slug: vernacular-informal
 draft: false
 weight: 3
 tags:
-  - informality
+  - الحيّز
 lastmod: 2024-10-19T16:10:00
 featured_image: /theme/silwan-vernacular-informal.jpg
 ---

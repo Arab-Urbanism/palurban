@@ -5,7 +5,7 @@ draft: false
 weight: 3
 tags:
   - informality
-  - vernacularity
+  - vernacular
 lastmod: 2024-10-19T16:10:00
 featured_image: /theme/silwan-vernacular-informal.jpg
 ---
