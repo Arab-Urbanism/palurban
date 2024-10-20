@@ -35,6 +35,8 @@ featured_image: /theme/silwan-vernacular-informal.jpg
 
 ## مراجع أخرى
 
+*الرجاء [التواصل معنا](https://palestine.araburbanism.com/ar/contact/) للوصول لأي من المصادر التالية.*
+
 1. Abourahme, Nasser. 2020. “The camp.” Comparative Studies of South Asia, Africa and the Middle East, 40(1): 35–42. ([open-access link](https://www.academia.edu/43094939/The_Camp))
 2. Abourahme, Nasser. 2014. “Assembling and Spilling‐Over: Towards an ‘Ethnography of Cement’ in a Palestinian Refugee Camp.” International Journal of Urban and Regional Research, 39 (2): 200–217. ([link](https://www.researchgate.net/publication/269418778_Assembling_and_Spilling-Over_Towards_an_'Ethnography_of_Cement'_in_a_Palestinian_Refugee_Camp))
 3. Ayoub, Venus. 2020. The Problematics of ‘Informal Urbanism’ as a Terminology and its Use to Refer to Palestinian Localities in Israel. Arab Urbanism. ([open-access link](https://www.araburbanism.com/magazine/problematics-of-informality))  [](https://www.araburbanism.com/magazine/problematics-of-informality)
