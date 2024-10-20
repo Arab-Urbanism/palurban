@@ -7,7 +7,7 @@ tags:
   - informality
   - vernacular
 lastmod: 2024-10-19T16:10:00
-featured_image: /theme/silwan-vernacular-informal.jpg
+featured_image: /theme/Photo caption_ the Palestinian neighbourhood of Silwan in Jerusalem. Source Wikimedia Commons .jpg
 ---
 A significant aspect of Palestinian history and culture can be understood by examining various forms of vernacularity and “informality” which have developed over centuries in response to environmental, socio-economic, and political changes. The historic and contemporary Bedouin, peasant, and urban architecture associated with vernacular and informal modes of living, whether in villages, refugee camps, Jerusalem’s “informal” neighbourhoods, or elsewhere, provide valuable insights into the role of colonialism, capitalism, and modernity in shaping Palestinian built environments. Similar to the histories of other regions worldwide, the vernacular and the informal in Palestine can be intertwined in ways that challenge their conventional understandings and meanings, offering a lens into intricate spatio-temporal relationships.
 
