@@ -32,7 +32,7 @@ A significant aspect of Palestinian history and culture can be understood by exa
 - Refugee camps in Lebanon - Nahr al-Bared Refugee Camp ([paper](https://www.researchgate.net/publication/259730655_In_the_Ruins_of_Nahr_al-Barid_Understanding_the_Meaning_of_the_Camp))
 - Refugee camps in Jordan - Al-Wehdat refugee camp ([open-access paper in Arabic](https://www.palestine-studies.org/sites/default/files/mdf-articles/073-084.pdf))
 
-## Key References:
+## Key Resources
 
 1. Amiry, Suad. 2017. “Patterns of Settlement in 19th Century Rural Palestine.” In Peasant Architecture in Palestine: Space, Kinship and Gender. Ramallah: Riwaq, 9 - 36. (open-access link)
 2. Amiry, Suad, and Vera Tamari. 2003. The Palestinian Village Home. 2nd edition. Ramallah: Riwaq, 16 – 33. (open-access link)
@@ -40,7 +40,7 @@ A significant aspect of Palestinian history and culture can be understood by exa
 4. Dajani, Muna, De Leo, Daniela, and Nura AlKhalili. 2013. “Planned Informality as a by-product by the Occupation: The Case of Kufr Aqab Neighborhood in Jerusalem North.” Planum, Journal of Urbanism, 26 (1): 2–10. ([open-access link](https://www.academia.edu/2535199/Planned_Informality_as_a_by_product_of_the_Occupation_The_case_of_Kufr_Aqab_Neighbourhood_in_Jerusalem_North))
 5. Jabareen, Yosef, and Orwa Switat. 2019. “Insurgent informality: the struggle over space production between the Israeli state and its Palestinian Bedouin communities.” Space and Polity, 23(1): 92–113. ([open-access link](https://www.researchgate.net/publication/331584770_Insurgent_informality_the_struggle_over_space_production_between_the_Israeli_state_and_its_Palestinian_Bedouin_communities))
 
-## Further Readings
+## Further Resources
 
 *Please [contact us](https://palestine.araburbanism.com/contact/) if you would like access to any resources.*
 
