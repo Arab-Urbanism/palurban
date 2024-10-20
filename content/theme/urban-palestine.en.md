@@ -30,7 +30,7 @@ The study of the modern urban history of Palestine, like other spaces in the Glo
 - ‘Palestinian Cities’ book series from the Institute for Palestine Studies [in Arabic] ([link](https://www.palestine-studies.org/en/books/explorer1?f%5B0%5D=field_book_type%3A17061))
 - Urban lives: Karimeh Abbud, Hind al-Husseini, Fatima Budeiri, Muhammad 'Izzat Darwaza, Emile Habibi, Wasif Jawhariyyeh, Najib and Sadhij Nassar, Khalil Raad, Khalil Sakakini, Fadwa Tuqan, Tawfiq Zayyad, and Akram Zu'aytir. 
 
-## Key References
+## Key Resources
 
 1. Taraki, Lisa. n.d. “Urban Palestine: Divergent Trajectories of Spatial and Social Transformations.” ** Interactive Encyclopedia of the Palestine Question*.* ([open-access link](https://www.palquest.org/en/highlight/14513/urban-palestine))
 
@@ -52,7 +52,7 @@ Tamari, Salim. 2008. *Mountain against the Sea:* *Essays on Palestinian Society 
 
 4. Taraki, Lisa. 2008. “Enclave Micropolis; The Paradoxical Case of Ramallah/al-Bireh.” *Journal of Palestine Studies* 37(4): 6–20. ([open-access link](https://www.palquest.org/sites/default/files/Enclave_Micropolis_The_Paradoxical_Case_of_Ramallahal-Bireh-_Lisa_Taraki.pdf)).
 
-## Further Readings
+## Further Resources
 
 *Please [contact us](https://palestine.araburbanism.com/contact/) if you would like access to any resources.*
 
