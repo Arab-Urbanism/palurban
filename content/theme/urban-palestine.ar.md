@@ -32,8 +32,6 @@ featured_image: /theme/urban-Palestine.jpg
 
 ## مراجع رئيسيّة
 
-## 
-
 1. Taraki, Lisa. n.d. “Urban Palestine: Divergent Trajectories of Spatial and Social Transformations.” ** Interactive Encyclopedia of the Palestine Question*.* ([open-access link](https://www.palquest.org/en/highlight/14513/urban-palestine))
 
 بالعربية:
@@ -57,6 +55,8 @@ Tamari, Salim. 2008. *Mountain against the Sea:* *Essays on Palestinian Society 
 ---------------
 
 ## مراجع أخرى
+
+*الرجاء [التواصل معنا](https://palestine.araburbanism.com/ar/contact/) للوصول لأي من المصادر التالية.*
 
 1. Abusaada, Nadi. 2021. “Building Urban Palestine: Jaffa and Nablus 1870-1930.” Thesis. University of Cambridge. ([open-access link)](https://www.repository.cam.ac.uk/items/d344acc0-066b-4205-9c53-2ecbc64b41bb)
 2. Abusaada, Nadi. 2022. “Essential Readings on Urban Palestine.” *Jadaliyya*, (January 16). ([open-access link](https://www.jadaliyya.com/Details/44213))
