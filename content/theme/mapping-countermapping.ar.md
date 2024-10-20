@@ -49,7 +49,7 @@ featured_image: /theme/mapping-counter-mapping.png
 5. Abushama, Hashem. 2024. “a map without guarantees: Stuart Hall and Palestinian geographies”. The Stuart Hall Foundation. 26 March 2024 ([open-access link](https://www.stuarthallfoundation.org/resource/a-map-without-guarantees-stuart-hall-and-palestinian-geographies/))
 6. عناني، يزيد (محرر ضيف). 2021. "معـرض فلسطيــن مـن أعلــى : تصوير المشهد من خالل المراقبة وصنع الخرائط." فصلية القدس، 81-82 (ربيع وصيف). ([مصدر مفتوح الوصول](https://qattanfoundation.org/sites/default/files/jq_81-82_arabic_book-16.pdf)) 
 
- English version: Anani, Yazid (ed.). 2020. “Palestine from Above: Surveillance, Cartography and Control.” Special issue of *Jerusalem Quarterly*, 81-82 (Spring and summer). ([open-access link](https://qattanfoundation.org/sites/default/files/jerusalem_quarterly_81-82_book-7.pdf))
+English version: Anani, Yazid (ed.). 2020. “Palestine from Above: Surveillance, Cartography and Control.” Special issue of *Jerusalem Quarterly*, 81-82 (Spring and summer). ([open-access link](https://qattanfoundation.org/sites/default/files/jerusalem_quarterly_81-82_book-7.pdf))
 
 7. Antrim, Zayde. 2018. “Chapter 5: Mapping Alternative Geographies.” In *Mapping the Middle East*. London: Reaktion Books. ([WorldCat link](https://search.worldcat.org/title/1038059143))
 8. Bier, Jess. 2017. *Mapping Israel, Mapping Palestine: How Occupied Landscapes Shape Scientific Knowledge*. Cambridge: MIT Press. ([WorldCat link](https://search.worldcat.org/title/1032364044))
