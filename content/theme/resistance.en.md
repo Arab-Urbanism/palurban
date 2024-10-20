@@ -5,6 +5,8 @@ draft: false
 weight: ""
 tags:
   - resistance
+  - public space
+  - spatial practice
 lastmod: 2024-10-14T22:48:00
 featured_image: /theme/publicspaceresistance.png
 summary: ""
@@ -15,7 +17,7 @@ Mass protest in public space is often situated as the normative mode of resistan
 
 - In what ways is public space a site of resistance in contexts of colonization and domination?
 - How does colonial expansion, through the built and natural environments, multiply sites of resistance? 
-- How have Palestinians used the material and symbolic power of different kinds of public space to make political claims? 
+- How have Palestinians used the material and symbolic power of different kinds of public space to make political claims? 
 
 ## Key Cases
 
