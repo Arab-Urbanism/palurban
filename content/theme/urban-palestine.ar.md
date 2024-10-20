@@ -34,21 +34,15 @@ featured_image: /theme/urban-Palestine.jpg
 
 1. Taraki, Lisa. n.d. “Urban Palestine: Divergent Trajectories of Spatial and Social Transformations.” ** Interactive Encyclopedia of the Palestine Question*.* ([open-access link](https://www.palquest.org/en/highlight/14513/urban-palestine))
 
-بالعربية:
-
-تراكي، ليزا. د.ت. " فلسطين الحضريّة: مسارات متباينة لتحوّلات مكانية واجتماعية." الموسوعة التفاعلية للقضية الفلسطينية. ([مصدر مفتوح الوصول](https://www.palquest.org/ar/highlight/14514/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D8%A7%D9%84%D8%AD%D8%B6%D8%B1%D9%8A%D9%91%D8%A9))
+بالعربية: تراكي، ليزا. د.ت. " فلسطين الحضريّة: مسارات متباينة لتحوّلات مكانية واجتماعية." الموسوعة التفاعلية للقضية الفلسطينية. ([مصدر مفتوح الوصول](https://www.palquest.org/ar/highlight/14514/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D8%A7%D9%84%D8%AD%D8%B6%D8%B1%D9%8A%D9%91%D8%A9))
 
 2. تماري، سليم. 2005. الجبل ضد البحر: دراسات في إشكاليات الحداثة الفلسطينية. الطبعة الثانية. رام الله: مواطن، المؤسسة الفلسطينية لدراسة الديمقراطية، 9-33. ([مصدر مفتوح الوصول](https://muwatin.birzeit.edu/sites/default/files/publications/attachments/Salim%E2%80%AD_%E2%80%ACBook%E2%80%AD_sm.pdf))
 
-In English
-
-Tamari, Salim. 2008. *Mountain against the Sea:* *Essays on Palestinian Society and Culture.* Berkley: University of California Press, 1-35. ([link](https://www.ucpress.edu/book/9780520251298/mountain-against-the-sea))
+English version: Tamari, Salim. 2008. *Mountain against the Sea:* *Essays on Palestinian Society and Culture.* Berkley: University of California Press, 1-35. ([link](https://www.ucpress.edu/book/9780520251298/mountain-against-the-sea))
 
 3. Tamari, Salim, ed. 2002.  *Jerusalem 1948: The Arab Neighbourhoods and their Fate in the War*, 2d ed.  Ramallah: The Institute of Jerusalem Studies and Badil Resource Center, 1-67. ([open-access link](https://www.palestine-studies.org/en/node/1649524))
 
-بالعربية: 
-
-تماري، سليم (محرر). 2002. *القدس 1948: الأحياء العربية ومصيرها في حرب 1948.* رام الله: مؤسسة الدراسات الفلسطينية ومركز بديل، 1-88. ([رابط](https://www.palestine-studies.org/ar/node/1648037))
+بالعربية: تماري، سليم (محرر). 2002. *القدس 1948: الأحياء العربية ومصيرها في حرب 1948.* رام الله: مؤسسة الدراسات الفلسطينية ومركز بديل، 1-88. ([رابط](https://www.palestine-studies.org/ar/node/1648037))
 
 4. Taraki, Lisa. 2008. “Enclave Micropolis; The Paradoxical Case of Ramallah/al-Bireh.” *Journal of Palestine Studies* 37(4): 6–20. ([open-access link](https://www.palquest.org/sites/default/files/Enclave_Micropolis_The_Paradoxical_Case_of_Ramallahal-Bireh-_Lisa_Taraki.pdf)).
 

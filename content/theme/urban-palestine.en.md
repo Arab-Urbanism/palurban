@@ -7,7 +7,7 @@ tags: []
 lastmod: 2024-10-19T16:12:00
 featured_image: /theme/urban-Palestine.jpg
 ---
-The study of the modern urban history of Palestine, like other spaces in the Global South, is often dominated by colonial experiments, figures, visions, and projects. Recently, there has been a growing interest in revisiting this history beyond the colonial frame, acknowledging the active role Palestinians took in producing their urban modernity within and beyond imperial and colonial influence. This perspective positions Palestinian collective agency within regional and global networks of urban modernity that helped shape new Palestinian urban classes and modern forms of urban governance, political life, economic pursuits, and cultural expressions. The continuous waves of urbanisation and de-urbanisation in Palestine under colonial rule have transformed and reshaped Palestinian social fabric. This has impacted class structure, urban-rural dynamics, and urban identities, citizenship, lifestyles, and spatial organisation. A key historic moment was the loss of the cosmopolitan space and urban networks of the coastal cities, juxtaposed with the rising prominence of mountain cities after the 1948 Nakba. Urban colonial policies, whether through urban annihilation, heritage dispossession, ghettoization, gentrification, or through aggressive new developments, have motivated Palestinians for over a century to engage in various forms of urban resistance. 
+The study of the modern urban history of Palestine, like other spaces in the Global South, is often dominated by colonial experiments, figures, visions, and projects. Recently, there has been a growing interest in revisiting this history beyond the colonial frame, acknowledging the active role Palestinians took in producing their urban modernity within and beyond imperial and colonial influence. This perspective positions Palestinian collective agency within regional and global networks of urban modernity that helped shape new Palestinian urban classes and modern forms of urban governance, political life, economic pursuits, and cultural expressions. The continuous waves of urbanisation and de-urbanisation in Palestine under colonial rule have transformed and reshaped Palestinian social fabric. This has impacted class structure, urban-rural dynamics, and urban identities, citizenship, lifestyles, and spatial organisation. A key historic moment was the loss of the cosmopolitan space and urban networks of the coastal cities, juxtaposed with the rising prominence of mountain cities after the 1948 Nakba. Urban colonial policies, whether through urban annihilation, heritage dispossession, ghettoization, gentrification, or through aggressive new developments, have motivated Palestinians for over a century to engage in various forms of urban resistance. 
 
 ## Key Questions
 
@@ -28,27 +28,21 @@ The study of the modern urban history of Palestine, like other spaces in the Glo
 - Bedouin urbanism and settlement: the environs and the city of Bir al-Sabi’
 - Cities Exhibitions Series (six editions: [Ramallah](https://universes.art/en/nafas/articles/2010/ramallah), Jerusalem, [Nablus](http://museum.birzeit.edu/exhibitions/third-annual-cities-exhibition-between-ebal-and-gerzim), [Jericho](http://museum.birzeit.edu/exhibitions/4th-edition-cities-exhibition-jericho-%E2%80%93-beyond-celestial-and-terrestrial), [Gaza](http://museum.birzeit.edu/exhibitions/5th-edition-cities-exhibition%E2%80%98gaza-%E2%80%93-reconstruction%E2%80%99), and [al-Lydd](http://museum.birzeit.edu/exhibitions/5th-edition-cities-exhibition%E2%80%98gaza-%E2%80%93-reconstruction%E2%80%99).
 - ‘Palestinian Cities’ book series from the Institute for Palestine Studies [in Arabic] ([link](https://www.palestine-studies.org/en/books/explorer1?f%5B0%5D=field_book_type%3A17061))
-- Urban lives: Karimeh Abbud, Hind al-Husseini, Fatima Budeiri, Muhammad 'Izzat Darwaza, Emile Habibi, Wasif Jawhariyyeh, Najib and Sadhij Nassar, Khalil Raad, Khalil Sakakini, Fadwa Tuqan, Tawfiq Zayyad, and Akram Zu'aytir. 
+- Urban lives: Karimeh Abbud, Hind al-Husseini, Fatima Budeiri, Muhammad 'Izzat Darwaza, Emile Habibi, Wasif Jawhariyyeh, Najib and Sadhij Nassar, Khalil Raad, Khalil Sakakini, Fadwa Tuqan, Tawfiq Zayyad, and Akram Zu'aytir. 
 
 ## Key Resources
 
 1. Taraki, Lisa. n.d. “Urban Palestine: Divergent Trajectories of Spatial and Social Transformations.” ** Interactive Encyclopedia of the Palestine Question*.* ([open-access link](https://www.palquest.org/en/highlight/14513/urban-palestine))
 
-بالعربية:
-
-تراكي، ليزا. د.ت. " فلسطين الحضريّة: مسارات متباينة لتحوّلات مكانية واجتماعية." الموسوعة التفاعلية للقضية الفلسطينية. ([مصدر مفتوح الوصول](https://www.palquest.org/ar/highlight/14514/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D8%A7%D9%84%D8%AD%D8%B6%D8%B1%D9%8A%D9%91%D8%A9))
+بالعربية: تراكي، ليزا. د.ت. " فلسطين الحضريّة: مسارات متباينة لتحوّلات مكانية واجتماعية." الموسوعة التفاعلية للقضية الفلسطينية. ([مصدر مفتوح الوصول](https://www.palquest.org/ar/highlight/14514/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D8%A7%D9%84%D8%AD%D8%B6%D8%B1%D9%8A%D9%91%D8%A9))
 
 2. تماري، سليم. 2005. الجبل ضد البحر: دراسات في إشكاليات الحداثة الفلسطينية. الطبعة الثانية. رام الله: مواطن، المؤسسة الفلسطينية لدراسة الديمقراطية، 9-33. ([مصدر مفتوح الوصول](https://muwatin.birzeit.edu/sites/default/files/publications/attachments/Salim%E2%80%AD_%E2%80%ACBook%E2%80%AD_sm.pdf))
 
-In English
-
-Tamari, Salim. 2008. *Mountain against the Sea:* *Essays on Palestinian Society and Culture.* Berkley: University of California Press, 1-35. ([link](https://www.ucpress.edu/book/9780520251298/mountain-against-the-sea))
+English version: Tamari, Salim. 2008. *Mountain against the Sea:* *Essays on Palestinian Society and Culture.* Berkley: University of California Press, 1-35. ([link](https://www.ucpress.edu/book/9780520251298/mountain-against-the-sea))
 
 3. Tamari, Salim, ed. 2002.  *Jerusalem 1948: The Arab Neighbourhoods and their Fate in the War*, 2d ed.  Ramallah: The Institute of Jerusalem Studies and Badil Resource Center, 1-67. ([open-access link](https://www.palestine-studies.org/en/node/1649524))
 
-بالعربية: 
-
-تماري، سليم (محرر). 2002. *القدس 1948: الأحياء العربية ومصيرها في حرب 1948.* رام الله: مؤسسة الدراسات الفلسطينية ومركز بديل، 1-88. ([رابط](https://www.palestine-studies.org/ar/node/1648037))
+بالعربية: تماري، سليم (محرر). 2002. *القدس 1948: الأحياء العربية ومصيرها في حرب 1948.* رام الله: مؤسسة الدراسات الفلسطينية ومركز بديل، 1-88. ([رابط](https://www.palestine-studies.org/ar/node/1648037))
 
 4. Taraki, Lisa. 2008. “Enclave Micropolis; The Paradoxical Case of Ramallah/al-Bireh.” *Journal of Palestine Studies* 37(4): 6–20. ([open-access link](https://www.palquest.org/sites/default/files/Enclave_Micropolis_The_Paradoxical_Case_of_Ramallahal-Bireh-_Lisa_Taraki.pdf)).
 
