@@ -36,7 +36,7 @@ Mass protest in public space is often situated as the normative mode of resistan
 3. Nasasra, Mansour. 2022. “From Damascus Gate to Shaikh Jarrah: The Palestinian Sovereignty Protests in East Jerusalem.” *Protest* 1 (2): 329–45. ([open-access link](https://brill.com/view/journals/prot/1/2/article-p329_006.xml))
 4. تماري، سليم.2012. "أم الغريب: تخطيط المدن وتطور الحيِّز العام في فلسطين العثمانية." حوليات القدس. 13. 26-46. ([مصدر مفتوح الوصول](https://store.palestine-studies.org/sites/default/files/hq-articles/11464.pdf))
 
-  English version: Tamari, Salim. 2017. “The Sweet Aroma of Holy Sewage: Urban Planning and the New Public Space in Palestine.” In *The Great War and the Remaking of Palestine*. Berkeley, CA: University of California Press, 38-66. ([chapter description](https://academic.oup.com/california-scholarship-online/book/16086/chapter-abstract/171088224?redirectedFrom=fulltext) and [WorldCat link](https://search.worldcat.org/title/1038189463))
+English version: Tamari, Salim. 2017. “The Sweet Aroma of Holy Sewage: Urban Planning and the New Public Space in Palestine.” In *The Great War and the Remaking of Palestine*. Berkeley, CA: University of California Press, 38-66. ([chapter description](https://academic.oup.com/california-scholarship-online/book/16086/chapter-abstract/171088224?redirectedFrom=fulltext) and [WorldCat link](https://search.worldcat.org/title/1038189463))
 
 ## Further Resources 
 
@@ -55,7 +55,7 @@ Mass protest in public space is often situated as the normative mode of resistan
 11. Junka, Laura. 2006. “The Politics of Gaza Beach.” *Third Text* 20 (3–4): 417–28. ([link](https://www.tandfonline.com/doi/full/10.1080/09528820600855428))
 12. كنفاني، غسان. ثورة ٣٦ - ٣٩ في فلسطين: خلفيات و تفاصيل و تحليل.  د.ن ([مصدر مفتوح الوصول](https://archive.org/details/36393/page/n1/mode/2up))
 
-In English: Kanafani, Ghassan. 1980 [1972]. *The 1936-39 Revolt in Palestine*. London: Tricontinental Society. ([open-access link](https://yplus.ps/wp-content/uploads/2021/01/Kanafani-Ghassan-The-1936-39-Revolt-in-Palestine.pdf))
+English version: Kanafani, Ghassan. 1980 [1972]. *The 1936-39 Revolt in Palestine*. London: Tricontinental Society. ([open-access link](https://yplus.ps/wp-content/uploads/2021/01/Kanafani-Ghassan-The-1936-39-Revolt-in-Palestine.pdf))
 
 13. Murray, Hubert. 2021. “Landscape as Resistance in the West Bank.” *Places Journal*. ([open-access link](https://placesjournal.org/article/battir-landscape-as-palestinian-resistance-in-the-west-bank))
 14. Salah, Shadi. 2023. “On Public Spaces of Palestinian Refugee Camps: The Social Production and Construction of Almarkaz ‘Taxi Station.’” In *Living Politics in the City: Architecture as Catalyst for Public Space*, edited by Marion Hohlfedt and Carmen Popescu. Leuven: Leuven University Press. ([WorldCat link](https://search.worldcat.org/title/1342623596))
