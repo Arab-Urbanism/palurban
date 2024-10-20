@@ -39,7 +39,7 @@ After the signing of the Oslo Accords, the 1990s saw a steady erosion of a Pales
 
 ## Further Resources
 
-*Please contact us if you would like access to any resources.*
+*Please [contact us](https://palestine.araburbanism.com/contact/) if you would like access to any resources.*
 
 1. Abu El-Haj, Nadia. 2001. *Facts on the Ground: Archaeological Practice and Territorial Self-Fashioning in Israeli Society*. Chicago: University of Chicago Press. (via [WorldCat](https://search.worldcat.org/title/Facts-on-the-ground-:-archaeological-practice-and-territorial-self-fashioning-in-Israeli-society/oclc/47666593))
 2. أبو ستة، سلمان. 2007. *طريق العودة : دليل المدن والقرى المهجرة والحالية والأماكن المقدسة في فلسطين.* لندن: هيئة أرض فلسطين. ([مصدر مفتوح الوصول](https://www.plands.org/en/maps-atlases/atlases/the-return-journey/return-jounrney-pdfs)) /// **IN ENGLISH:** Abu Sitta, Salman.2007. *The Return Journey:A Guide to the Depopulated And Present Palestine Towns And Villages and Holy Sites*. London: Palestine Land society.(via [WorldCat](https://search.worldcat.org/title/173205494))
