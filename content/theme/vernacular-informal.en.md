@@ -75,7 +75,7 @@ A significant aspect of Palestinian history and culture can be understood by exa
 بالعربيّة: مجموعة الدكتافون. 2016. استراحة مخيّم: روايات من مخيم الرشيدية والبحر، جدلية (ديسمبر، 26). ([رابط](https://www.jadaliyya.com/Details/33865/%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AD%D8%A9-%D9%85%D8%AE%D9%8A%D9%91%D9%85-%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA-%D9%85%D9%86-%D9%85%D8%AE%D9%8A%D9%85-%D8%A7%D9%84%D8%B1%D8%B4%D9%8A%D8%AF%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%A8%D8%AD%D8%B1)) 
 
 2. Fleifel, Mahd, director. *A World Not Ours.* Nakba Filmworks, 2012. 93 min. ([link](https://www.youtube.com/watch?v=25VfKnYJj8U))
-3. Malas, Mohammad, director. *The Dream.* Maram Cinema*,* 1987. 45 min. ([open-access link](https://www.youtube.com/watch?v=0422pOLlmWM))
+3. Malas, Mohammad, director. *The Dream.* Maram Cinema, 1987. 45 min. ([open-access link](https://www.youtube.com/watch?v=0422pOLlmWM))
 
 بالعربيّة: ملص، محمد، مخرج. *المنام*. سينما مرام. 1987. 45 د. ([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=0422pOLlmWM))
 
