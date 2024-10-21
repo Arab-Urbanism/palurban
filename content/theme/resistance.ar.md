@@ -7,7 +7,7 @@ tags:
   - resistance
   - public space
   - spatial practice
-lastmod: 2024-10-14T22:48:00
+lastmod: 2024-10-20T20:06:00
 featured_image: /theme/publicspaceresistance.png
 summary: ""
 ---
