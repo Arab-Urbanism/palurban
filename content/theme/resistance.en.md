@@ -47,7 +47,7 @@ English version: Tamari, Salim. 2017. “The Sweet Aroma of Holy Sewage: Urban P
 2. Alım, Eray. 2020. “The Art of Resistance in the Palestinian Struggle Against Israel.” *Turkish Journal of Middle Eastern Studies* 7 (1): 45–79. ([open-access link](https://dergipark.org.tr/tr/download/article-file/1112140))
 3. Alnaji, Hala, Shyma Naji, Husam Salem, Ibrahim Naji, and Mustefi Naji. 2016. “Visual Ethnography and Urban Practice Investigation: ‘The Palestinian Urban Practices in Gaza Strip during War 2014.’” ([open-access link](https://dadun.unav.edu/handle/10171/42256))
 4. Barakat, Rana. 2021. “‘Ramadan Does Not Come for Free’: Refusal as New and Ongoing in Palestine.” *Journal of Palestine Studies* 50 (4): 90–95. ([link](https://www.tandfonline.com/doi/full/10.1080/0377919X.2021.1979376))
-5. بشارة، عزمي. 2003. "الحيز العام والحيز الخاص." في: طروحات عن النهضة المعاقة. رام الله: مواطن، المؤسسة الفلسطينية لدراسة الديمقراطية. 113-122. ([مصدر مفتوح الوصول](https://muwatin.birzeit.edu/sites/default/files/publications/attachments/Azmi%20Bishara%20-%20Theses%20on%20a%20Deferred%20Awakening.pdf))
+5. بشارة، عزمي. 2003. ”الحيز العام والحيز الخاص.“ في: طروحات عن النهضة المعاقة. رام الله: مواطن، المؤسسة الفلسطينية لدراسة الديمقراطية. 113-122. ([مصدر مفتوح الوصول](https://muwatin.birzeit.edu/sites/default/files/publications/attachments/Azmi%20Bishara%20-%20Theses%20on%20a%20Deferred%20Awakening.pdf))
 6. Chalcraft, John. 2016. *Popular Politics in the Making of the Modern Middle East*. Cambridge: Cambridge University Press. 240-56 ([WorldCat link](https://search.worldcat.org/title/922561826))
 7. Dibiasi, Caroline Mall. 2015. “Changing Trends in Palestinian Political Activism: The Second Intifada, the Wall Protests, and the Human Rights Turn.” *Geopolitics* 20 (3): 669–95. ([link](https://www.tandfonline.com/doi/abs/10.1080/14650045.2015.1028028))
 8. El-Atrash, Ahmad. 2020. “Placemaking Interventions in Palestine as Demonstration Effects on the Ground.” *The Journal of Public Space*, no. Vol. 5 n. 1: 167–76. ([open-access link](https://www.journalpublicspace.org/index.php/jps/article/view/1256/769))
@@ -68,4 +68,4 @@ English version: Kanafani, Ghassan. 1980 [1972]. *The 1936-39 Revolt in Palestin
 ## Audiovisual Material
 
 1. Cowan, Paul and Amer Shomali, directors. 2014. *The Wanted 18*. National Film Board of Canada, 75 mins. ([link](https://www.kanopy.com/en/product/wanted-18-israeli-armys-pursuit-18-cows))
-2. د.م. 2017 "أبو جلدة والعرميط". د.ن. ([مصدر مفتوح الوصول](https://abujildeh.com/))
+2. د.م. 2017 ”أبو جلدة والعرميط“. د.ن. ([مصدر مفتوح الوصول](https://abujildeh.com/))
