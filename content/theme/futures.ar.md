@@ -35,6 +35,8 @@ featured_image: /theme/futures.jpeg
 
 4. مرعي، فائق. 2020. "معمار زاده الخيال: تجارب في التحرر المعماري." باب الواد، يونيو 07، 2020. ([مصدر مفتوح الوصول](https://babelwad.com/ar/%D9%86%D8%B5%D9%88%D8%B5/%D9%85%D8%B9%D9%85%D8%A7%D8%B1-%D8%B2%D8%A7%D8%AF%D9%87-%D8%A7%D9%84%D8%AE%D9%8A%D8%A7%D9%84-%D8%AA%D8%AC%D8%A7%D8%B1%D8%A8-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D8%B1-%D8%A7%D9%84%D9%85%D8%B9/)).
 
+------------------
+
 ## مراجع أخرى
 
 *الرجاء [التواصل معنا](https://palestine.araburbanism.com/ar/contact/) للوصول لأي من المصادر التالية.*
@@ -45,10 +47,7 @@ featured_image: /theme/futures.jpeg
 English version: Abu Sitta, Salman.2007. *The Return Journey:A Guide to the Depopulated And Present Palestine Towns And Villages and Holy Sites*. London: Palestine Land society.([WorldCat link](https://search.worldcat.org/title/173205494))
 
 3. Azeb, Sophia. 2019. “Who Will We Be When We Are Free? On Palestine and Futurity.” *The Funambulist Magazine* 24, June 28, 2019. ([open-access link](https://thefunambulist.net/magazine/24-futurisms/will-free-palestine-futurity-sophia-azeb))
-4. عازم، ابتسام. 2014. *سفر الاختفاء*.  بيروت: منشورات الجمل. ([رابط ورلدكات](https://search.worldcat.org/title/884401035))
-
-English version: Azem, Ibtisam. 2019. *The Book of Disappearance: A Novel*. Translated by Sinan Antoon. Syracuse: Syracuse University Press. ([WorldCat link](https://search.worldcat.org/title/1097462878))
-
+4. عازم، ابتسام. 2014. *سفر الاختفاء*.  بيروت: منشورات الجمل. ([رابط ورلدكات](https://search.worldcat.org/title/884401035)) **/// IN ENGLISH**: Azem, Ibtisam. 2019. *The Book of Disappearance: A Novel*. Translated by Sinan Antoon. Syracuse: Syracuse University Press. ([WorldCat link](https://search.worldcat.org/title/1097462878))
 5. El-Shakry, Hoda.  (2021) “Palestine and the Aesthetics of the Future Impossible.” *Interventions* 23 (5): 669–90. ([link](https://www.tandfonline.com/doi/full/10.1080/1369801X.2021.1885471))
 6. Farsakh, Leila, ed. 2021. *Rethinking Statehood in Palestine: Self-Determination and Decolonization Beyond Partition*. Oakland: University of California Press. ([open-access link](https://luminosoa.org/site/books/e/10.1525/luminos.113/))
 7. Hochberg, Gil Z. 2021. “Introduction: Archival Imagination of/for the Future.” In *Becoming Palestine: Toward an Archival Imagination of the Future*. Durham: Duke University Press. ([open-access link](https://assets-us-01.kc-usercontent.com/f7ca9afb-82c2-002a-a423-84e111d5b498/b24268db-351e-4419-bb16-debab12c9297/978-1-4780-1482-9_601.pdf?fm=webp&auto=format&lossless=true))
