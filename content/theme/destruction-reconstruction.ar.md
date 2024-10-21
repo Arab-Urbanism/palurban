@@ -38,8 +38,8 @@ images:
 
 English version: Khalidi, Walid, ed. 1992. *All That Remains: The Palestinian Villages Occupied and Depopulated by Israel in 1948.* Washington DC: The Institute for Palestine Studies. ([book description](https://www.palestine-studies.org/en/node/1649445) and [WorldCat link](https://search.worldcat.org/title/25632612))
 
-4. أبو سعادة، ندي. 2024. "إعادة الإعمار ومشروعنا التحرري." مؤسسة الدراسات الفلسطينية. أبريل 17، 2024. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/1655449))
-5. بشارة، خلدون. 2024. " تربية الأمل: نفعل في غزة ما يفعله العاطلون عن العمل." مجلة الدراسات الفلسطينية، 137 (شتاء):46 - 51. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/1654963))
+4. أبو سعادة، ندي. 2024. ”إعادة الإعمار ومشروعنا التحرري.“ مؤسسة الدراسات الفلسطينية. أبريل 17، 2024. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/1655449))
+5. بشارة، خلدون. 2024. ” تربية الأمل: نفعل في غزة ما يفعله العاطلون عن العمل.“ مجلة الدراسات الفلسطينية، 137 (شتاء):46 - 51. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/1654963))
 
 ## 
 
@@ -60,13 +60,13 @@ English version: Khalidi, Walid, ed. 1992. *All That Remains: The Palestinian Vi
 11. Munayer, Luzan. 2024. “Cultural restoration: Kafr ‘Aqab in the West Bank, Palestine by Riwaq.” *The Architectural Review*, February 7, 2024. ([open-access link](https://www.architectural-review.com/buildings/cultural-restoration-kafr-aqab-in-the-west-bank-palestine-by-riwaq#:~:text=Founded%20in%201991%2C%20Riwaq%20is,development%20of%20Palestine's%20architectural%20heritage))
 12. Saad, Dima. 2019. “Materializing Palestinian Memory: Objects of Home and the Everyday Eternities of Exile.” *Jerusalem Quarterly*, 80 (Winter): 57- 71. ([open-access link](https://www.palestine-studies.org/sites/default/files/jq-articles/Pages%20from%20JQ80%20-%20Saad.pdf))
 13. Sheikh Hassan, Ismael. 2021. “Activism in the Context of Reconstructing Nahr al-Bared Refugee Camp: Lessons for Syria’s Reconstruction?” *Arab Reform Initiative,* October 28, 2021. ([open-access link](https://www.arab-reform.net/publication/activism-in-the-context-of-reconstructing-nahr-al-bared-refugee-camp-lessons-for-syrias-reconstruction/))
-14. وايزمان، إيال. 2017."حرب مدينيّة: السيرُ عبر الجدران،" في *أرض جوفاء: الهندسة المعمارية للاحتلال الاسرائيلي*. ترجمة باسل وطفة. القاهرة: مدارات للأبحاث والنشر، 281 - 331. ([مصدر مفتوح الوصول](https://archive.org/details/20210510_20210510_2152/page/n331/mode/2up))
+14. وايزمان، إيال. 2017.”حرب مدينيّة: السيرُ عبر الجدران،“ في *أرض جوفاء: الهندسة المعمارية للاحتلال الاسرائيلي*. ترجمة باسل وطفة. القاهرة: مدارات للأبحاث والنشر، 281 - 331. ([مصدر مفتوح الوصول](https://archive.org/details/20210510_20210510_2152/page/n331/mode/2up))
 
 English version: Weizman, Eyal. 2007. “Urban Warfare: Walking Through Walls,” In *Hollow Land: Israel’s Architecture of occupation*. London; New York: Verso, 185 – 220. ([WorldCat link](https://search.worldcat.org/title/989789841))
 
-15. أمارة، أحمد. 2018. "أم الحيران نموذج لتهجير وإعادة تهجير عرب النقب." مجلة الدراسات الفلسطينية، 114 (ربيع): 76 – 85. ([مصدر مفتوح الوصول](https://store.palestine-studies.org/sites/default/files/mdf-articles/076-085.pdf))
-16. سالم، يارا. 2024. سياسة الدعم والتمويل الغربية: ما قبل، والآن، وما بعد." مجلة الدراسات الفلسطينية، 137 (شتاء):220 - 226. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/1654964)).
-17. طه، لبنى، وباسل نصر. 2023. " أطفال يعيدون بناء مدرستهم عبر فن الرسوم المتحركة." مؤسسة الدراسات الفلسطينية. مارس 21، 2023. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/1653752)).
+15. أمارة، أحمد. 2018. ”أم الحيران نموذج لتهجير وإعادة تهجير عرب النقب.“ مجلة الدراسات الفلسطينية، 114 (ربيع): 76 – 85. ([مصدر مفتوح الوصول](https://store.palestine-studies.org/sites/default/files/mdf-articles/076-085.pdf))
+16. سالم، يارا. 2024. ”سياسة الدعم والتمويل الغربية: ما قبل، والآن، وما بعد.“ مجلة الدراسات الفلسطينية، 137 (شتاء):220 - 226. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/1654964)).
+17. طه، لبنى، وباسل نصر. 2023. ” أطفال يعيدون بناء مدرستهم عبر فن الرسوم المتحركة.“ مؤسسة الدراسات الفلسطينية. مارس 21، 2023. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/1653752)).
 
 ## مواد سمعية وبصرية
 
