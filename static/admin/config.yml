@@ -78,6 +78,15 @@ collections:
           required: false,
         }
       - { label: "Body", name: "body", widget: "markdown", i18n: true }
+      - {
+          label: "Social media preview card image",
+          name: images,
+          widget: list,
+          i18n: duplicate,
+          required: false,
+          field:
+            { name: image, widget: image, i18n: duplicate, required: false },
+        }
 
   - label: "Pages"
     name: "pages"
@@ -98,6 +107,21 @@ collections:
               required: false,
             }
           - { label: Body, name: body, widget: markdown, i18n: true }
+          - {
+              label: "Social media preview card image",
+              name: images,
+              widget: list,
+              i18n: duplicate,
+              required: false,
+              field:
+                {
+                  name: image,
+                  widget: image,
+                  i18n: duplicate,
+                  required: false,
+                },
+            }
+
       - label: "Contact"
         name: "contact"
         i18n: true
@@ -119,6 +143,7 @@ collections:
               required: false,
             }
           - { label: Body, name: body, widget: markdown, i18n: true }
+
       - label: "Themes list"
         name: "theme"
         i18n: true
