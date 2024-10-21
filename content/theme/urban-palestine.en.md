@@ -34,7 +34,7 @@ The study of the modern urban history of Palestine, like other spaces in the Glo
 
 ## Key Resources
 
-1. Taraki, Lisa. n.d. "Urban Palestine: Divergent Trajectories of Spatial and Social Transformations." Interactive Encyclopedia of the Palestine Question*.* ([open-access link](https://www.palquest.org/en/highlight/14513/urban-palestine))
+1. Taraki, Lisa. n.d. “Urban Palestine: Divergent Trajectories of Spatial and Social Transformations.” Interactive Encyclopedia of the Palestine Question. ([open-access link](https://www.palquest.org/en/highlight/14513/urban-palestine))
 
 بالعربية: تراكي، ليزا. د.ت. " فلسطين الحضريّة: مسارات متباينة لتحوّلات مكانية واجتماعية." الموسوعة التفاعلية للقضية الفلسطينية. ([مصدر مفتوح الوصول](https://www.palquest.org/ar/highlight/14514/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D8%A7%D9%84%D8%AD%D8%B6%D8%B1%D9%8A%D9%91%D8%A9))
 
