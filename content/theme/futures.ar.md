@@ -34,8 +34,6 @@ images:
 3. Hawari, Yara. 2020. “Radical Futures: When Palestinians Imagine.” *Al-Shabaka*, March 20, 2020. ([open-access link](https://al-shabaka.org/commentaries/radical-futures-when-palestinians-imagine/)) **/// بالعربيّة**: هواري، يارا. 2020. "مستقبل مختلف: حين يتخيل الفلسطينيون."  الشبكة، مارس 24، 2020. ([مصدر مفتوح الوصول](https://al-shabaka.org/commentaries/%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%AD%D9%8A%D9%86-%D9%8A%D8%AA%D8%AE%D9%8A%D9%84-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%88%D9%86/)).
 4. مرعي، فائق. 2020. "معمار زاده الخيال: تجارب في التحرر المعماري." باب الواد، يونيو 07، 2020. ([مصدر مفتوح الوصول](https://babelwad.com/ar/%D9%86%D8%B5%D9%88%D8%B5/%D9%85%D8%B9%D9%85%D8%A7%D8%B1-%D8%B2%D8%A7%D8%AF%D9%87-%D8%A7%D9%84%D8%AE%D9%8A%D8%A7%D9%84-%D8%AA%D8%AC%D8%A7%D8%B1%D8%A8-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D8%B1-%D8%A7%D9%84%D9%85%D8%B9/)).
 
-------------------
-
 ## مراجع أخرى
 
 *الرجاء [التواصل معنا](https://palestine.araburbanism.com/ar/contact/) للوصول لأي من المصادر التالية.*
