@@ -1,7 +1,7 @@
 ---
 title: فلسطين الحضرية
 slug: urban-palestine
-draft: true
+draft: false
 weight: ""
 tags: []
 lastmod: 2024-10-19T16:12:00
