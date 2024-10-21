@@ -4,7 +4,7 @@ slug: urban-palestine
 draft: false
 weight: ""
 tags: []
-lastmod: 2024-10-19T16:12:00
+lastmod: 2024-10-20T20:06:00
 featured_image: /theme/urban-Palestine.jpg
 ---
 The study of the modern urban history of Palestine, like other spaces in the Global South, is often dominated by colonial experiments, figures, visions, and projects. Recently, there has been a growing interest in revisiting this history beyond the colonial frame, acknowledging the active role Palestinians took in producing their urban modernity within and beyond imperial and colonial influence. This perspective positions Palestinian collective agency within regional and global networks of urban modernity that helped shape new Palestinian urban classes and modern forms of urban governance, political life, economic pursuits, and cultural expressions. The continuous waves of urbanisation and de-urbanisation in Palestine under colonial rule have transformed and reshaped Palestinian social fabric. This has impacted class structure, urban-rural dynamics, and urban identities, citizenship, lifestyles, and spatial organisation. A key historic moment was the loss of the cosmopolitan space and urban networks of the coastal cities, juxtaposed with the rising prominence of mountain cities after the 1948 Nakba. Urban colonial policies, whether through urban annihilation, heritage dispossession, ghettoization, gentrification, or through aggressive new developments, have motivated Palestinians for over a century to engage in various forms of urban resistance. 
