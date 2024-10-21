@@ -1,6 +1,6 @@
 baseURL: 'https://palestine.araburbanism.com/'
 languageCode: en-us
-title: 'Palestine: space and politics'
+title: 'Palestine: Space and Politics'
 copyright: 'Arab Urbanism team. All content is licensed under Creative Commons attribution license (CC BY 4.0)'
 theme: ananke
 
@@ -23,7 +23,7 @@ languages:
     languageCode: en
     languageDirection: ltr
     languageName: English
-    title: 'Palestine: space and politics'
+    title: 'Palestine: Space and Politics'
     weight: 0
   ar:
     disabled: false
@@ -35,7 +35,7 @@ languages:
 
 
 params:
-  tagline: 'a curriculum by Arab Urbanism'
+  tagline: 'A spatial Palestine curriculum by the Arab Urbanism team.'
   description: 'a curriculum by Arab Urbanism from a spatial perspective at all scales. '
   keywords:
     - Palestine
