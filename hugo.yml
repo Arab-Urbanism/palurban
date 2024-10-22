@@ -1,6 +1,6 @@
 baseURL: 'https://palestine.araburbanism.com/'
 languageCode: en-us
-title: 'Palestine: Space and Politics'
+title: 'Palestine: Spaces and Politics'
 copyright: 'Arab Urbanism team. All content is licensed under Creative Commons attribution license (CC BY 4.0).'
 theme: ananke
 
@@ -23,7 +23,7 @@ languages:
     languageCode: en
     languageDirection: ltr
     languageName: English
-    title: 'Palestine: Space and Politics'
+    title: 'Palestine: Spaces and Politics'
     weight: 0
   ar:
     disabled: false
