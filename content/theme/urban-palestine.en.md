@@ -97,3 +97,5 @@ English version: Seikaly, May. 1995. *Haifa: Transformation of an Arab Society, 
 7. جلال، نادر، وجورج خليفي، ونتاشا عاروري، ومحمود أبو هشهش. ”الجلسة الثامنة: المدينة ثقافيا وفنياً من مؤتمر’المدينة الفلسطينية: قضايا في التحولات الحضرية’.“ ديسيمبر 16، 2019. رابط يوتيوب، 1:56:34. ([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=dJlAk2LZ_hc&list=PL3-hGOuLVJpt2M_zWklAJ-NR-Y9gCoNS0&index=9))
 8. جبارة طيبي، مروة، مخرجة. *مصور غزة الأول – كيغام جغليان* . الجزيرة الوثائقية. 2021. 27:30 د.  ([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=tosuD3YwjhA))
 9. السقا، أباهر، وعمر ذوابة. ”غزة: التاريخ الاجتماعي تحت الاستعمار البريطاني | أباهر السقا.“ تقديم عمر ذوابة، بودكاست عفكرة ، أكتوبر 31، 2023. بودكاست، رابط يوتيوب، 1:12:15.  ([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=vDBlPC7qMKw))
+
+*Image: Collecting contributions for Palestinian families that were negatively impacted by the 1936 General Strike, Jaffa Gate to the Old City of Jerusalem. Hotel Fast is on the left. [1936–39, 222]. Institute for Palestine Studies Archives.*
