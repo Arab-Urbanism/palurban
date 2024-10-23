@@ -3,9 +3,6 @@ title: The Vernacular and the Informal
 slug: vernacular-informal
 draft: false
 weight: 3
-tags:
-  - informality
-  - vernacular
 lastmod: 2024-10-20T20:06:00
 featured_image: /theme/Photo caption_ the Palestinian neighbourhood of Silwan in Jerusalem. Source Wikimedia Commons .jpg
 images:
