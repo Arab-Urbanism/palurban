@@ -3,9 +3,6 @@ title: Mapping and Counter-mapping
 slug: mapping-countermapping
 draft: false
 weight: 2
-tags:
-  - maps
-  - cartography
 lastmod: 2024-10-19T15:26:00
 featured_image: /theme/mapping-counter-mapping.png
 images:
