@@ -3,8 +3,6 @@ title: "مستقبل فلسطين المتعدد: الفضاءات والمُخ�
 slug: futures
 draft: false
 weight: 1
-tags:
-  - مستقبل
 lastmod: 2024-10-13T22:24:00
 featured_image: /theme/futures.jpeg
 images:
