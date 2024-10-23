@@ -70,3 +70,7 @@ English version: Azem, Ibtisam. 2019. *The Book of Disappearance: A Novel*. Tran
 5.  afikra. “Exploring New Horizons: A Conversation on Arabic Science Fiction | Ashraf Fagih.” YouTube video, January 25, 2023. ([video](https://youtu.be/JpFxK4SELZU)) 
 6. The Fire These Times. “Space Travel, Nostalgia, and Retrofuturism (With Nat Muller).”February 4, 2022. ([audio recording](https://thefirethesetimes.com/2022/02/04/98-space-travel-nostalgia-and-retrofuturism-with-nat-muller/))
 7. Countless Palestinian Futures, a project by Danah Abdulla and Sarona Abuaker. ([web](https://palifutures.com))
+
+------------------------
+
+الصورة: رجل فلسطيني مع حصانه على شاطئ يافا، ٢٠٢٣. تصوير مجد الشهابي.
