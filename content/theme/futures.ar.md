@@ -19,7 +19,7 @@ images:
 - كيف تقوم تلك المخيلات بإعادة إنتاج  بنى اجتماعية وسياسية واقتصادية؟
 - كيف يمكننا رسم طريق لمستقبلات فلسطين المرغوبة؟
 
-## أمثلة رئيسيّة
+## أمثلة رئيسية
 
 - ثلاثية لاريسا صنصور A Space Exodus (2008), Nation Estate (2012), and In the future they ate from the finest Porcelain (2015) ([رابط كانوبي](https://www.kanopystreaming.com/category/supplier/mec-film))
 - مسابقات هيئة أرض فلسطين المعمارية ([رابط](https://www.plands.org/ar/competition-news))
