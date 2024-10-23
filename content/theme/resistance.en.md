@@ -3,10 +3,6 @@ title: Public Space and Resistance
 slug: resistance
 draft: false
 weight: ""
-tags:
-  - resistance
-  - public space
-  - spatial practice
 lastmod: 2024-10-20T20:07:00
 featured_image: /theme/publicspaceresistance.png
 images:
