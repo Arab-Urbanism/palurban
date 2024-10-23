@@ -3,8 +3,6 @@ title: التدمير وإعادة الإعمار
 slug: destruction-reconstruction
 draft: false
 weight: ""
-tags:
-  - reconstruction
 lastmod: 2024-10-20T18:47:00
 featured_image: /theme/Destruction and reconstruction-1.jpg
 images:
