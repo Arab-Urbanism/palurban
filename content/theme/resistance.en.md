@@ -66,4 +66,4 @@ English version: Kanafani, Ghassan. 1980 [1972]. *The 1936-39 Revolt in Palestin
 1. Cowan, Paul and Amer Shomali, directors. 2014. *The Wanted 18*. National Film Board of Canada, 75 mins. ([link](https://www.kanopy.com/en/product/wanted-18-israeli-armys-pursuit-18-cows))
 2. د.م. 2017 ”أبو جلدة والعرميط“. د.ن. ([مصدر مفتوح الوصول](https://abujildeh.com/))
 
-*Image: Bethlehem, 2013. Photograph by Dena Qaddumi.*
+*Image: View of Apartheid Wall, Bethlehem, 2013. Photograph by Dena Qaddumi.*
