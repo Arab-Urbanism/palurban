@@ -77,3 +77,7 @@ English version: Tesdell, Omar I. et al. 2022. “Makaneyyat: An Open and Ingrai
 8. The Palestine Land Studies Center (PLSC) ([website](https://www.aub.edu.lb/plsc/Pages/default.aspx)) 
 9. The Palestine Exploration Fund Collections ([website](https://www.pef.org.uk/collections/)) 
 10. Yasser Arafat Foundation. Private Ownership by Palestine Refugees Data: Access to the United Nations Conciliation Commission for Palestine Archive. ([website](https://yaf.ps/page-1542-en.html))
+
+---------------
+
+*الصورة: خريطة غزّة في الأربعينات، عن طريق مشروع خرائط فلسطين المفتوحة  ([PalOpenMaps.org](http://palopenmaps.org)).*
