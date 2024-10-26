@@ -3,10 +3,6 @@ title: الفضاء العام والمقاومة
 slug: resistance
 draft: false
 weight: ""
-tags:
-  - resistance
-  - public space
-  - spatial practice
 lastmod: 2024-10-20T20:06:00
 featured_image: /theme/publicspaceresistance.png
 images:
@@ -69,3 +65,5 @@ English version: Kanafani, Ghassan. 1980 [1972]. *The 1936-39 Revolt in Palestin
 
 1. Cowan, Paul and Amer Shomali, directors. 2014. *The Wanted 18*. National Film Board of Canada, 75 mins. ([link](https://www.kanopy.com/en/product/wanted-18-israeli-armys-pursuit-18-cows))
 2. د.م. 2017 ”أبو جلدة والعرميط“. د.ن. ([مصدر مفتوح الوصول](https://abujildeh.com/))
+
+*الصورة:منظر لجدار الفصل العنصري، بيت لحم، 2013. تصوير دينا قدّومي.*

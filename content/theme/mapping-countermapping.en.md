@@ -3,9 +3,6 @@ title: Mapping and Counter-mapping
 slug: mapping-countermapping
 draft: false
 weight: 2
-tags:
-  - maps
-  - cartography
 lastmod: 2024-10-19T15:26:00
 featured_image: /theme/mapping-counter-mapping.png
 images:
@@ -81,3 +78,7 @@ English version: Tesdell, Omar I. et al. 2022. “Makaneyyat: An Open and Ingrai
 8. The Palestine Land Studies Center (PLSC) ([website](https://www.aub.edu.lb/plsc/Pages/default.aspx)) 
 9. The Palestine Exploration Fund Collections ([website](https://www.pef.org.uk/collections/)) 
 10. Yasser Arafat Foundation. Private Ownership by Palestine Refugees Data: Access to the United Nations Conciliation Commission for Palestine Archive. ([website](https://yaf.ps/page-1542-en.html))
+
+-----------
+
+*Image: Map of Gaza in the 1940s, via Palestine Open Maps ([PalOpenMaps.org](http://palopenmaps.org)).*

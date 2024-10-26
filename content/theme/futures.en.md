@@ -3,16 +3,12 @@ title: "Palestine Futures: Spaces and Imaginations"
 slug: futures
 draft: false
 weight: 1
-tags:
-  - futures
-  - forecasting
-  - backcasting
 lastmod: 2024-10-19T15:25:00
 featured_image: /theme/futures.jpeg
 images:
   - /theme/futures.jpeg
 ---
-After the signing of the Oslo Accords, the 1990s saw a steady erosion of a Palestinian political project of territorial liberation and political emancipation. Radical politics and social imaginaries were replaced with a relentless integration into global neoliberalism. Simultaneously, the two-state solution was declared dead multiple times, and Palestinian calls for a one-state solution were revived. But as climate change looms over the region, the future looks more precarious than ever, prompting a search for futures that assert the position of Palestine in relation to its regional context. Meanwhile, a rich preoccupation with alternative futurities abound: from speculative fiction and artwork, to endeavours of archiving and imagining a decolonial future beyond the violence of settler colonialism, to questions of social reproduction and embodied futurities.
+After the signing of the Oslo Accords, the 1990s saw a steady erosion of a Palestinian political project of territorial liberation and political emancipation. Radical politics and social imaginaries were replaced with a relentless integration into global neoliberalism. Simultaneously, the two-state solution was declared dead multiple times, and Palestinian calls for a one-state solution were revived. But as climate change looms over the region, the future looks more precarious than ever, prompting a search for futures that assert the position of Palestine in relation to its regional context. Meanwhile, a rich preoccupation with alternative futurities abound: from speculative fiction and artwork, to endeavours of archiving and imagining a decolonial future beyond the violence of settler colonialism, to questions of social reproduction and embodied futurities. 
 
 ## Key Questions
 
@@ -74,3 +70,7 @@ English version: Azem, Ibtisam. 2019. *The Book of Disappearance: A Novel*. Tran
 5.  afikra. “Exploring New Horizons: A Conversation on Arabic Science Fiction | Ashraf Fagih.” YouTube video, January 25, 2023. ([video](https://youtu.be/JpFxK4SELZU)) 
 6. The Fire These Times. “Space Travel, Nostalgia, and Retrofuturism (With Nat Muller).”February 4, 2022. ([audio recording](https://thefirethesetimes.com/2022/02/04/98-space-travel-nostalgia-and-retrofuturism-with-nat-muller/))
 7. Countless Palestinian Futures, a project by Danah Abdulla and Sarona Abuaker. ([web](https://palifutures.com))
+
+-----------
+
+*Image: Palestinian man with horse on the beach in Jaffa, 2023. Photograph by Majd Al-Shihabi.*

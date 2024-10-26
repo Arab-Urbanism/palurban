@@ -3,9 +3,6 @@ title: The Vernacular and the Informal
 slug: vernacular-informal
 draft: false
 weight: 3
-tags:
-  - informality
-  - vernacular
 lastmod: 2024-10-20T20:06:00
 featured_image: /theme/Photo caption_ the Palestinian neighbourhood of Silwan in Jerusalem. Source Wikimedia Commons .jpg
 images:
@@ -84,3 +81,5 @@ A significant aspect of Palestinian history and culture can be understood by exa
 4. أمارة، أحمد ورامي صايغ. ”الماضي الحاضر الحلقة 85: تاريخ النقب قبل النكبة.“ تقديم رامي صايغ، حركة الشبيبة اليافية، يناير، 11، 2024. بودكاست، رابط يوتيوب: 42:00. ([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=MYXGUavBiXY))
 5. خليفي، ميشيل، مخرج. *حكاية الجواهر الثلاث*. عمر القطان وميشيل خليفي. 1995. 31 د. ([مصدر مفتوح الوصول](https://ok.ru/video/1436562164382))
 6. رمضان، يارا وغدير نجار. ”تراث العمارة المؤقتة - مخيمات اللجوء.“ تقديم غدير نجارة، أبريل، 13، 2023. قناة يوتيوب، رابط يوتيوب: 1:06:09. ([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=MYCRbXiujXk))
+
+*Image: The Palestinian neighborhood of Silwan in Jerusalem, 2019. [Photograph by Mksg1](https://commons.wikimedia.org/wiki/File:Jerusalem_Hills.jpg).*
