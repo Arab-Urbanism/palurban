@@ -91,10 +91,10 @@ English version: Seikaly, May. 1995. *Haifa: Transformation of an Arab Society, 
 1. Aljafari, Kamal, director. *Port of Memory.* Novel Media, 2009. 62 min. ([link](https://kamalaljafari.art/This-Place-They-Dried-From-The-Sea-An-Interview-with-Kamal-Aljafari)).
 2. Aljafari, Kamal, director. *Recollection* 2015. 90 min. ([open-access link](https://www.youtube.com/watch?v=IMEi8MEKgYU))
 3. Suleiman, Elia, director. *Chronicle of a Disappearance.* Dhat Productions, 1996. 88 min. ([link](https://www.youtube.com/watch?v=MD4EKZ0p4iw)).
-4. Suleiman, Elia, director. *Divine Intervention.* Humbert Balsan*,* 2002. 92 min. ([link](https://vimeo.com/8623241))
+4. Suleiman, Elia, director. *Divine Intervention.* Humbert Balsan, 2002. 92 min. ([link](https://vimeo.com/8623241))
 5. Nafar, Tamer. “Ebn al Lyd (Prod. Jethro).” Directed by Mu Vision. July 6, 2022. Music Video, 2:16. ([open-access link](https://www.youtube.com/watch?v=Jo4y0PJC2II))
 6. أمارة، أحمد، وهمّت زعبي، وليزا تراكي، وسليم تماري. ”الجلسة الثانية: التاريخ الإجتماعي للمدينة الفلسطينية من مؤتمر المدينة الفلسطينية: قضايا في التحولات الحضرية’.“ يناير 3، 2020. رابط يوتيوب: 1:57:15.([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=kg021YTgJ2g&list=PL3-hGOuLVJpt2M_zWklAJ-NR-Y9gCoNS0&index=2))
-7. جلال، نادر، وجورج خليفي، ونتاشا عاروري، ومحمود أبو هشهش. ”الجلسة الثامنة: المدينة ثقافيا وفنياً من مؤتمر’المدينة الفلسطينية: قضايا في التحولات الحضرية’.“ ديسيمبر 16، 2019. رابط يوتيوب، 1:56:34. ([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=dJlAk2LZ_hc&list=PL3-hGOuLVJpt2M_zWklAJ-NR-Y9gCoNS0&index=9))
+7. جلال، نادر، وجورج خليفي، ونتاشا عاروري، ومحمود أبو هشهش. ”الجلسة الثامنة: المدينة ثقافيا وفنياً من مؤتمر’المدينة الفلسطينية: قضايا في التحولات الحضرية'.“ ديسيمبر 16، 2019. رابط يوتيوب، 1:56:34. ([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=dJlAk2LZ_hc&list=PL3-hGOuLVJpt2M_zWklAJ-NR-Y9gCoNS0&index=9))
 8. جبارة طيبي، مروة، مخرجة. *مصور غزة الأول – كيغام جغليان* . الجزيرة الوثائقية. 2021. 27:30 د.  ([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=tosuD3YwjhA))
 9. السقا، أباهر، وعمر ذوابة. ”غزة: التاريخ الاجتماعي تحت الاستعمار البريطاني | أباهر السقا.“ تقديم عمر ذوابة، بودكاست عفكرة ، أكتوبر 31، 2023. بودكاست، رابط يوتيوب، 1:12:15.  ([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=vDBlPC7qMKw))
 
