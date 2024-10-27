@@ -79,6 +79,6 @@ English version: Tesdell, Omar I. et al. 2022. “Makaneyyat: An Open and Ingrai
 9. The Palestine Exploration Fund Collections ([website](https://www.pef.org.uk/collections/)) 
 10. Yasser Arafat Foundation. Private Ownership by Palestine Refugees Data: Access to the United Nations Conciliation Commission for Palestine Archive. ([website](https://yaf.ps/page-1542-en.html))
 
------------
+*_____*
 
 *Image: Map of Gaza in the 1940s, via Palestine Open Maps ([PalOpenMaps.org](http://palopenmaps.org)).*
