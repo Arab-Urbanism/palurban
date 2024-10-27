@@ -16,6 +16,8 @@ draft: false
 
 نحن [دينا قدّومي](https://www.lse.ac.uk/sociology/people/Dena-Qaddumi) (منسقة)، و[ندي أبو سعادة](https://www.nadiabusaada.com)، و[مجد الشهابي](https://majdal.cc)، و[سامية حنّي](https://www.samiahenni.com)، و[لانا جودة](https://birzeit.academia.edu/LanaJudeh)، وعمر جعبري سلامنكا، وفايق مرعي، و[عمّار عزّوز](https://www.geog.ox.ac.uk/staff/aazzouz.html)، وآية نصّار.
 
+## 
+
 ______
 
 *الصورة: بيت لحم، 2013. تصوير دينا قدّومي.*
