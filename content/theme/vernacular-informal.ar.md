@@ -52,7 +52,7 @@ images:
 3. Ayoub, Venus. 2020. The Problematics of ‘Informal Urbanism’ as a Terminology and its Use to Refer to Palestinian Localities in Israel. *Arab Urbanism.* ([open-access link](https://www.araburbanism.com/magazine/problematics-of-informality))
 4. Bshara, Khaldun. 2014. “Spatial Memories: The Palestinian Refugee Camps as Time Machine.”[ Jerusalem Quarterly](https://koha.birzeit.edu/cgi-bin/koha/opac-detail.pl?biblionumber=200014), 60 (Autumn): 14-31.[ (open-access link](https://www.palestine-studies.org/en/node/202708))
 5. Bshara, Khaldun. 2015. “Rural Urbanization: the Commodification of Land in Post-Oslo Palestine.” In *Reclaiming Space: The Rehabilitation of 50 Villages in Rural Palestine,* edited by Suad Amiry and Khaldun Bshara, 92-103. Ramallah: Riwaq. ([open-access link](https://www.academia.edu/16677257/Rural_Urbanization_the_Commodification_of_Land_in_Post_Oslo_Palestine))
-6. Charpentier, Paul. n.d. “Regulating Palestinian Land.” Interactive Encyclopedia of the Palestine Question*.* ([open-access link](https://palquest.palestine-studies.org/en/overallchronology?nid=150&chronos=150))
+6. Charpentier, Paul. n.d. “Regulating Palestinian Land.” Interactive Encyclopedia of the Palestine Question. ([open-access link](https://palquest.palestine-studies.org/en/overallchronology?nid=150&chronos=150))
 
 بالعربيّة: شاربنتيه، بيار. د. ت. ”التنظيم القانوني للأراضي في فلسطين.“ الموسوعة التفاعلية للقضية الفلسطينية. ([مصدر مفتوح الوصول](https://palquest.palestine-studies.org/ar/overallchronology?nid=240&chronos=240)) 
 
