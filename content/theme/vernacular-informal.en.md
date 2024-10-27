@@ -38,7 +38,7 @@ A significant aspect of Palestinian history and culture can be understood by exa
 3. Falah, Ghazi. 1985. “How Israel Controls The Bedouin in Israel.’’ *Journal of Palestine Studies*, 14(2): 35-51. ([open-access link](https://drive.google.com/file/d/1K052hxLUeeu6Aig7_OSFFMoSzWkSHPUr/view?usp=sharing))
 4. Berg, Kjersti. n.d. “The Evolving Infrastructure of Palestinian Refugee Camps: Perpetuating the Temporary.” Interactive Encyclopedia of the Palestine Question. ([open-access link](https://www.palquest.org/en/highlight/22473/evolving-infrastructure-palestinian-refugee-camps))
 
-بالعربيّة: بيرغ، كيرستي. د.ت. ” تطوّر البنية التحتية للمخيمات الفلسطيني.“ الموسوعة التفاعلية للقضية الفلسطينية. ([مصدر مفتوح الوصول](https://www.palquest.org/ar/highlight/22474/%D8%AA%D8%B7%D9%88%D9%91%D8%B1-%D8%A7%D9%84%D8%A8%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D8%AA%D9%8A%D8%A9-%D9%84%D9%84%D9%85%D8%AE%D9%8A%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9)) 
+بالعربية: بيرغ، كيرستي. د.ت. ” تطوّر البنية التحتية للمخيمات الفلسطيني.“ الموسوعة التفاعلية للقضية الفلسطينية. ([مصدر مفتوح الوصول](https://www.palquest.org/ar/highlight/22474/%D8%AA%D8%B7%D9%88%D9%91%D8%B1-%D8%A7%D9%84%D8%A8%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D8%AA%D9%8A%D8%A9-%D9%84%D9%84%D9%85%D8%AE%D9%8A%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9)) 
 
 5. Dajani, Muna, Daniela De Leo, and Nura AlKhalili. 2013. “Planned Informality as a by-product by the Occupation: The Case of Kufr Aqab Neighborhood in Jerusalem North.” *Planum, Journal of Urbanism,* 26 (1): 2–10. ([open-access link](https://www.academia.edu/2535199/Planned_Informality_as_a_by_product_of_the_Occupation_The_case_of_Kufr_Aqab_Neighbourhood_in_Jerusalem_North))
 
@@ -53,7 +53,7 @@ A significant aspect of Palestinian history and culture can be understood by exa
 5. Bshara, Khaldun. 2015. “Rural Urbanization: the Commodification of Land in Post-Oslo Palestine.” In *Reclaiming Space: The Rehabilitation of 50 Villages in Rural Palestine,* edited by Suad Amiry and Khaldun Bshara, 92-103. Ramallah: Riwaq. ([open-access link](https://www.academia.edu/16677257/Rural_Urbanization_the_Commodification_of_Land_in_Post_Oslo_Palestine))
 6. Charpentier, Paul. n.d. “Regulating Palestinian Land.” Interactive Encyclopedia of the Palestine Question. ([open-access link](https://palquest.palestine-studies.org/en/overallchronology?nid=150&chronos=150))
 
-بالعربيّة: شاربنتيه، بيار. د. ت. ”التنظيم القانوني للأراضي في فلسطين.“ الموسوعة التفاعلية للقضية الفلسطينية. ([مصدر مفتوح الوصول](https://palquest.palestine-studies.org/ar/overallchronology?nid=240&chronos=240)) 
+بالعربية: شاربنتيه، بيار. د. ت. ”التنظيم القانوني للأراضي في فلسطين.“ الموسوعة التفاعلية للقضية الفلسطينية. ([مصدر مفتوح الوصول](https://palquest.palestine-studies.org/ar/overallchronology?nid=240&chronos=240)) 
 
 7. Clarno, Andy. 2017. “Bethlehem: Neoliberal Colonization.” In *Neoliberal Apartheid: Palestine/Israel and South Africa after 1994*, Chicago: University of Chicago Press, 89–124. ([chapter description](https://academic.oup.com/chicago-scholarship-online/book/21675/chapter-abstract/181579553?redirectedFrom=fulltext) and [WorldCat link](https://search.worldcat.org/title/972734099))
 8. Falah, Ghazi-Walid. 2012. “Growing up in rural Galilee, Palestine: memories of childhood geographies.” *Cultural Geographies*, 20(3): 299–318. ([link](https://doi.org/10.1177/1474474012447760)) 
@@ -77,7 +77,7 @@ A significant aspect of Palestinian history and culture can be understood by exa
 2. Fleifel, Mahd, director. *A World Not Ours.* Nakba Filmworks, 2012. 93 min. ([link](https://www.youtube.com/watch?v=25VfKnYJj8U))
 3. Malas, Mohammad, director. *The Dream.* Maram Cinema, 1987. 45 min. ([open-access link](https://www.youtube.com/watch?v=0422pOLlmWM))
 
-بالعربيّة: ملص، محمد، مخرج. *المنام*. سينما مرام. 1987. 45 د. ([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=0422pOLlmWM))
+بالعربية: ملص، محمد، مخرج. *المنام*. سينما مرام. 1987. 45 د. ([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=0422pOLlmWM))
 
 4. أمارة، أحمد ورامي صايغ. ”الماضي الحاضر الحلقة 85: تاريخ النقب قبل النكبة.“ تقديم رامي صايغ، حركة الشبيبة اليافية، يناير، 11، 2024. بودكاست، رابط يوتيوب: 42:00. ([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=MYXGUavBiXY))
 5. خليفي، ميشيل، مخرج. *حكاية الجواهر الثلاث*. عمر القطان وميشيل خليفي. 1995. 31 د. ([مصدر مفتوح الوصول](https://ok.ru/video/1436562164382))
