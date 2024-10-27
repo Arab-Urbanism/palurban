@@ -50,7 +50,7 @@ English version: Tamari, Salim. 2017. “The Sweet Aroma of Holy Sewage: Urban P
 9. Hasan, Dana, and Sahera Bleibleh. 2023. “The Everyday Art of Resistance: Interpreting ‘Resistancescapes’ against Urban Violence in Palestine.” *Political Geography* 101: 102833. ([link](https://www.sciencedirect.com/science/article/abs/pii/S0962629823000112))
 10. حسن، دانة وساحرة بليبلة، إعادة قراءة الفضاء العام: التعبير بالغرافيتي في مواجهة العنف المكاني في فلسطين، جدليّة، يونيو، 28، 2021. ([مصدر مفتوح الوصول](https://www.jadaliyya.com/Details/43033)) 
 11. Junka, Laura. 2006. “The Politics of Gaza Beach.” *Third Text* 20 (3–4): 417–28. ([link](https://www.tandfonline.com/doi/full/10.1080/09528820600855428))
-12. كنفاني، غسان. ثورة ٣٦ - ٣٩ في فلسطين: خلفيات و تفاصيل و تحليل.  د.ن  ([مصدر مفتوح الوصول](https://archive.org/details/36393/page/n1/mode/2up))
+12. كنفاني، غسان. ثورة ٣٦ - ٣٩ في فلسطين: خلفيات و تفاصيل و تحليل. د.ن   ([مصدر مفتوح الوصول](https://archive.org/details/36393/page/n1/mode/2up))
 
 English version: Kanafani, Ghassan. 1980 [1972]. *The 1936-39 Revolt in Palestine*. London: Tricontinental Society. ([open-access link](https://yplus.ps/wp-content/uploads/2021/01/Kanafani-Ghassan-The-1936-39-Revolt-in-Palestine.pdf))
 
