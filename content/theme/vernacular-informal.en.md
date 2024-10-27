@@ -82,6 +82,6 @@ A significant aspect of Palestinian history and culture can be understood by exa
 5. خليفي، ميشيل، مخرج. *حكاية الجواهر الثلاث*. عمر القطان وميشيل خليفي. 1995. 31 د. ([مصدر مفتوح الوصول](https://ok.ru/video/1436562164382))
 6. رمضان، يارا وغدير نجار. ”تراث العمارة المؤقتة - مخيمات اللجوء.“ تقديم غدير نجارة، أبريل، 13، 2023. قناة يوتيوب، رابط يوتيوب: 1:06:09. ([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=MYCRbXiujXk))
 
-*____*
+*_____*
 
 *Image: The neighborhood of Silwan in Jerusalem, 2019. [Photograph by Mksg1](https://commons.wikimedia.org/wiki/File:Jerusalem_Hills.jpg).*
