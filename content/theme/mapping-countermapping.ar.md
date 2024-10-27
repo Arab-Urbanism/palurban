@@ -80,4 +80,4 @@ English version: Tesdell, Omar I. et al. 2022. “Makaneyyat: An Open and Ingrai
 
 *_____*
 
-*الصورة: خريطة غزّة في الأربعينات، عن طريق مشروع خرائط فلسطين المفتوحة  ([PalOpenMaps.org](http://palopenmaps.org)).*
+*الصورة: خريطة غزّة في الأربعينات، عن طريق مشروع خرائط فلسطين المفتوحة. [PalOpenMaps.org](http://palopenmaps.org/)*

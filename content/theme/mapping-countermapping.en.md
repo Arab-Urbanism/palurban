@@ -81,4 +81,4 @@ English version: Tesdell, Omar I. et al. 2022. “Makaneyyat: An Open and Ingrai
 
 *_____*
 
-*Image: Map of Gaza in the 1940s, via Palestine Open Maps ([PalOpenMaps.org](http://palopenmaps.org)).*
+*Image: Map of Gaza in the 1940s, via Palestine Open Maps. [PalOpenMaps.org](http://palopenmaps.org/).*
