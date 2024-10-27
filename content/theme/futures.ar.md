@@ -71,6 +71,6 @@ English version: Azem, Ibtisam. 2019. *The Book of Disappearance: A Novel*. Tran
 6. The Fire These Times. “Space Travel, Nostalgia, and Retrofuturism (With Nat Muller).”February 4, 2022. ([audio recording](https://thefirethesetimes.com/2022/02/04/98-space-travel-nostalgia-and-retrofuturism-with-nat-muller/))
 7. Countless Palestinian Futures, a project by Danah Abdulla and Sarona Abuaker. ([web](https://palifutures.com))
 
-------------------------
+*_____*
 
 الصورة: رجل فلسطيني مع حصانه على شاطئ يافا، ٢٠٢٣. تصوير مجد الشهابي.
