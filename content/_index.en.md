@@ -16,6 +16,6 @@ PSP is a collective of geographers, architects, and urban planners committed to 
 
 We are [Dena Qaddumi](https://www.lse.ac.uk/sociology/people/Dena-Qaddumi) (coordinator), [Nadi Abusaada](https://www.nadiabusaada.com), [Majd Al-Shihabi](https://majdal.cc), [Ammar Azzouz](https://www.geog.ox.ac.uk/staff/aazzouz.html), [Samia Henni](https://www.samiahenni.com), [Lana Judeh](https://birzeit.academia.edu/LanaJudeh), Faiq Mari, Aya Nassar, and Omar Jabary Salamanca.
 
-____
+*_____*
 
 *Image: Bethlehem, 2013. Photograph by Dena Qaddumi.*
