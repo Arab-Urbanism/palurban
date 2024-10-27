@@ -1,5 +1,5 @@
 ---
-title: الخرائطيّة والخرائطيّة المضادة
+title: الخرائطية والخرائطية المضادة
 slug: mapping-countermapping
 draft: false
 weight: 2
