@@ -63,10 +63,11 @@ images:
 11. Ragette, Friedrich. 2003. *Traditional Domestic Architecture of the Arab Region*. Stuttgart; London: Edition Axel Menges ([WorldCat link](https://search.worldcat.org/title/52188574))
 12. Ramadan, Ahmad 2013, “Spatialising the refugee camp.” *Transactions of the Institute of British Geographers*, 38 (1): 65-77. ([link](https://www.researchgate.net/publication/263692114_Spatialising_the_Refugee_Camp))
 13. Rubaii, Kali. 2016. “Concrete and Livability in Occupied Palestine.” *Engagement,* September 20, 2016. ([open-access link](https://aesengagement.wordpress.com/2016/09/20/concrete-and-livability-in-occupied-palestine/))
-14. سقف الحيط، يارا. 2015. ”الفراغ المعماري في رام اللّه.“ *مجلة بدايات* (خريف، 2015). ([مصدر مفتوح الوصول](https://bidayatmag.com/node/631)) 
-15. سقف الحيط، رغد. 2022.”جغرافيا الفخار في ريف القدس: من مصادر الطين المحلي إلى شبكات الإنتاج والتوزيع.“ مؤسسة الدراسات الفلسطينية، نوفمبر 08، 2022. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/1653394#)) 
-16. عرّاف، شكري. (1996).  *القرية العربية الفلسطينية: مبنى واستعمالات أراضي.* ([مصدر مفتوح الوصول](https://palestine.araburbanism.com/img/Palestinian%20village,%20Shukri%20Arraf.PDF)) 
-17. عامري، سعاد. 2003. *عمارة قرى الكراسي: من تاريخ الإقطاع في ريف فلسطين في القرنين الثامن عشر والتاسع عشر*، رام الله: رواق، 24 - 43. ([مصدر مفتوح الوصول](https://palestine.araburbanism.com/img/15%20Throne%20Village%20Architecture.PDF)) 
+14. الصانع، لبنى. 2022. ”رسائل العمران إلى الإنسان.“ (مصدر مفتوح الوصول)
+15. سقف الحيط، يارا. 2015. ”الفراغ المعماري في رام اللّه.“ *مجلة بدايات* (خريف، 2015). ([مصدر مفتوح الوصول](https://bidayatmag.com/node/631)) 
+16. سقف الحيط، رغد. 2022.”جغرافيا الفخار في ريف القدس: من مصادر الطين المحلي إلى شبكات الإنتاج والتوزيع.“ مؤسسة الدراسات الفلسطينية، نوفمبر 08، 2022. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/1653394#)) 
+17. عرّاف، شكري. (1996).  *القرية العربية الفلسطينية: مبنى واستعمالات أراضي.* ([مصدر مفتوح الوصول](https://palestine.araburbanism.com/img/Palestinian%20village,%20Shukri%20Arraf.PDF)) 
+18. عامري، سعاد. 2003. *عمارة قرى الكراسي: من تاريخ الإقطاع في ريف فلسطين في القرنين الثامن عشر والتاسع عشر*، رام الله: رواق، 24 - 43. ([مصدر مفتوح الوصول](https://palestine.araburbanism.com/img/15%20Throne%20Village%20Architecture.PDF)) 
 
 ## مواد سمعية وبصرية
 
