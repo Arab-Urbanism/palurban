@@ -100,4 +100,4 @@ English version: Seikaly, May. 1995. *Haifa: Transformation of an Arab Society, 
 
 *_____*
 
-*Image: Collecting contributions for Palestinian families that were negatively impacted by the 1936 General Strike, Jaffa Gate to the Old City of Jerusalem. Hotel Fast is on the left. [1936–39, 222]. Institute for Palestine Studies Archives.*
+*Image: Collecting contributions for Palestinian families that were negatively impacted by the 1936 General Strike, Jaffa Gate to the Old City of Jerusalem.  Institute for Palestine Studies Archives.*
