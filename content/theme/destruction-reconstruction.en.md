@@ -72,6 +72,6 @@ English version: Weizman, Eyal. 2007. “Urban Warfare: Walking Through Walls,�
 4. خليفي، ميشيل، مخرج. *معلول تحتفل بدمارها*. ميشيل خليفي وبيرين هامبله. 1984. 31 د. ([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=D44KIMcPRnQ))
 5. Sharp, Deen, Helga Tawil-Souri, Fadi Shayya, and Tareq Baconi. 2021. “Open Gaza Launch Video.” February 28, 2021. YouTube link, 1:00:44. ([open-access link](https://www.youtube.com/watch?v=RumfL3-3wQ4&t=475s))
 
-___
+*_____*
 
 *Image: A partially destroyed house during the Battle of Jenin 2002 in the Jenin Palestinian Refugee Camp. [The Joss Dray Collection, the Palestinian Museum Digital Archive](https://www.palarchive.org/index.php/Detail/objects/30615/lang/en_US).*
