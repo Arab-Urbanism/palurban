@@ -1,13 +1,15 @@
 {{ $related := where .Site.RegularPages "Section" "theme" | first 15 }}
 {{ with $related }}
 {{ with where . "Permalink" "ne" $.Page.Permalink }}
+<div class="black-80">
 <h3 class="f3">{{ T "explore_themes"}} </h3>
 <ul class="list ph0 plex">
     {{ range . }}
     <li class="f3 pb3">
-        <a href="{{ .RelPermalink }}" class="link dim black underline-hover">{{ .Title }}</a>
+        <a href="{{ .RelPermalink }}" class="link dim black-80 underline-hover">{{ .Title }}</a>
     </li>
     {{ end }}
 </ul>
+</div>
 {{ end }}
 {{ end }}

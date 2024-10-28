@@ -12,12 +12,12 @@
   </article>
 </div>
 <div class="flex-l mt2 mw8 center">
-  <section class="cf pv1 ph3  mw10">
+  <section class="cf pv1 ph3  mw10 black-80">
     <h2 id="themes" class="f1 center ph0">{{ T "explore_themes" }}</h2>
     <ul class="list pa0 plex">
     {{ range where .Site.RegularPages "Section" "theme" }}
       <li class="f2 pv2">
-        <a href="{{ .RelPermalink }}" class="link dim black underline-hover">{{ .Title }}</a>
+        <a href="{{ .RelPermalink }}" class="link dim black-80 underline-hover">{{ .Title }}</a>
         <!-- {{ with resources.Get .Params.featured_image }}
           <img src="{{ .RelPermalink }}">
         {{ end }} -->
