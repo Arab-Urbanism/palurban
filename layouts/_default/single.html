@@ -13,7 +13,7 @@
       </h1>
     </header>
     {{ end }}
-    <div class="nested-copy-line-height lh-copy plex {{ $.Param "post_content_classes"  | default ""}} f4 nested-links {{ $.Param "text_color" | default "mid-gray" }} {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl4-l" "pr4-l" }} w-two-thirds-l">
+    <div class="nested-copy-line-height lh-copy plex {{ $.Param "post_content_classes"  | default ""}} f4 {{ $.Param "text_color" | default "mid-gray" }} {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl4-l" "pr4-l" }} w-two-thirds-l">
       {{- .Content -}}
 
       {{ if not .Lastmod.IsZero }}

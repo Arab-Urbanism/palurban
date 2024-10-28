@@ -1,4 +1,4 @@
-<a
+<a class="link underline mid-gray dim"
 	{{ if or (strings.HasPrefix .Destination `http`) (strings.HasPrefix .Destination `#`) (strings.HasPrefix .Destination `/`) }}
 	
 		href = "{{ .Destination | safeURL }}"
