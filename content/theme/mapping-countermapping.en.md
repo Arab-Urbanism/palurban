@@ -14,7 +14,7 @@ Maps are central to the spatiality of Palestine, where practices of mapping and 
 
 - What are the mapping traditions from within the“Middle East”? How are mapping practices implicated in colonialism? How are different counter-mapping practices used in Palestine? 
 - How have Palestinians used maps to assert claims on historic Palestine?
-- How are maps used in the formation of a national Palestinian narratives?
+- How are maps used in the formation of national Palestinian narratives?
 - What do the different circulating maps of Palestine tell us about the colonial history of the region, and about possible futures?
 - Who owns spatial data about Palestine, and what duties towards the public interest does data ownership entail?
 
