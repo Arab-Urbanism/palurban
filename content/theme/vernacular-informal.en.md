@@ -40,7 +40,7 @@ A significant aspect of Palestinian history and culture can be understood by exa
 
 بالعربية: بيرغ، كيرستي. د.ت. ” تطوّر البنية التحتية للمخيمات الفلسطيني.“ الموسوعة التفاعلية للقضية الفلسطينية. ([مصدر مفتوح الوصول](https://www.palquest.org/ar/highlight/22474/%D8%AA%D8%B7%D9%88%D9%91%D8%B1-%D8%A7%D9%84%D8%A8%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D8%AA%D9%8A%D8%A9-%D9%84%D9%84%D9%85%D8%AE%D9%8A%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9)) 
 
-5. AlKhalili, Noura, Dajani, Muna, and Daniela De Leo, and. 2014. “Shifting Realities: Dislocating Palestinian Jerusalemites from the Capital to the Edge.” _International Journal of Housing Policy,_ 14(3):257-67. ([open-access link](https://lucris.lub.lu.se/ws/portalfiles/portal/25657036/Article_I_Alkhalili.pdf)) 
+5. AlKhalili, Noura, Dajani, Muna, and Daniela De Leo, and. 2014. “Shifting Realities: Dislocating Palestinian Jerusalemites from the Capital to the Edge.” _International Journal of Housing Policy,_ 14(3): 257-67. ([open-access link](https://lucris.lub.lu.se/ws/portalfiles/portal/25657036/Article_I_Alkhalili.pdf)) 
 
 ## Further Resources
 
