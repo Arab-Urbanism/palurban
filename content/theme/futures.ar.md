@@ -1,5 +1,5 @@
 ---
-title: "مستقبل فلسطين المتعدد: الفضاءات والمخيّلات"
+title: 'مستقبل فلسطين المتعدد: الفضاءات والمخيّلات'
 slug: futures
 draft: false
 weight: 1
@@ -28,7 +28,7 @@ images:
 ## مراجع رئيسية
 
 1. Farsakh, Leila. 2021. “Introduction: The Struggle for Self-Determination and the Palestinian Quest for Statehood.” In _Rethinking Statehood in Palestine: Self-Determination and Decolonization Beyond Partition_, edited by Leila Farsakh, 1-25. Oakland: University of California Press. ([open-access link](https://luminosoa.org/site/chapters/e/10.1525/luminos.113.a/))
-2. Hassouna, Silvia. 2023. “Cultivating Biodiverse Futures at the (postcolonial) Botanical Garden.” _Transactions of the Institute of British Geographer_s. ([open-access link](https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/tran.12639)) 
+2. Hassouna, Silvia. 2023. “Cultivating Biodiverse Futures at the (postcolonial) Botanical Garden.” \_Transactions of the Institute of British Geographer\_s. ([open-access link](https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/tran.12639)) 
 3. Hawari, Yara. 2020. “Radical Futures: When Palestinians Imagine.” _Al-Shabaka_, March 20, 2020. ([open-access link](https://al-shabaka.org/commentaries/radical-futures-when-palestinians-imagine/))
 
 بالعربية: هواري، يارا. 2020. ”مستقبل مختلف: حين يتخيل الفلسطينيون.“  الشبكة، مارس 24، 2020. ([مصدر مفتوح الوصول](https://al-shabaka.org/commentaries/%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%AD%D9%8A%D9%86-%D9%8A%D8%AA%D8%AE%D9%8A%D9%84-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%88%D9%86/)).
@@ -64,14 +64,15 @@ English version: Azem, Ibtisam. 2019. _The Book of Disappearance: A Novel_. Tran
 
 ## مواد سمعية وبصرية
 
-1. Manna, Jumana, director. _Wild Relatives._ Jumana Manna, 2018. 64 min. ([link](https://www.jumanamanna.com/Wild-Relatives))
-2. Larissa Sansour’s artwork ([website](https://larissasansour.com/))
-3. Nasser, Arab and Tarzan Nasser, directors. 2013. _Condom Lead_. Made in Palestine Project, 15 mins. ([open-access film](https://youtu.be/LNkn552kEYA?si=SvTvoEaAOBC9zDc-))
-4. Singapore Art Museum. “Teaching and Living Science Fiction: Lessons from the Middle East – Nadya Sbaiti.” YouTube video. July 10, 2023. ([lecture](https://youtu.be/guEgt5r5RbU?si=BXCdRljMyyAQKbPY)) 
-5.  afikra. “Exploring New Horizons: A Conversation on Arabic Science Fiction | Ashraf Fagih.” YouTube video, January 25, 2023. ([video](https://youtu.be/JpFxK4SELZU)) 
-6. The Fire These Times. “Space Travel, Nostalgia, and Retrofuturism (With Nat Muller).”February 4, 2022. ([audio recording](https://thefirethesetimes.com/2022/02/04/98-space-travel-nostalgia-and-retrofuturism-with-nat-muller/))
-7. Countless Palestinian Futures, a project by Danah Abdulla and Sarona Abuaker. ([web](https://palifutures.com))
+1. يونس، رامي؛ فريدلاند، سارا إما، مخرجين. _لد_. 78د  ([رابط](https://lydinexile.com/))
+2. Manna, Jumana, director. _Wild Relatives._ Jumana Manna, 2018. 64 min. ([link](https://www.jumanamanna.com/Wild-Relatives))
+3. Larissa Sansour’s artwork ([website](https://larissasansour.com/))
+4. Nasser, Arab and Tarzan Nasser, directors. 2013. _Condom Lead_. Made in Palestine Project, 15 mins. ([open-access film](https://youtu.be/LNkn552kEYA?si=SvTvoEaAOBC9zDc-))
+5. Singapore Art Museum. “Teaching and Living Science Fiction: Lessons from the Middle East – Nadya Sbaiti.” YouTube video. July 10, 2023. ([lecture](https://youtu.be/guEgt5r5RbU?si=BXCdRljMyyAQKbPY)) 
+6.  afikra. “Exploring New Horizons: A Conversation on Arabic Science Fiction | Ashraf Fagih.” YouTube video, January 25, 2023. ([video](https://youtu.be/JpFxK4SELZU)) 
+7. The Fire These Times. “Space Travel, Nostalgia, and Retrofuturism (With Nat Muller).”February 4, 2022. ([audio recording](https://thefirethesetimes.com/2022/02/04/98-space-travel-nostalgia-and-retrofuturism-with-nat-muller/))
+8. Countless Palestinian Futures, a project by Danah Abdulla and Sarona Abuaker. ([web](https://palifutures.com))
 
-_______
+**_\__**
 
 _الصورة: رجل فلسطيني مع حصانه على شاطئ يافا، 2023. تصوير مجد الشهابي._
