@@ -2,7 +2,7 @@
 title: فلسطين الحضرية
 slug: urban-palestine
 draft: false
-weight: ""
+weight: null
 tags: []
 lastmod: 2024-10-20T20:06:00
 featured_image: /theme/urban-Palestine.jpg
@@ -50,7 +50,7 @@ English version: Tamari, Salim. 2008. _Mountain against the Sea:_ _Essays on Pal
 
 ## مراجع أخرى
 
-_الرجاء [التواصل معنا](https://palestine.araburbanism.com/ar/contact/) للوصول لأي من المصادر التالية._
+_الرجاء&#160;[التواصل معنا](https://palestine.araburbanism.com/ar/contact/)&#160;للوصول لأي من المصادر التالية._
 
 1. Abusaada, Nadi. 2021. “Building Urban Palestine: Jaffa and Nablus 1870-1930.” Thesis. University of Cambridge. ([open-access link)](https://www.repository.cam.ac.uk/items/d344acc0-066b-4205-9c53-2ecbc64b41bb)
 2. Abusaada, Nadi. 2022. “Essential Readings on Urban Palestine.” _Jadaliyya_, (January 16). ([open-access link](https://www.jadaliyya.com/Details/44213))
@@ -98,6 +98,6 @@ English version: Seikaly, May. 1995. _Haifa: Transformation of an Arab Society, 
 8. جبارة طيبي، مروة، مخرجة. _مصور غزة الأول – كيغام جغليان_ . الجزيرة الوثائقية. 2021. 27:30 د.  ([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=tosuD3YwjhA))
 9. السقا، أباهر، وعمر ذوابة. ”غزة: التاريخ الاجتماعي تحت الاستعمار البريطاني | أباهر السقا.“ تقديم عمر ذوابة، بودكاست عفكرة ، أكتوبر 31، 2023. بودكاست، رابط يوتيوب، 1:12:15.  ([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=vDBlPC7qMKw))
 
-_______
+**_\__**
 
 _الصورة: جمع التبرعات للعائلات الفلسطينية المتضررة من الإضراب العام عام 1936، من باب الخليل إلى البلدة القديمة في القدس. أرشيف مؤسسة الدراسات الفلسطينية._
