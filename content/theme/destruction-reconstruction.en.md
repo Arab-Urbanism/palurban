@@ -74,4 +74,4 @@ English version: Weizman, Eyal. 2007. â€œUrban Warfare: Walking Through Walls,â€
 
 **\_\_\_**
 
-\_Image: A partially destroyed house during the Battle of Jenin 2002 in the Jenin Palestinian Refugee Camp. [The Joss Dray Collection, the Palestinian Museum Digital Archive](https://www.palarchive.org/index.php/Detail/objects/30615/lang/en_US).\_
+_Image: A partially destroyed house during the Battle of Jenin 2002 in the Jenin Palestinian Refugee Camp.&#32;[The Joss Dray Collection, the Palestinian Museum Digital Archive](https://www.palarchive.org/index.php/Detail/objects/30615/lang/en_US)._
