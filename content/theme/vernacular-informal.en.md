@@ -52,18 +52,18 @@ _Please&#32;[contact us](https://palestine.araburbanism.com/contact/)&#32;if you
 4. Alkhalili, Noura. 2019. “‘A Forest of Urbanization’: Camp Metropolis in the Edge Areas.” _Settler Colonial Studies_ 9 (2): 207–26. ([link](https://www.tandfonline.com/doi/full/10.1080/2201473X.2017.1409398#abstract))
 5. Ayoub, Venus. 2020. The Problematics of ‘Informal Urbanism’ as a Terminology and its Use to Refer to Palestinian Localities in Israel. _Arab Urbanism.&#32;_([open-access link)](https://www.araburbanism.com/magazine/problematics-of-informality)
 6. Bshara, Khaldun. 2014. “Spatial Memories: The Palestinian Refugee Camps as Time Machine.”[ _Jerusalem Quarterly_](https://koha.birzeit.edu/cgi-bin/koha/opac-detail.pl?biblionumber=200014), 60 (Autumn): 14-31.[ (open-access link](https://www.palestine-studies.org/en/node/202708))
-7. Bshara, Khaldun. 2015. “Rural Urbanization: the Commodification of Land in Post-Oslo Palestine.” In _Reclaiming Space: The Rehabilitation of 50 Villages in Rural Palestine,&#32;_edited by Suad Amiry and Khaldun Bshara, 92-103. Ramallah: Riwaq. ([open-access link](https://www.academia.edu/16677257/Rural_Urbanization_the_Commodification_of_Land_in_Post_Oslo_Palestine))
-8. Charpentier, Paul. n.d. “Regulating Palestinian Land.” Interactive Encyclopedia of the Palestine Question_._ ([open-access link](https://palquest.palestine-studies.org/en/overallchronology?nid=150&chronos=150))
+7. Bshara, Khaldun. 2015. “Rural Urbanization: the Commodification of Land in Post-Oslo Palestine.” In \_Reclaiming Space: The Rehabilitation of 50 Villages in Rural Palestine, \_edited by Suad Amiry and Khaldun Bshara, 92-103. Ramallah: Riwaq. ([open-access link](https://www.academia.edu/16677257/Rural_Urbanization_the_Commodification_of_Land_in_Post_Oslo_Palestine))
+8. Charpentier, Paul. n.d. “Regulating Palestinian Land.” Interactive Encyclopedia of the Palestine Question\_.\_ ([open-access link](https://palquest.palestine-studies.org/en/overallchronology?nid=150&chronos=150))
 
 بالعربيّة: شاربنتيه، بيار. د. ت. "التنظيم القانوني للأراضي في فلسطين." **الموسوعة التفاعلية للقضية الفلسطينية**. ([مصدر مفتوح الوصول](https://palquest.palestine-studies.org/ar/overallchronology?nid=240&chronos=240)) 
 
 9. Clarno, Andy. 2017. “Bethlehem: Neoliberal Colonization.” In _Neoliberal Apartheid: Palestine/Israel and South Africa after 1994_, Chicago: University of Chicago Press, 89–124. ([chapter description](https://academic.oup.com/chicago-scholarship-online/book/21675/chapter-abstract/181579553?redirectedFrom=fulltext) and [WorldCat link](https://search.worldcat.org/title/972734099))
 10. Falah, Ghazi-Walid. 2012. “Growing up in rural Galilee, Palestine: memories of childhood geographies.” _Cultural Geographies_, 20(3): 299–318. ([link](https://doi.org/10.1177/1474474012447760)) 
-11. Ghadban, Shadi. 2015. “Palestinian dry stone structures: an endogenous expression of cultural landscape.” _Journal of Sustainable Development, Culture, Traditions,&#32;_1b (January): 34-47. ([open-access link](https://sdct-journal.hua.gr/index.php/2015-10-18-22-23-19/2015-volume-1-b/367-palestinian-dry-stone-structures-an-endogenous-expression-of-cultural-landscape)) 
+11. Ghadban, Shadi. 2015. “Palestinian dry stone structures: an endogenous expression of cultural landscape.” \_Journal of Sustainable Development, Culture, Traditions, \_1b (January): 34-47. ([open-access link](https://sdct-journal.hua.gr/index.php/2015-10-18-22-23-19/2015-volume-1-b/367-palestinian-dry-stone-structures-an-endogenous-expression-of-cultural-landscape)) 
 12. Jabareen, Yosef, and Orwa Switat. 2019. “Insurgent informality: the struggle over space production between the Israeli state and its Palestinian Bedouin communities.” _Space and Polity_, 23(1): 92–113. ([open-access link](https://www.researchgate.net/publication/331584770_Insurgent_informality_the_struggle_over_space_production_between_the_Israeli_state_and_its_Palestinian_Bedouin_communities))
 13. Ragette, Friedrich. 2003. _Traditional Domestic Architecture of the Arab Region_. Stuttgart; London: Edition Axel Menges ([WorldCat link](https://search.worldcat.org/title/52188574))
 14. Ramadan, Ahmad 2013, “Spatialising the refugee camp.” _Transactions of the Institute of British Geographers_, 38 (1): 65-77. ([link](https://www.researchgate.net/publication/263692114_Spatialising_the_Refugee_Camp))
-15. Rubaii, Kali. 2016. “Concrete and Livability in Occupied Palestine.”_&#32;Engagement,_ September 20, 2016. ([open-access link](https://aesengagement.wordpress.com/2016/09/20/concrete-and-livability-in-occupied-palestine/))
+15. Rubaii, Kali. 2016. “Concrete and Livability in Occupied Palestine.”\_ Engagement,\_ September 20, 2016. ([open-access link](https://aesengagement.wordpress.com/2016/09/20/concrete-and-livability-in-occupied-palestine/))
 16. الصانع، لبنى. 2022. "**رسائل العمران إلى الإنسان**." ([مصدر مفتوح الوصول](https://rasael.vercel.app/bait-al-insan))
 17. سقف الحيط، يارا. 2015. "الفراغ المعماري في رام اللّه." **مجلة بدايات** (خريف، 2015). ([مصدر مفتوح الوصول](https://bidayatmag.com/node/631)) 
 18. سقف الحيط، رغد. 2022."جغرافيا الفخار في ريف القدس: من مصادر الطين المحلي إلى شبكات الإنتاج والتوزيع." **مؤسسة الدراسات الفلسطينية**، نوفمبر 08، 2022. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/1653394#)) 
@@ -72,17 +72,17 @@ _Please&#32;[contact us](https://palestine.araburbanism.com/contact/)&#32;if you
 
 ## Audiovisual Material
 
-1. Dictaphone Group. 2017. “Camp Pause: Stories from Rashidieh Camp and the Sea.” Jadaliyya (Jan 26). ([link](https://www.jadaliyya.com/Details/33964/Camp-Pause-Stories-from-Rashidieh-Camp-and-the-Sea)) 
+1. Dictaphone Group. 2017. “Camp Pause: Stories from Rashidieh Camp and the Sea.” _Jadaliyya_ (Jan 26). ([link](https://www.jadaliyya.com/Details/33964/Camp-Pause-Stories-from-Rashidieh-Camp-and-the-Sea)) 
 
-بالعربيّة: مجموعة الدكتافون. 2016. استراحة مخيّم: روايات من مخيم الرشيدية والبحر، جدلية (ديسمبر، 26). ([رابط](https://www.jadaliyya.com/Details/33865/%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AD%D8%A9-%D9%85%D8%AE%D9%8A%D9%91%D9%85-%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA-%D9%85%D9%86-%D9%85%D8%AE%D9%8A%D9%85-%D8%A7%D9%84%D8%B1%D8%B4%D9%8A%D8%AF%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%A8%D8%AD%D8%B1)) 
+بالعربيّة: مجموعة الدكتافون. 2016. استراحة مخيّم: روايات من مخيم الرشيدية والبحر، **جدلية** (ديسمبر، 26). ([رابط](https://www.jadaliyya.com/Details/33865/%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AD%D8%A9-%D9%85%D8%AE%D9%8A%D9%91%D9%85-%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA-%D9%85%D9%86-%D9%85%D8%AE%D9%8A%D9%85-%D8%A7%D9%84%D8%B1%D8%B4%D9%8A%D8%AF%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%A8%D8%AD%D8%B1)) 
 
 2. Fleifel, Mahd, director. _A World Not Ours._ Nakba Filmworks, 2012. 93 min. ([link](https://www.youtube.com/watch?v=25VfKnYJj8U))
 3. Malas, Mohammad, director. _The Dream._ Maram Cinema, 1987. 45 min. ([open-access link](https://www.youtube.com/watch?v=0422pOLlmWM))
 
-بالعربية: ملص، محمد، مخرج. _المنام_. سينما مرام. 1987. 45 د. ([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=0422pOLlmWM))
+بالعربية: ملص، محمد، مخرج.**&#32;المنام**. سينما مرام. 1987. 45 د. ([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=0422pOLlmWM))
 
 4. أمارة، أحمد ورامي صايغ. ”الماضي الحاضر الحلقة 85: تاريخ النقب قبل النكبة.“ تقديم رامي صايغ، حركة الشبيبة اليافية، يناير، 11، 2024. بودكاست، رابط يوتيوب: 42:00. ([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=MYXGUavBiXY))
-5. خليفي، ميشيل، مخرج. _حكاية الجواهر الثلاث_. عمر القطان وميشيل خليفي. 1995. 31 د. ([مصدر مفتوح الوصول](https://ok.ru/video/1436562164382))
+5. خليفي، ميشيل، مخرج. **حكاية الجواهر الثلاث**. عمر القطان وميشيل خليفي. 1995. 31 د. ([مصدر مفتوح الوصول](https://ok.ru/video/1436562164382))
 6. رمضان، يارا وغدير نجار. ”تراث العمارة المؤقتة - مخيمات اللجوء.“ تقديم غدير نجارة، أبريل، 13، 2023. قناة يوتيوب، رابط يوتيوب: 1:06:09. ([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=MYCRbXiujXk))
 
 **\_\_\_**
