@@ -75,4 +75,4 @@ English version: Azem, Ibtisam. 2019. _The Book of Disappearance: A Novel_. Tran
 
 **\_\_\_**
 
-_Image: Palestinian man with horse on the beach in Jaffa, 2023. Photograph by Majd Al-Shihabi._
+Image: Palestinian man with horse on the beach in Jaffa, 2023. Photograph by Majd Al-Shihabi.
