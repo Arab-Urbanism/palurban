@@ -19,7 +19,7 @@ After the signing of the Oslo Accords, the 1990s saw a steady erosion of a Pales
 
 ## Key Cases
 
-- Larissa Sansour’s Sci-Fi Trilogy: A Space Exodus (2008), Nation Estate (2012), and In the Future They Ate from the Finest Porcelain (2015) ([via Kanopy](https://www.kanopystreaming.com/category/supplier/mec-film))
+- Larissa Sansour’s Sci-Fi Trilogy: _A Space Exodus_ (2008), _Nation Estate_ (2012), and _In the Future They Ate from the Finest Porcelain_ (2015) ([via Kanopy](https://www.kanopystreaming.com/category/supplier/mec-film))
 - Palestine Land Society: Reconstruction of Destroyed Villages Architectural Competition ([website](https://www.plands.org/en/competition-news))
 - One Democratic State in historic Palestine ([website](https://onedemocraticstate.com)) 
 - Palestine + 100 ([book](https://commapress.co.uk/books/palestine-100))
@@ -31,21 +31,21 @@ After the signing of the Oslo Accords, the 1990s saw a steady erosion of a Pales
 2. Hassouna, Silvia. 2023. “Cultivating Biodiverse Futures at the (postcolonial) Botanical Garden.” _Transactions of the Institute of British Geographers_. ([open-access link](https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/tran.12639)) 
 3. Hawari, Yara. 2020. “Radical Futures: When Palestinians Imagine.” _Al-Shabaka_, March 20, 2020. ([open-access link](https://al-shabaka.org/commentaries/radical-futures-when-palestinians-imagine/))
 
-بالعربية: هواري، يارا. 2020. ”مستقبل مختلف: حين يتخيل الفلسطينيون.“  الشبكة، مارس 24، 2020. ([مصدر مفتوح الوصول](https://al-shabaka.org/commentaries/%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%AD%D9%8A%D9%86-%D9%8A%D8%AA%D8%AE%D9%8A%D9%84-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%88%D9%86/)).
+بالعربية: هواري، يارا. 2020. ”مستقبل مختلف: حين يتخيل الفلسطينيون.“  **الشبكة**، مارس 24، 2020. ([مصدر مفتوح الوصول](https://al-shabaka.org/commentaries/%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%AD%D9%8A%D9%86-%D9%8A%D8%AA%D8%AE%D9%8A%D9%84-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%88%D9%86/)).
 
-4. مرعي، فائق. 2020. ”معمار زاده الخيال: تجارب في التحرر المعماري.“ باب الواد، يونيو 07، 2020. ([مصدر مفتوح الوصول](https://babelwad.com/ar/%D9%86%D8%B5%D9%88%D8%B5/%D9%85%D8%B9%D9%85%D8%A7%D8%B1-%D8%B2%D8%A7%D8%AF%D9%87-%D8%A7%D9%84%D8%AE%D9%8A%D8%A7%D9%84-%D8%AA%D8%AC%D8%A7%D8%B1%D8%A8-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D8%B1-%D8%A7%D9%84%D9%85%D8%B9/)). 
+4. مرعي، فائق. 2020. ”معمار زاده الخيال: تجارب في التحرر المعماري.“ **باب الواد**، يونيو 07، 2020. ([مصدر مفتوح الوصول](https://babelwad.com/ar/%D9%86%D8%B5%D9%88%D8%B5/%D9%85%D8%B9%D9%85%D8%A7%D8%B1-%D8%B2%D8%A7%D8%AF%D9%87-%D8%A7%D9%84%D8%AE%D9%8A%D8%A7%D9%84-%D8%AA%D8%AC%D8%A7%D8%B1%D8%A8-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D8%B1-%D8%A7%D9%84%D9%85%D8%B9/)). 
 
 ## Further Resources
 
 _Please&#32;[contact us](https://palestine.araburbanism.com/contact/)&#32;if you would like access to any resources._
 
 1. Abu El-Haj, Nadia. 2001. _Facts on the Ground: Archaeological Practice and Territorial Self-Fashioning in Israeli Society_. Chicago: University of Chicago Press. ([WorldCat link](https://search.worldcat.org/title/Facts-on-the-ground-:-archaeological-practice-and-territorial-self-fashioning-in-Israeli-society/oclc/47666593))
-2. أبو ستة، سلمان. 2007. _طريق العودة : دليل المدن والقرى المهجرة والحالية والأماكن المقدسة في فلسطين._ لندن: هيئة أرض فلسطين. ([مصدر مفتوح الوصول](https://www.plands.org/en/maps-atlases/atlases/the-return-journey/return-jounrney-pdfs))
+2. أبو ستة، سلمان. 2007. **طريق العودة : دليل المدن والقرى المهجرة والحالية والأماكن المقدسة في فلسطين**_._ لندن: هيئة أرض فلسطين. ([مصدر مفتوح الوصول](https://www.plands.org/en/maps-atlases/atlases/the-return-journey/return-jounrney-pdfs))
 
 English version: Abu Sitta, Salman.2007. _The Return Journey:A Guide to the Depopulated And Present Palestine Towns And Villages and Holy Sites_. London: Palestine Land society.([WorldCat link](https://search.worldcat.org/title/173205494))
 
 3. Azeb, Sophia. 2019. “Who Will We Be When We Are Free? On Palestine and Futurity.” _The Funambulist Magazine_ 24, June 28, 2019. ([open-access link](https://thefunambulist.net/magazine/24-futurisms/will-free-palestine-futurity-sophia-azeb))
-4. عازم، ابتسام. 2014. _سفر الاختفاء_.  بيروت: منشورات الجمل. ([رابط ورلدكات](https://search.worldcat.org/title/884401035))
+4. عازم، ابتسام. 2014. **سفر الاختفاء**.  بيروت: منشورات الجمل. ([رابط ورلدكات](https://search.worldcat.org/title/884401035))
 
 English version: Azem, Ibtisam. 2019. _The Book of Disappearance: A Novel_. Translated by Sinan Antoon. Syracuse: Syracuse University Press. ([WorldCat link](https://search.worldcat.org/title/1097462878))
 
@@ -69,7 +69,7 @@ English version: Azem, Ibtisam. 2019. _The Book of Disappearance: A Novel_. Tran
 3. Larissa Sansour’s artwork ([website](https://larissasansour.com/))
 4. Nasser, Arab and Tarzan Nasser, directors. 2013. _Condom Lead_. Made in Palestine Project, 15 mins. ([open-access film](https://youtu.be/LNkn552kEYA?si=SvTvoEaAOBC9zDc-))
 5. Singapore Art Museum. “Teaching and Living Science Fiction: Lessons from the Middle East – Nadya Sbaiti.” YouTube video. July 10, 2023. ([lecture](https://youtu.be/guEgt5r5RbU?si=BXCdRljMyyAQKbPY)) 
-6.  afikra. “Exploring New Horizons: A Conversation on Arabic Science Fiction | Ashraf Fagih.” YouTube video, January 25, 2023. ([video](https://youtu.be/JpFxK4SELZU)) 
+6. afikra. “Exploring New Horizons: A Conversation on Arabic Science Fiction | Ashraf Fagih.” YouTube video, January 25, 2023. ([video](https://youtu.be/JpFxK4SELZU)) 
 7. The Fire These Times. “Space Travel, Nostalgia, and Retrofuturism (With Nat Muller).”February 4, 2022. ([audio recording](https://thefirethesetimes.com/2022/02/04/98-space-travel-nostalgia-and-retrofuturism-with-nat-muller/))
 8. Countless Palestinian Futures, a project by Danah Abdulla and Sarona Abuaker. ([web](https://palifutures.com))
 
