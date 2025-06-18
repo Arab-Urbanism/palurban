@@ -28,7 +28,7 @@ After the signing of the Oslo Accords, the 1990s saw a steady erosion of a Pales
 ## Key Resources
 
 1. Farsakh, Leila. 2021. “Introduction: The Struggle for Self-Determination and the Palestinian Quest for Statehood.” In _Rethinking Statehood in Palestine: Self-Determination and Decolonization Beyond Partition_, edited by Leila Farsakh, 1-25. Oakland: University of California Press. ([open-access link](https://luminosoa.org/site/chapters/e/10.1525/luminos.113.a/))
-2. Hassouna, Silvia. 2023. “Cultivating Biodiverse Futures at the (postcolonial) Botanical Garden.” \_Transactions of the Institute of British Geographer\_s. ([open-access link](https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/tran.12639)) 
+2. Hassouna, Silvia. 2023. “Cultivating Biodiverse Futures at the (postcolonial) Botanical Garden.” _Transactions of the Institute of British Geographers_. ([open-access link](https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/tran.12639)) 
 3. Hawari, Yara. 2020. “Radical Futures: When Palestinians Imagine.” _Al-Shabaka_, March 20, 2020. ([open-access link](https://al-shabaka.org/commentaries/radical-futures-when-palestinians-imagine/))
 
 بالعربية: هواري، يارا. 2020. ”مستقبل مختلف: حين يتخيل الفلسطينيون.“  الشبكة، مارس 24، 2020. ([مصدر مفتوح الوصول](https://al-shabaka.org/commentaries/%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%AD%D9%8A%D9%86-%D9%8A%D8%AA%D8%AE%D9%8A%D9%84-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%88%D9%86/)).
@@ -37,7 +37,7 @@ After the signing of the Oslo Accords, the 1990s saw a steady erosion of a Pales
 
 ## Further Resources
 
-_Please [contact us](https://palestine.araburbanism.com/contact/) if you would like access to any resources._
+_Please&#32;[contact us](https://palestine.araburbanism.com/contact/)&#32;if you would like access to any resources._
 
 1. Abu El-Haj, Nadia. 2001. _Facts on the Ground: Archaeological Practice and Territorial Self-Fashioning in Israeli Society_. Chicago: University of Chicago Press. ([WorldCat link](https://search.worldcat.org/title/Facts-on-the-ground-:-archaeological-practice-and-territorial-self-fashioning-in-Israeli-society/oclc/47666593))
 2. أبو ستة، سلمان. 2007. _طريق العودة : دليل المدن والقرى المهجرة والحالية والأماكن المقدسة في فلسطين._ لندن: هيئة أرض فلسطين. ([مصدر مفتوح الوصول](https://www.plands.org/en/maps-atlases/atlases/the-return-journey/return-jounrney-pdfs))
@@ -73,6 +73,6 @@ English version: Azem, Ibtisam. 2019. _The Book of Disappearance: A Novel_. Tran
 7. The Fire These Times. “Space Travel, Nostalgia, and Retrofuturism (With Nat Muller).”February 4, 2022. ([audio recording](https://thefirethesetimes.com/2022/02/04/98-space-travel-nostalgia-and-retrofuturism-with-nat-muller/))
 8. Countless Palestinian Futures, a project by Danah Abdulla and Sarona Abuaker. ([web](https://palifutures.com))
 
-**_\__**
+**\_\_\_**
 
 _Image: Palestinian man with horse on the beach in Jaffa, 2023. Photograph by Majd Al-Shihabi._
