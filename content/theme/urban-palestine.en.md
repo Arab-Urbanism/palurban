@@ -100,4 +100,4 @@ English version: Seikaly, May. 1995. _Haifa: Transformation of an Arab Society, 
 
 **\_\_\_**
 
-_Image: Collecting contributions for Palestinian families that were negatively impacted by the 1936 General Strike, Jaffa Gate to the Old City of Jerusalem.  Institute for Palestine Studies Archives._
+Image: Collecting contributions for Palestinian families that were negatively impacted by the 1936 General Strike, Jaffa Gate to the Old City of Jerusalem.  Institute for Palestine Studies Archives.
