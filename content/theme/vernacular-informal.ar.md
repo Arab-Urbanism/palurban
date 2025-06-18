@@ -21,8 +21,8 @@ images:
 ## **أمثلة رئيسية**
 
 - أحياء القدس ”اللارسمية“ - كفر عقب ([موقع إلكتروني بالانجليزية](https://www.rulazuhour.com/present-futures/situation))
-- القرى البدوية  ”غير المعترف بها"- العراقيب  ([موسوعة تفاعلية](https://www.palquest.org/ar/highlight/14373/%D9%82%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A8))
-- القرى البدوية ”غير المعترف بها"- أم الحيران ([مقالة: مصدر مفتوح الوصول](https://www.palestine-studies.org/sites/default/files/mdf-articles/076-085.pdf))
+- القرى البدوية  ”غير المعترف بها“- العراقيب  ([موسوعة تفاعلية](https://www.palquest.org/ar/highlight/14373/%D9%82%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A8))
+- القرى البدوية ”غير المعترف بها“- أم الحيران ([مقالة: مصدر مفتوح الوصول](https://www.palestine-studies.org/sites/default/files/mdf-articles/076-085.pdf))
 - العمارة المحلية في المرتفعات -  قرية دير غسّانة ([فصول من كتاب بالإنجليزية: مصدر مفتوح](https://palestine.araburbanism.com/img/Case_Chapter%203_Highlands%20vernacular-%20Deir%20Ghassana.pdf))
 - العمارة المحلية في المرتفعات - بلدة رام الله ([دليل: مصدر مفتوح الوصول](https://www.rehabimed.net/2015/11/rehabilitation-manual-for-ramallah-palestina/))
 - العمارة المحلية في المرتفعات - قرية لفتا المُهجّرة ([فصول من كتاب: مصدر مفتوح](https://palestine.araburbanism.com/img/Case_Highlands%20vernacular%20the%20depopulated%20village%20of%20Lifta.pdf)) 
@@ -38,9 +38,9 @@ images:
 3. Falah, Ghazi. 1985. “How Israel Controls The Bedouin in Israel.’’ _Journal of Palestine Studies_, 14(2): 35-51. ([open-access link](https://drive.google.com/file/d/1K052hxLUeeu6Aig7_OSFFMoSzWkSHPUr/view?usp=sharing))
 4. Berg, Kjersti. n.d. “The Evolving Infrastructure of Palestinian Refugee Camps: Perpetuating the Temporary.” Interactive Encyclopedia of the Palestine Question. ([open-access link](https://www.palquest.org/en/highlight/22473/evolving-infrastructure-palestinian-refugee-camps))
 
-بالعربية: بيرغ، كيرستي. د.ت. ” تطوّر البنية التحتية للمخيمات الفلسطيني.“ الموسوعة التفاعلية للقضية الفلسطينية. ([مصدر مفتوح الوصول](https://www.palquest.org/ar/highlight/22474/%D8%AA%D8%B7%D9%88%D9%91%D8%B1-%D8%A7%D9%84%D8%A8%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D8%AA%D9%8A%D8%A9-%D9%84%D9%84%D9%85%D8%AE%D9%8A%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9)) 
+بالعربية: بيرغ، كيرستي. د.ت. ” تطوّر البنية التحتية للمخيمات الفلسطيني.“ **الموسوعة التفاعلية للقضية الفلسطينية**. ([مصدر مفتوح الوصول](https://www.palquest.org/ar/highlight/22474/%D8%AA%D8%B7%D9%88%D9%91%D8%B1-%D8%A7%D9%84%D8%A8%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D8%AA%D9%8A%D8%A9-%D9%84%D9%84%D9%85%D8%AE%D9%8A%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9)) 
 
-5. AlKhalili, Noura, Dajani, Muna, and Daniela De Leo, and. 2014. “Shifting Realities: Dislocating Palestinian Jerusalemites from the Capital to the Edge.” _International Journal of Housing Policy,_ 14(3): 257-67. ([open-access link](https://lucris.lub.lu.se/ws/portalfiles/portal/25657036/Article_I_Alkhalili.pdf)) 
+5. AlKhalili, Noura, Muna Dajani and Daniela De Leo. 2014. “Shifting Realities: Dislocating Palestinian Jerusalemites from the Capital to the Edge.” _International Journal of Housing Policy,_ 14(3): 257-67. ([open-access link](https://lucris.lub.lu.se/ws/portalfiles/portal/25657036/Article_I_Alkhalili.pdf)) 
 
 ## مراجع أخرى
 
@@ -55,7 +55,7 @@ _الرجاء&#160;[التواصل معنا](https://palestine.araburbanism.com/
 7. Bshara, Khaldun. 2015. “Rural Urbanization: the Commodification of Land in Post-Oslo Palestine.” In _Reclaiming Space: The Rehabilitation of 50 Villages in Rural Palestine,_ edited by Suad Amiry and Khaldun Bshara, 92-103. Ramallah: Riwaq. ([open-access link](https://www.academia.edu/16677257/Rural_Urbanization_the_Commodification_of_Land_in_Post_Oslo_Palestine))
 8. Charpentier, Paul. n.d. “Regulating Palestinian Land.” Interactive Encyclopedia of the Palestine Question. ([open-access link](https://palquest.palestine-studies.org/en/overallchronology?nid=150&chronos=150))
 
-بالعربية: شاربنتيه، بيار. د. ت. ”التنظيم القانوني للأراضي في فلسطين.“ الموسوعة التفاعلية للقضية الفلسطينية. ([مصدر مفتوح الوصول](https://palquest.palestine-studies.org/ar/overallchronology?nid=240&chronos=240)) 
+بالعربية: شاربنتيه، بيار. د. ت. ”التنظيم القانوني للأراضي في فلسطين.“ **الموسوعة التفاعلية للقضية الفلسطينية**. ([مصدر مفتوح الوصول](https://palquest.palestine-studies.org/ar/overallchronology?nid=240&chronos=240)) 
 
 7. Clarno, Andy. 2017. “Bethlehem: Neoliberal Colonization.” In _Neoliberal Apartheid: Palestine/Israel and South Africa after 1994_, Chicago: University of Chicago Press, 89–124. ([chapter description](https://academic.oup.com/chicago-scholarship-online/book/21675/chapter-abstract/181579553?redirectedFrom=fulltext) and [WorldCat link](https://search.worldcat.org/title/972734099))
 8. Falah, Ghazi-Walid. 2012. “Growing up in rural Galilee, Palestine: memories of childhood geographies.” _Cultural Geographies_, 20(3): 299–318. ([link](https://doi.org/10.1177/1474474012447760)) 
