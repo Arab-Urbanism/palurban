@@ -31,13 +31,13 @@ images:
 1. Alaqra, Ahmad. 2018. “(Un)Making Qalandia: Politicized Spatial Practices of the Palestinian Refugee Camp.” _The Funambulist Magazine_, March 9, 2018. ([open-access link](https://thefunambulist.net/magazine/16-proletarian-fortresses/unmaking-qalandia-politicized-spatial-practices-palestinian-refugee-camp-ahmad-alaqra)) 
 2. Falah, Ghazi-Walid, and Colin Flint. 2004. “Geopolitical Spaces: The Dialectic of Public and Private Space in the Palestine–Israel Conflict.” _The Arab World Geographer_ 7 (1–2): 117–34. ([open-access link](https://www.researchgate.net/profile/Colin-Flint-3/publication/292692290_Geopolitical_spaces_The_dialectic_of_public_and_private_space_in_the_Palestine-Israel_conflict/links/58a2433daca272046aafe6bd/Geopolitical-spaces-The-dialectic-of-public-and-private-space-in-the-Palestine-Israel-conflict.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19))
 3. Nasasra, Mansour. 2022. “From Damascus Gate to Shaikh Jarrah: The Palestinian Sovereignty Protests in East Jerusalem.” _Protest_ 1 (2): 329–45. ([open-access link](https://brill.com/view/journals/prot/1/2/article-p329_006.xml))
-4. تماري، سليم.2012. “أم الغريب: تخطيط المدن وتطور الحيِّز العام في فلسطين العثمانية.“ حوليات القدس. 13. 26-46. ([مصدر مفتوح الوصول](https://store.palestine-studies.org/sites/default/files/hq-articles/11464.pdf))
+4. تماري، سليم.2012. “أم الغريب: تخطيط المدن وتطور الحيِّز العام في فلسطين العثمانية.“ حوليات القدس. 13. 26-46. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/43170#:~:text=نبذة%20مختصرة%3A,المحليين،%20والإصلاح%20المحلي%20والحرب%20العظمى.))
 
 English version: Tamari, Salim. 2017. “The Sweet Aroma of Holy Sewage: Urban Planning and the New Public Space in Palestine.” In _The Great War and the Remaking of Palestine_. Berkeley, CA: University of California Press, 38-66. ([chapter description](https://academic.oup.com/california-scholarship-online/book/16086/chapter-abstract/171088224?redirectedFrom=fulltext) and [WorldCat link](https://search.worldcat.org/title/1038189463))
 
 ## مراجع أخرى
 
-_الرجاء [التواصل معنا](https://palestine.araburbanism.com/ar/contact/) للوصول لأي من المصادر التالية._
+_الرجاء&#160;[التواصل معنا](https://palestine.araburbanism.com/ar/contact/)&#160;للوصول لأي من المصادر التالية._
 
 1. Abusalim, Jehad. 2018. “The Great March of Return: An Organizer’s Perspective.” _Journal of Palestine Studies_ 47 (4): 90–100. ([link](https://www.tandfonline.com/doi/abs/10.1525/jps.2018.47.4.90))
 2. Alım, Eray. 2020. “The Art of Resistance in the Palestinian Struggle Against Israel.” _Turkish Journal of Middle Eastern Studies_ 7 (1): 45–79. ([open-access link](https://dergipark.org.tr/tr/download/article-file/1112140))
@@ -68,6 +68,6 @@ English version: Kanafani, Ghassan. 1980 [1972]. _The 1936-39 Revolt in Palestin
 1. Cowan, Paul and Amer Shomali, directors. 2014. _The Wanted 18_. National Film Board of Canada, 75 mins. ([link](https://www.kanopy.com/en/product/wanted-18-israeli-armys-pursuit-18-cows))
 2. د.م. 2017 ”أبو جلدة والعرميط“. د.ن. ([مصدر مفتوح الوصول](https://abujildeh.com/))
 
-_______
+**_\__**
 
 _الصورة: منظر لجدار الفصل العنصري، بيت لحم، 2013. تصوير دينا قدّومي._
