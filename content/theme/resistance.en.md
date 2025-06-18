@@ -70,4 +70,4 @@ English version: Kanafani, Ghassan. 1980 [1972]. _The 1936-39 Revolt in Palestin
 
 **\_\_\_**
 
-_Image: View of Apartheid Wall, Bethlehem, 2013. Photograph by Dena Qaddumi._
+Image: View of Apartheid Wall, Bethlehem, 2013. Photograph by Dena Qaddumi.
