@@ -12,10 +12,10 @@ A significant aspect of Palestinian history and culture can be understood by exa
 
 ## Key Questions
 
-- What constitutes vernacular and ‘informal’ built environments in Palestine? 
+- What constitutes vernacular and “informal” built environments in Palestine? 
 - What commonalities does vernacular architecture in Palestine have with other vernacular forms of architecture found in Bilad al-Sham and the Mediterranean?
 - How have colonialism and the forces of modern capitalism contributed to the shaping of the informal built environments? How does informality in Palestine intersect with similar phenomena globally?
-- What agency do Palestinians have over the production of their ‘ínformal’ environments? 
+- What agency do Palestinians have over the production of their “informal” environments? 
 - How are the vernacular and the informal intertwined in Palestine and beyond?
 
 ## Key Cases
@@ -24,8 +24,8 @@ A significant aspect of Palestinian history and culture can be understood by exa
 - “Unrecognized” Bedouin villages - Umm al-Hiran ([open-access paper in Arabic](https://www.palestine-studies.org/sites/default/files/mdf-articles/076-085.pdf))
 - Campus in Camps ([website](https://www.campusincamps.ps/))
 - Highlands vernacular -the depopulated village of Lifta ([open-access book chapter](https://palestine.araburbanism.com/img/Case_Highlands%20vernacular%20the%20depopulated%20village%20of%20Lifta.pdf))
-- Highlands vernacular- the village of Deir Ghassana ([open-access book chapter](https://palestine.araburbanism.com/img/Case_Chapter%203_Highlands%20vernacular-%20Deir%20Ghassana.pdf)) 
-- Highlands vernacular- the town of Ramallah ([open-access manual in Arabic](https://www.rehabimed.net/2015/11/rehabilitation-manual-for-ramallah-palestina/))
+- Highlands vernacular - the village of Deir Ghassana ([open-access book chapter](https://palestine.araburbanism.com/img/Case_Chapter%203_Highlands%20vernacular-%20Deir%20Ghassana.pdf)) 
+- Highlands vernacular - the town of Ramallah ([open-access manual in Arabic](https://www.rehabimed.net/2015/11/rehabilitation-manual-for-ramallah-palestina/))
 - Informal neighbourhoods in Jerusalem - Kafr Aqab ([interactive website](https://www.rulazuhour.com/present-futures/situation))
 - Refugee camps in Palestine - Jabaliya Refugee Camp ([paper](https://www.researchgate.net/publication/347599158_Contextualizing_the_Palestinian_Refugee_Camps_in_the_Gaza_Strip))
 - Refugee camps in Lebanon - Nahr al-Bared Refugee Camp ([paper](https://www.researchgate.net/publication/259730655_In_the_Ruins_of_Nahr_al-Barid_Understanding_the_Meaning_of_the_Camp))
