@@ -64,14 +64,17 @@ English version: Azem, Ibtisam. 2019. _The Book of Disappearance: A Novel_. Tran
 
 ## مواد سمعية وبصرية
 
-1. يونس، رامي؛ فريدلاند، سارا إما، مخرجين. _لد_. 78د  ([رابط](https://lydinexile.com/))
-2. Manna, Jumana, director. _Wild Relatives._ Jumana Manna, 2018. 64 min. ([link](https://www.jumanamanna.com/Wild-Relatives))
+1. يونس، رامي وسارا إما فريدلاند. مخرجين. **لد**. 78د ([رابط](https://lydinexile.com/))
+
+English version: Younis, Rami and Sarah Ema Friedland. directors. _Lyd_. 78 min. ([link](https://lydinexile.com/))
+
+2. Manna, Jumana, director. _Wild Relatives_. Jumana Manna, 2018. 64 min. ([link](https://www.jumanamanna.com/Wild-Relatives))
 3. Larissa Sansour’s artwork ([website](https://larissasansour.com/))
 4. Nasser, Arab and Tarzan Nasser, directors. 2013. _Condom Lead_. Made in Palestine Project, 15 mins. ([open-access film](https://youtu.be/LNkn552kEYA?si=SvTvoEaAOBC9zDc-))
 5. Singapore Art Museum. “Teaching and Living Science Fiction: Lessons from the Middle East – Nadya Sbaiti.” YouTube video. July 10, 2023. ([lecture](https://youtu.be/guEgt5r5RbU?si=BXCdRljMyyAQKbPY)) 
-6. afikra. “Exploring New Horizons: A Conversation on Arabic Science Fiction | Ashraf Fagih.” YouTube video, January 25, 2023. ([video](https://youtu.be/JpFxK4SELZU)) 
+6.  afikra. “Exploring New Horizons: A Conversation on Arabic Science Fiction | Ashraf Fagih.” YouTube video, January 25, 2023. ([video](https://youtu.be/JpFxK4SELZU)) 
 7. The Fire These Times. “Space Travel, Nostalgia, and Retrofuturism (With Nat Muller).”February 4, 2022. ([audio recording](https://thefirethesetimes.com/2022/02/04/98-space-travel-nostalgia-and-retrofuturism-with-nat-muller/))
-8. Countless Palestinian Futures, a project by Danah Abdulla and Sarona Abuaker. ([web](https://palifutures.com))
+8. Countless Palestinian Futures, a project by Danah Abdulla and Sarona Abuaker. ([web](https://palifutures.com/))
 
 **\_\_\_**
 
