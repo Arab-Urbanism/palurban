@@ -20,7 +20,7 @@ A significant aspect of Palestinian history and culture can be understood by exa
 
 ## Key Cases
 
-- “Unrecognized” Bedouin villages - Al-‘Araqib ([Interactive Encyclopaedia](https://www.palquest.org/en/highlight/14372/village-al-araqib))
+- “Unrecognized” Bedouin villages - Al-‘Araqib ([Interactive Encyclopedia](https://www.palquest.org/en/highlight/14372/village-al-araqib))
 - “Unrecognized” Bedouin villages - Umm al-Hiran ([open-access paper in Arabic](https://www.palestine-studies.org/sites/default/files/mdf-articles/076-085.pdf))
 - Campus in Camps ([website](https://www.campusincamps.ps/))
 - Highlands vernacular - the depopulated village of Lifta ([open-access book chapter](https://palestine.araburbanism.com/img/Case_Highlands%20vernacular%20the%20depopulated%20village%20of%20Lifta.pdf))
@@ -38,7 +38,7 @@ A significant aspect of Palestinian history and culture can be understood by exa
 3. Falah, Ghazi. 1985. “How Israel Controls The Bedouin in Israel.’’ _Journal of Palestine Studies_, 14(2): 35-51. ([open-access link](https://drive.google.com/file/d/1K052hxLUeeu6Aig7_OSFFMoSzWkSHPUr/view?usp=sharing))
 4. Berg, Kjersti. n.d. “The Evolving Infrastructure of Palestinian Refugee Camps: Perpetuating the Temporary.” Interactive Encyclopedia of the Palestine Question. ([open-access link](https://www.palquest.org/en/highlight/22473/evolving-infrastructure-palestinian-refugee-camps))
 
-بالعربية: بيرغ، كيرستي. د.ت. ” تطوّر البنية التحتية للمخيمات الفلسطيني.“ **الموسوعة التفاعلية للقضية الفلسطينية**. ([مصدر مفتوح الوصول](https://www.palquest.org/ar/highlight/22474/%D8%AA%D8%B7%D9%88%D9%91%D8%B1-%D8%A7%D9%84%D8%A8%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D8%AA%D9%8A%D8%A9-%D9%84%D9%84%D9%85%D8%AE%D9%8A%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9)) 
+بالعربية: بيرغ، كيرستي. د.ت. ’’ تطوّر البنية التحتية للمخيمات الفلسطيني.“ **الموسوعة التفاعلية للقضية الفلسطينية**. ([مصدر مفتوح الوصول](https://www.palquest.org/ar/highlight/22474/%D8%AA%D8%B7%D9%88%D9%91%D8%B1-%D8%A7%D9%84%D8%A8%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D8%AA%D9%8A%D8%A9-%D9%84%D9%84%D9%85%D8%AE%D9%8A%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9)) 
 
 5. AlKhalili, Noura, Muna Dajani, and Daniela De Leo. 2014. “Shifting Realities: Dislocating Palestinian Jerusalemites from the Capital to the Edge.” _International Journal of Housing Policy,_ 14(3): 257-67. ([open-access link](https://lucris.lub.lu.se/ws/portalfiles/portal/25657036/Article_I_Alkhalili.pdf)) 
 
