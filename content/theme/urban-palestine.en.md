@@ -29,22 +29,22 @@ The study of the modern urban history of Palestine, like other spaces in the Glo
 - Neoliberal urbanism: Rawabi and Ramallah
 - Bedouin urbanism and settlement: the environs and the city of Bir al-Sabi’
 - Cities Exhibitions Series (six editions: [Ramallah](https://universes.art/en/nafas/articles/2010/ramallah), Jerusalem, [Nablus](http://museum.birzeit.edu/exhibitions/third-annual-cities-exhibition-between-ebal-and-gerzim), [Jericho](http://museum.birzeit.edu/exhibitions/4th-edition-cities-exhibition-jericho-%E2%80%93-beyond-celestial-and-terrestrial), [Gaza](http://museum.birzeit.edu/exhibitions/5th-edition-cities-exhibition%E2%80%98gaza-%E2%80%93-reconstruction%E2%80%99), and [al-Lydd](http://museum.birzeit.edu/exhibitions/5th-edition-cities-exhibition%E2%80%98gaza-%E2%80%93-reconstruction%E2%80%99).
-- ‘Palestinian Cities’ book series from the Institute for Palestine Studies [in Arabic] ([link](https://www.palestine-studies.org/en/books/explorer1?f%5B0%5D=field_book_type%3A17061))
+- “Palestinian Cities” book series from the Institute for Palestine Studies [in Arabic] ([link](https://www.palestine-studies.org/en/books/explorer1?f%5B0%5D=field_book_type%3A17061))
 - Urban lives: Karimeh Abbud, Hind al-Husseini, Fatima Budeiri, Muhammad 'Izzat Darwaza, Emile Habibi, Wasif Jawhariyyeh, Najib and Sadhij Nassar, Khalil Raad, Khalil Sakakini, Fadwa Tuqan, Tawfiq Zayyad, and Akram Zu'aytir. 
 
 ## Key Resources
 
 1. Taraki, Lisa. n.d. “Urban Palestine: Divergent Trajectories of Spatial and Social Transformations.” Interactive Encyclopedia of the Palestine Question. ([open-access link](https://www.palquest.org/en/highlight/14513/urban-palestine))
 
-بالعربية: تراكي، ليزا. د.ت. ” فلسطين الحضريّة: مسارات متباينة لتحوّلات مكانية واجتماعية.“ الموسوعة التفاعلية للقضية الفلسطينية. ([مصدر مفتوح الوصول](https://www.palquest.org/ar/highlight/14514/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D8%A7%D9%84%D8%AD%D8%B6%D8%B1%D9%8A%D9%91%D8%A9))
+بالعربية: تراكي، ليزا. د.ت. ” فلسطين الحضريّة: مسارات متباينة لتحوّلات مكانية واجتماعية.“ **الموسوعة التفاعلية للقضية الفلسطينية**. ([مصدر مفتوح الوصول](https://www.palquest.org/ar/highlight/14514/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D8%A7%D9%84%D8%AD%D8%B6%D8%B1%D9%8A%D9%91%D8%A9))
 
-2. تماري، سليم. 2005. الجبل ضد البحر: دراسات في إشكاليات الحداثة الفلسطينية. الطبعة الثانية. رام الله: مواطن، المؤسسة الفلسطينية لدراسة الديمقراطية، 9-33. ([مصدر مفتوح الوصول](https://muwatin.birzeit.edu/sites/default/files/publications/attachments/Salim%E2%80%AD_%E2%80%ACBook%E2%80%AD_sm.pdf))
+2. تماري، سليم. 2005. **الجبل ضد البحر: دراسات في إشكاليات الحداثة الفلسطينية. الطبعة الثانية**. رام الله: مواطن، المؤسسة الفلسطينية لدراسة الديمقراطية، 9-33. ([مصدر مفتوح الوصول](https://muwatin.birzeit.edu/sites/default/files/publications/attachments/Salim%E2%80%AD_%E2%80%ACBook%E2%80%AD_sm.pdf))
 
 English version: Tamari, Salim. 2008. _Mountain against the Sea:_ _Essays on Palestinian Society and Culture._ Berkley: University of California Press, 1-35. ([link](https://www.ucpress.edu/book/9780520251298/mountain-against-the-sea))
 
 3. Tamari, Salim, ed. 2002.  _Jerusalem 1948: The Arab Neighbourhoods and their Fate in the War_, 2d ed.  Ramallah: The Institute of Jerusalem Studies and Badil Resource Center, 1-67. ([open-access link](https://www.palestine-studies.org/en/node/1649524))
 
-بالعربية: تماري، سليم (محرر). 2002. _القدس 1948: الأحياء العربية ومصيرها في حرب 1948._ رام الله: مؤسسة الدراسات الفلسطينية ومركز بديل، 1-88. ([رابط](https://www.palestine-studies.org/ar/node/1648037))
+بالعربية: تماري، سليم (محرر). 2002. **القدس 1948: الأحياء العربية ومصيرها في حرب 1948**_._ رام الله: مؤسسة الدراسات الفلسطينية ومركز بديل، 1-88. ([رابط](https://www.palestine-studies.org/ar/node/1648037))
 
 4. Taraki, Lisa. 2008. “Enclave Micropolis; The Paradoxical Case of Ramallah/al-Bireh.” _Journal of Palestine Studies_ 37(4): 6–20. ([open-access link](https://www.palquest.org/sites/default/files/Enclave_Micropolis_The_Paradoxical_Case_of_Ramallahal-Bireh-_Lisa_Taraki.pdf)).
 
@@ -54,9 +54,9 @@ _Please&#32;[contact us](https://palestine.araburbanism.com/contact/)&#32;if you
 
 1. Abusaada, Nadi. 2021. “Building Urban Palestine: Jaffa and Nablus 1870-1930.” Thesis. University of Cambridge. ([open-access link)](https://www.repository.cam.ac.uk/items/d344acc0-066b-4205-9c53-2ecbc64b41bb)
 2. Abusaada, Nadi. 2022. “Essential Readings on Urban Palestine.” _Jadaliyya_, (January 16). ([open-access link](https://www.jadaliyya.com/Details/44213))
-3. Abu Shama, Hashem. 2021. “The Palestinian City, the Song, and Settler Colonial Gentrification: On “Better than Berlin” by Faraj Suleiman and Majd Kayyal.” _Jadaliyya,_ (January 8). ([open-access link)](https://www.jadaliyya.com/Details/42216).
+3. Abu Shama, Hashem. 2021. “The Palestinian City, the Song, and Settler Colonial Gentrification: On ‘Better than Berlin’ by Faraj Suleiman and Majd Kayyal.” _Jadaliyya,_ (January 8). ([open-access link)](https://www.jadaliyya.com/Details/42216).
 
-بالعربية: أبو شمعة، هاشم. 2021. ”المدينة الفلسطينية، الأغنية والإحلال الاستيطاني الاستعماري: عن ”أحلى من برلين“ لفرج سليمان ومجد كيّال.“ جدليّة، (يناير 8). ([مصدر مفتوح الوصول](https://www.jadaliyya.com/Details/42214/%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9%D8%8C-%D8%A7%D9%84%D8%A3%D8%BA%D9%86%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%A5%D8%AD%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%8A%D8%B7%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B9%D9%85%D8%A7%D8%B1%D9%8A-%D8%B9%D9%86-%D8%A3%D8%AD%D9%84%D9%89-%D9%85%D9%86-%D8%A8%D8%B1%D9%84%D9%8A%D9%86-%D9%84%D9%81%D8%B1%D8%AC-%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86-%D9%88%D9%85%D8%AC%D8%AF-%D9%83%D9%8A%D9%91%D8%A7%D9%84))
+بالعربية: أبو شمعة، هاشم. 2021. ”المدينة الفلسطينية، الأغنية والإحلال الاستيطاني الاستعماري: عن ’أحلى من برلين‘ لفرج سليمان ومجد كيّال.“ **جدليّة**، (يناير 8). ([مصدر مفتوح الوصول](https://www.jadaliyya.com/Details/42214/%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9%D8%8C-%D8%A7%D9%84%D8%A3%D8%BA%D9%86%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%A5%D8%AD%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%8A%D8%B7%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B9%D9%85%D8%A7%D8%B1%D9%8A-%D8%B9%D9%86-%D8%A3%D8%AD%D9%84%D9%89-%D9%85%D9%86-%D8%A8%D8%B1%D9%84%D9%8A%D9%86-%D9%84%D9%81%D8%B1%D8%AC-%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86-%D9%88%D9%85%D8%AC%D8%AF-%D9%83%D9%8A%D9%91%D8%A7%D9%84))
 
 4. المالكي، مجدي، وسليم تماري (محرران). 2021. _المدينة الفلسطينية: قضايا في التحولات الحضرية_. بيروت: مؤسسة الدراسات الفلسطينية. ([رابط](https://www.palestine-studies.org/ar/node/1651672))
 5. Doughman, Najwa, and Mahdi Sabbagh. 2020. “The Rewriting of Palestinian Cities: Spatial Dislocations in Haifa and Akka.” _Arab Urbanism_. ([open-access link](https://www.araburbanism.com/magazine/rewriting-palestinian-cities))
