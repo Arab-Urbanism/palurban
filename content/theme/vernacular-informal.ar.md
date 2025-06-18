@@ -36,7 +36,7 @@ images:
 1. Amiry, Suad. 2017. “Patterns of Settlement in 19th Century Rural Palestine.” In _Peasant Architecture in Palestine: Space, Kinship and Gender._ Ramallah: Riwaq, 9-36. ([open-access link](https://palestine.araburbanism.com/img/Patterns%20of%20Settlement%20in%2019th%20Century%20Rural%20Palestine.pdf))
 2. Amiry, Suad, and Vera Tamari. 2003. _The Palestinian Village Home_. 2nd edition. Ramallah: Riwaq, 16 – 33. ([open-access link](https://palestine.araburbanism.com/img/The%20Palestinian%20Village%20Home.pdf))
 3. Falah, Ghazi. 1985. “How Israel Controls The Bedouin in Israel.’’ _Journal of Palestine Studies_, 14(2): 35-51. ([open-access link](https://drive.google.com/file/d/1K052hxLUeeu6Aig7_OSFFMoSzWkSHPUr/view?usp=sharing))
-4. Berg, Kjersti. n.d. “The Evolving Infrastructure of Palestinian Refugee Camps: Perpetuating the Temporary.”_&#32;Interactive Encyclopedia of the Palestine Question_. ([open-access link](https://www.palquest.org/en/highlight/22473/evolving-infrastructure-palestinian-refugee-camps))
+4. Berg, Kjersti. n.d. “The Evolving Infrastructure of Palestinian Refugee Camps: Perpetuating the Temporary.”\_ Interactive Encyclopedia of the Palestine Question\_. ([open-access link](https://www.palquest.org/en/highlight/22473/evolving-infrastructure-palestinian-refugee-camps))
 
 بالعربية: بيرغ، كيرستي. د.ت. ” تطوّر البنية التحتية للمخيمات الفلسطيني.“ **الموسوعة التفاعلية للقضية الفلسطينية**. ([مصدر مفتوح الوصول](https://www.palquest.org/ar/highlight/22474/%D8%AA%D8%B7%D9%88%D9%91%D8%B1-%D8%A7%D9%84%D8%A8%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D8%AA%D9%8A%D8%A9-%D9%84%D9%84%D9%85%D8%AE%D9%8A%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9)) 
 
