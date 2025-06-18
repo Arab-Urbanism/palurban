@@ -44,7 +44,7 @@ images:
 
 ## مراجع أخرى
 
-_الرجاء [التواصل معنا](https://palestine.araburbanism.com/ar/contact/) للوصول لأي من المصادر التالية._
+_الرجاء&#160;[التواصل معنا](https://palestine.araburbanism.com/ar/contact/)&#160;للوصول لأي من المصادر التالية._
 
 1. Abourahme, Nasser. 2020. “The camp.” _Comparative Studies of South Asia, Africa and the Middle East,_ 40(1): 35–42. ([open-access link](https://www.academia.edu/43094939/The_Camp))
 2. Abourahme, Nasser. 2014. “Assembling and Spilling‐Over: Towards an ‘Ethnography of Cement’ in a Palestinian Refugee Camp.” _International Journal of Urban and Regional Research,_ 39 (2): 200–217. ([link](https://www.researchgate.net/publication/269418778_Assembling_and_Spilling-Over_Towards_an_'Ethnography_of_Cement'_in_a_Palestinian_Refugee_Camp))
@@ -68,7 +68,7 @@ _الرجاء [التواصل معنا](https://palestine.araburbanism.com/ar/c
 15. سقف الحيط، يارا. 2015. ”الفراغ المعماري في رام اللّه.“ _مجلة بدايات_ (خريف، 2015). ([مصدر مفتوح الوصول](https://bidayatmag.com/node/631)) 
 16. سقف الحيط، رغد. 2022.”جغرافيا الفخار في ريف القدس: من مصادر الطين المحلي إلى شبكات الإنتاج والتوزيع.“ مؤسسة الدراسات الفلسطينية، نوفمبر 08، 2022. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/1653394#)) 
 17. عرّاف، شكري. (1996).  _القرية العربية الفلسطينية: مبنى واستعمالات أراضي._ ([مصدر مفتوح الوصول](https://palestine.araburbanism.com/img/Palestinian%20village,%20Shukri%20Arraf.PDF)) 
-18. عامري، سعاد. 2003. _عمارة قرى الكراسي: من تاريخ الإقطاع في ريف فلسطين في القرنين الثامن عشر والتاسع عشر_، رام الله: رواق، 24 - 43. ([مصدر مفتوح الوصول](https://palestine.araburbanism.com/img/15%20Throne%20Village%20Architecture.PDF)) 
+18. عامري، سعاد. 2003. \_عمارة قرى الكراسي: من تاريخ الإقطاع في ريف فلسطين في القرنين الثامن عشر والتاسع عشر\_، رام الله: رواق، 24 - 43. ([مصدر مفتوح الوصول](https://palestine.araburbanism.com/img/15%20Throne%20Village%20Architecture.PDF)) 
 
 ## مواد سمعية وبصرية
 
@@ -85,6 +85,6 @@ _الرجاء [التواصل معنا](https://palestine.araburbanism.com/ar/c
 5. خليفي، ميشيل، مخرج. _حكاية الجواهر الثلاث_. عمر القطان وميشيل خليفي. 1995. 31 د. ([مصدر مفتوح الوصول](https://ok.ru/video/1436562164382))
 6. رمضان، يارا وغدير نجار. ”تراث العمارة المؤقتة - مخيمات اللجوء.“ تقديم غدير نجارة، أبريل، 13، 2023. قناة يوتيوب، رابط يوتيوب: 1:06:09. ([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=MYCRbXiujXk))
 
-_______
+**_\__**
 
-_الصورة: حي سلوان في القدس، 2019. تصوير [Mksg1](https://commons.wikimedia.org/wiki/File:Jerusalem_Hills.jpg)._
+الصورة: حي سلوان في القدس، 2019. تصوير [Mksg1](https://commons.wikimedia.org/wiki/File:Jerusalem_Hills.jpg).
