@@ -31,7 +31,6 @@ The study of the modern urban history of Palestine, like other spaces in the Glo
 - Cities Exhibitions Series (six editions: [Ramallah](https://universes.art/en/nafas/articles/2010/ramallah), Jerusalem, [Nablus](http://museum.birzeit.edu/exhibitions/third-annual-cities-exhibition-between-ebal-and-gerzim), [Jericho](http://museum.birzeit.edu/exhibitions/4th-edition-cities-exhibition-jericho-%E2%80%93-beyond-celestial-and-terrestrial), [Gaza](http://museum.birzeit.edu/exhibitions/5th-edition-cities-exhibition%E2%80%98gaza-%E2%80%93-reconstruction%E2%80%99), and [al-Lydd](http://museum.birzeit.edu/exhibitions/5th-edition-cities-exhibition%E2%80%98gaza-%E2%80%93-reconstruction%E2%80%99).
 - “Palestinian Cities” book series from the Institute for Palestine Studies [in Arabic] ([link](https://www.palestine-studies.org/en/books/explorer1?f%5B0%5D=field_book_type%3A17061))
 - Urban lives: Karimeh Abbud, Hind al-Husseini, Fatima Budeiri, Muhammad 'Izzat Darwaza, Emile Habibi, Wasif Jawhariyyeh, Najib and Sadhij Nassar, Khalil Raad, Khalil Sakakini, Fadwa Tuqan, Tawfiq Zayyad, and Akram Zu'aytir. 
-- 
 
 ## Key Resources
 
