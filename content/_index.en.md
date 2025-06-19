@@ -18,4 +18,4 @@ We are [Dena Qaddumi](https://www.lse.ac.uk/sociology/people/Dena-Qaddumi) (coor
 
 _-------------------_
 
-_Image: Bethlehem, 2013. Photograph by Dena Qaddumi._
+Image: Bethlehem, 2013. Photograph by Dena Qaddumi.
