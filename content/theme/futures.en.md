@@ -64,11 +64,11 @@ English version: Azem, Ibtisam. 2019. _The Book of Disappearance: A Novel_. Tran
 
 ## Audiovisual Material
 
-1. يونس، رامي وسارا إما فريدلاند. مخرجين. **لد**. 78د ([رابط](https://lydinexile.com/))
+1. يونس، رامي وسارا إما فريدلاند. مخرجين. 2023. **لد**. 78د ([رابط](https://lydinexile.com/))
 
-English version: Younis, Rami and Sarah Ema Friedland. directors. _Lyd_. 78 min. ([link](https://lydinexile.com/))
+English version: Younis, Rami and Sarah Ema Friedland. 2023. directors. _Lyd_. 78 min. ([link](https://lydinexile.com/))
 
-2. Manna, Jumana, director. _Wild Relatives_. Jumana Manna, 2018. 64 min. ([link](https://www.jumanamanna.com/Wild-Relatives))
+2. Manna, Jumana, director. 2018. _Wild Relatives_. 64 min. ([link](https://www.jumanamanna.com/Wild-Relatives))
 3. Larissa Sansour’s artwork ([website](https://larissasansour.com/))
 4. Nasser, Arab and Tarzan Nasser, directors. 2013. _Condom Lead_. Made in Palestine Project, 15 mins. ([open-access film](https://youtu.be/LNkn552kEYA?si=SvTvoEaAOBC9zDc-))
 5. Singapore Art Museum. “Teaching and Living Science Fiction: Lessons from the Middle East – Nadya Sbaiti.” YouTube video. July 10, 2023. ([lecture](https://youtu.be/guEgt5r5RbU?si=BXCdRljMyyAQKbPY)) 
