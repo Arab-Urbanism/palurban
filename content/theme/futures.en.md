@@ -66,7 +66,7 @@ English version: Azem, Ibtisam. 2019. _The Book of Disappearance: A Novel_. Tran
 
 1. يونس، رامي وسارا إما فريدلاند. مخرجين. 2023. **لد**. 78د ([رابط](https://lydinexile.com/))
 
-English version: Younis, Rami and Sarah Ema Friedland. 2023. directors. _Lyd_. 78 min. ([link](https://lydinexile.com/))
+English version: Younis, Rami and Sarah Ema Friedland. directors. 2023. _Lyd_. 78 min. ([link](https://lydinexile.com/))
 
 2. Manna, Jumana, director. 2018. _Wild Relatives_. 64 min. ([link](https://www.jumanamanna.com/Wild-Relatives))
 3. Larissa Sansour’s artwork ([website](https://larissasansour.com/))
