@@ -53,7 +53,7 @@ _الرجاء&#160;[التواصل معنا](https://palestine.araburbanism.com/
 5. Ayoub, Venus. 2020. The Problematics of ‘Informal Urbanism’ as a Terminology and its Use to Refer to Palestinian Localities in Israel. _Arab Urbanism.&#32;_([open-access link)](https://www.araburbanism.com/magazine/problematics-of-informality)
 6. Bshara, Khaldun. 2014. “Spatial Memories: The Palestinian Refugee Camps as Time Machine.” _Jerusalem Quarterly_, 60 (Autumn): 14-31.[ (open-access link](https://www.palestine-studies.org/en/node/202708))
 7. Bshara, Khaldun. 2015. “Rural Urbanization: the Commodification of Land in Post-Oslo Palestine.” In _Reclaiming Space: The Rehabilitation of 50 Villages in Rural Palestine_, edited by Suad Amiry and Khaldun Bshara, 92-103. Ramallah: Riwaq. ([open-access link](https://www.academia.edu/16677257/Rural_Urbanization_the_Commodification_of_Land_in_Post_Oslo_Palestine))
-8. Charpentier, Paul. n.d. “Regulating Palestinian Land.”_&#32;Interactive Encyclopedia of the Palestine Question_. ([open-access link](https://palquest.palestine-studies.org/en/overallchronology?nid=150&chronos=150))
+8. Charpentier, Paul. n.d. “Regulating Palestinian Land.”_ Interactive Encyclopedia of the Palestine Question_. ([open-access link](https://palquest.palestine-studies.org/en/overallchronology?nid=150&chronos=150))
 
 بالعربيّة: شاربنتيه، بيار. د. ت. ”التنظيم القانوني للأراضي في فلسطين.“ **الموسوعة التفاعلية للقضية الفلسطينية**. ([مصدر مفتوح الوصول](https://palquest.palestine-studies.org/ar/overallchronology?nid=240&chronos=240)) 
 
@@ -76,13 +76,13 @@ _الرجاء&#160;[التواصل معنا](https://palestine.araburbanism.com/
 
 بالعربيّة: مجموعة الدكتافون. 2016. استراحة مخيّم: روايات من مخيم الرشيدية والبحر، **جدلية** (ديسمبر، 26). ([رابط](https://www.jadaliyya.com/Details/33865/%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AD%D8%A9-%D9%85%D8%AE%D9%8A%D9%91%D9%85-%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA-%D9%85%D9%86-%D9%85%D8%AE%D9%8A%D9%85-%D8%A7%D9%84%D8%B1%D8%B4%D9%8A%D8%AF%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%A8%D8%AD%D8%B1)) 
 
-2. Fleifel, Mahd, director. _A World Not Ours._ Nakba Filmworks, 2012. 93 min. ([link](https://www.youtube.com/watch?v=25VfKnYJj8U))
-3. Malas, Mohammad, director. _The Dream._ Maram Cinema, 1987. 45 min. ([open-access link](https://www.youtube.com/watch?v=0422pOLlmWM))
+2. Fleifel, Mahd, director. 2012. _A World Not Ours._ Nakba Filmworks, 93 min. ([link](https://www.youtube.com/watch?v=25VfKnYJj8U))
+3. Malas, Mohammad, director. 1987. _The Dream._ Maram Cinema, 45 min. ([open-access link](https://www.youtube.com/watch?v=0422pOLlmWM))
 
 بالعربية: ملص، محمد، مخرج.**&#32;المنام**. سينما مرام. 1987. 45 د. ([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=0422pOLlmWM))
 
 4. أمارة، أحمد ورامي صايغ. ”الماضي الحاضر الحلقة 85: تاريخ النقب قبل النكبة.“ تقديم رامي صايغ، حركة الشبيبة اليافية، يناير، 11، 2024. بودكاست، رابط يوتيوب: 42:00. ([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=MYXGUavBiXY))
-5. خليفي، ميشيل، مخرج. **حكاية الجواهر الثلاث**. عمر القطان وميشيل خليفي. 1995. 31 د. ([مصدر مفتوح الوصول](https://ok.ru/video/1436562164382))
+5. خليفي، ميشيل، مخرج. 1995. **حكاية الجواهر الثلاث**. عمر القطان وميشيل خليفي. 31 د. ([مصدر مفتوح الوصول](https://ok.ru/video/1436562164382))
 6. رمضان، يارا وغدير نجار. ”تراث العمارة المؤقتة - مخيمات اللجوء.“ تقديم غدير نجارة، أبريل، 13، 2023. قناة يوتيوب، رابط يوتيوب: 1:06:09. ([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=MYCRbXiujXk))
 
 **___**
