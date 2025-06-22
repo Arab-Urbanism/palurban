@@ -46,7 +46,7 @@ English version: Tamari, Salim. 2008. _Mountain against the Sea:_ _Essays on Pal
 
 بالعربية: تماري، سليم (محرر). 2002. **القدس 1948: الأحياء العربية ومصيرها في حرب 1948**_._ رام الله: مؤسسة الدراسات الفلسطينية ومركز بديل، 1-88. ([رابط](https://www.palestine-studies.org/ar/node/1648037))
 
-4. Taraki, Lisa. 2008. “Enclave Micropolis; The Paradoxical Case of Ramallah/al-Bireh.” _Journal of Palestine Studies_ 37(4): 6–20. ([open-access link](https://www.palquest.org/sites/default/files/Enclave_Micropolis_The_Paradoxical_Case_of_Ramallahal-Bireh-_Lisa_Taraki.pdf)).
+4. Taraki, Lisa. 2008. “Enclave Micropolis; The Paradoxical Case of Ramallah/al-Bireh.” _Journal of Palestine Studies_ 37 (4): 6–20. ([open-access link](https://www.palquest.org/sites/default/files/Enclave_Micropolis_The_Paradoxical_Case_of_Ramallahal-Bireh-_Lisa_Taraki.pdf)).
 
 ## مراجع أخرى
 
