@@ -40,28 +40,28 @@ English version: Tamari, Salim. 2017. “The Sweet Aroma of Holy Sewage: Urban P
 _Please&#32;[contact us](https://palestine.araburbanism.com/contact/)&#32;if you would like access to any resources._
 
 1. Abusalim, Jehad. 2018. “The Great March of Return: An Organizer’s Perspective.” _Journal of Palestine Studies_ 47 (4): 90–100. ([link](https://www.tandfonline.com/doi/abs/10.1525/jps.2018.47.4.90))
-2. Alım, Eray. 2020. “The Art of Resistance in the Palestinian Struggle Against Israel.” _Turkish Journal of Middle Eastern Studies_ 7 (1): 45–79. ([open-access link](https://dergipark.org.tr/tr/download/article-file/1112140))
+2. Alım, Eray. 2020. “The Art of Resistance in the Palestinian Struggle Against Israel.” _Turkish Journal of Middle Eastern Studies_ 7 (1): 45-79. ([open-access link](https://dergipark.org.tr/tr/download/article-file/1112140))
 3. Alkhalili, Noura. 2017. “Enclosures from Below: The Mushaa’ in Contemporary Palestine.” _Antipode_ 49 (5): 1103–24. ([open-access link](https://lucris.lub.lu.se/ws/portalfiles/portal/25657038/Article_II_Alkhalili.pdf))
 4. Alkhalili, Noura. 2017. “Protection from Below: On Waqf between Theft and Morality.” _Jerusalem Quarterly_, no. 70, 62–74. ([open-access link](https://www.palestine-studies.org/sites/default/files/jq-articles/Pages_from_JQ_70_-_Alkhalili_0.pdf))
 5. Alnaji, Hala, Shyma Naji, Husam Salem, Ibrahim Naji, and Mustefi Naji. 2016. “Visual Ethnography and Urban Practice Investigation: ‘The Palestinian Urban Practices in Gaza Strip during War 2014.’” ([open-access link](https://dadun.unav.edu/handle/10171/42256))
 6. Barakat, Rana. 2021. “‘Ramadan Does Not Come for Free’: Refusal as New and Ongoing in Palestine.” _Journal of Palestine Studies_ 50 (4): 90–95. ([link](https://www.tandfonline.com/doi/full/10.1080/0377919X.2021.1979376))
-7. بشارة، عزمي. 2003. ”الحيز العام والحيز الخاص.“ في **طروحات عن النهضة المعاقة**. رام الله: مواطن، المؤسسة الفلسطينية لدراسة الديمقراطية. 113-122. ([مصدر مفتوح الوصول](https://muwatin.birzeit.edu/sites/default/files/publications/attachments/Azmi%20Bishara%20-%20Theses%20on%20a%20Deferred%20Awakening.pdf))
+7. بشارة، عزمي. 2003. "الحيز العام والحيز الخاص." في: **طروحات عن النهضة المعاقة**. رام الله: مواطن، المؤسسة الفلسطينية لدراسة الديمقراطية. 113-122. ([مصدر مفتوح الوصول](https://muwatin.birzeit.edu/sites/default/files/publications/attachments/Azmi%20Bishara%20-%20Theses%20on%20a%20Deferred%20Awakening.pdf))
 8. Chalcraft, John. 2016. _Popular Politics in the Making of the Modern Middle East_. Cambridge: Cambridge University Press. 240-56 ([WorldCat link](https://search.worldcat.org/title/922561826))
 9. Dibiasi, Caroline Mall. 2015. “Changing Trends in Palestinian Political Activism: The Second Intifada, the Wall Protests, and the Human Rights Turn.” _Geopolitics_ 20 (3): 669–95. ([link](https://www.tandfonline.com/doi/abs/10.1080/14650045.2015.1028028))
-10. El-Atrash, Ahmad. 2020. “Placemaking Interventions in Palestine as Demonstration Effects on the Ground.” _The Journal of Public Space_ 5 (1): 167–76. ([open-access link](https://www.journalpublicspace.org/index.php/jps/article/view/1256/769))
+10. El-Atrash, Ahmad. 2020. “Placemaking Interventions in Palestine as Demonstration Effects on the Ground.” _The Journal of Public Space&#32;_5 (1): 167–76. ([open-access link](https://www.journalpublicspace.org/index.php/jps/article/view/1256/769))
 11. Hasan, Dana, and Sahera Bleibleh. 2023. “The Everyday Art of Resistance: Interpreting ‘Resistancescapes’ against Urban Violence in Palestine.” _Political Geography_ 101: 102833. ([link](https://www.sciencedirect.com/science/article/abs/pii/S0962629823000112))
-12. حسن، دانة وساحرة بليبلة. ”إعادة قراءة الفضاء العام: التعبير بالغرافيتي في مواجهة العنف المكاني في فلسطين“. **جدليّة**، يونيو، 28، 2021. ([مصدر مفتوح الوصول](https://www.jadaliyya.com/Details/43033)) 
+12. حسن، دانة وساحرة بليبلة.، ”إعادة قراءة الفضاء العام: التعبير بالغرافيتي في مواجهة العنف المكاني في فلسطين.“، **جدليّة**، يونيو، 28، 2021. ([مصدر مفتوح الوصول](https://www.jadaliyya.com/Details/43033)) 
 13. Junka, Laura. 2006. “The Politics of Gaza Beach.” _Third Text_ 20 (3–4): 417–28. ([link](https://www.tandfonline.com/doi/full/10.1080/09528820600855428))
-14. كنفاني، غسان. **ثورة ٣٦ - ٣٩ في فلسطين: خلفيات و تفاصيل و تحليل**. د.ن ([مصدر مفتوح الوصول](https://archive.org/details/36393/page/n1/mode/2up))
+14. كنفاني، غسان. **ثورة ٣٦ - ٣٩ في فلسطين: خلفيات و تفاصيل و تحليل**.  د.ن ([مصدر مفتوح الوصول](https://archive.org/details/36393/page/n1/mode/2up))
 
-English version: Kanafani, Ghassan. 1980 [1972]. _The 1936-39 Revolt in Palestine_. London: Tricontinental Society. ([open-access link](https://yplus.ps/wp-content/uploads/2021/01/Kanafani-Ghassan-The-1936-39-Revolt-in-Palestine.pdf))
+English version:Kanafani, Ghassan. 1980 [1972]. _The 1936-39 Revolt in Palestine_. London: Tricontinental Society. ([open-access link](https://yplus.ps/wp-content/uploads/2021/01/Kanafani-Ghassan-The-1936-39-Revolt-in-Palestine.pdf))
 
-13. Murray, Hubert. 2021. “Landscape as Resistance in the West Bank.” _Places Journal_. ([open-access link](https://placesjournal.org/article/battir-landscape-as-palestinian-resistance-in-the-west-bank))
-14. Salah, Shadi. 2023. “On Public Spaces of Palestinian Refugee Camps: The Social Production and Construction of Almarkaz ‘Taxi Station.’” In _Living Politics in the City: Architecture as Catalyst for Public Space_, edited by Marion Hohlfedt and Carmen Popescu. Leuven: Leuven University Press. ([WorldCat link](https://search.worldcat.org/title/1342623596))
-15. Shalhoub-Kevorkian, Nadera. 2006. “Counter-Spaces as Resistance in Conflict Zones.” _Journal of Feminist Family Therapy_ 17 (3–4): 109–41. ([open-access link](https://www.tandfonline.com/doi/pdf/10.1300/J086v17n03_07))
-16. Shibli, Adania. 2006. “Al-Manara Square: Monumental Architecture and Power.” _Jerusalem Quarterly_, no. 26, 52–64. ([open-access link](https://www.palestine-studies.org/sites/default/files/jq-articles/26_shibli_1_0.pdf))
-17. Totry-Fakhoury, Maisa, and Nurit Alfasi. 2018. “When Contradicting Public Space Regimes Collide: The Case of Palestinian Israeli Towns.” _The Geographical Journal_ 184 (4): 429–42. ([link](https://rgs-ibg.onlinelibrary.wiley.com/doi/abs/10.1111/geoj.12265))
-18. Zawawi, Zahraa, Eric Corijn, and Bas Van Heur. 2013. “Public Spaces in the Occupied Palestinian Territories.” _GeoJournal_ 78 (4): 743–58. ([link](https://link.springer.com/article/10.1007/s10708-012-9463-9))
+15. Murray, Hubert. 2021. “Landscape as Resistance in the West Bank.” _Places Journal_. ([open-access link](https://placesjournal.org/article/battir-landscape-as-palestinian-resistance-in-the-west-bank))
+16. Salah, Shadi. 2023. “On Public Spaces of Palestinian Refugee Camps: The Social Production and Construction of Almarkaz ‘Taxi Station.’” In _Living Politics in the City: Architecture as Catalyst for Public Space_, edited by Marion Hohlfedt and Carmen Popescu. Leuven: Leuven University Press. ([WorldCat link](https://search.worldcat.org/title/1342623596))
+17. Shalhoub-Kevorkian, Nadera. 2006. “Counter-Spaces as Resistance in Conflict Zones.” _Journal of Feminist Family Therapy_ 17 (3–4): 109–41. ([open-access link](https://www.tandfonline.com/doi/pdf/10.1300/J086v17n03_07))
+18. Shibli, Adania. 2006. “Al-Manara Square: Monumental Architecture and Power.” _Jerusalem Quarterly_, no. 26, 52–64. ([open-access link](https://www.palestine-studies.org/sites/default/files/jq-articles/26_shibli_1_0.pdf))
+19. Totry-Fakhoury, Maisa, and Nurit Alfasi. 2018. “When Contradicting Public Space Regimes Collide: The Case of Palestinian Israeli Towns.” _The Geographical Journal_ 184 (4): 429–42. ([link](https://rgs-ibg.onlinelibrary.wiley.com/doi/abs/10.1111/geoj.12265))
+20. Zawawi, Zahraa, Eric Corijn, and Bas Van Heur. 2013. “Public Spaces in the Occupied Palestinian Territories.” _GeoJournal_ 78 (4): 743–58. ([link](https://link.springer.com/article/10.1007/s10708-012-9463-9))
 
 ## Audiovisual Material
 
