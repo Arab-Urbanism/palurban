@@ -74,8 +74,8 @@ English version: Younis, Rami and Sarah Ema Friedland. directors. 2023. _Lyd_. 7
 5. Singapore Art Museum. “Teaching and Living Science Fiction: Lessons from the Middle East – Nadya Sbaiti.” YouTube video. July 10, 2023. ([lecture](https://youtu.be/guEgt5r5RbU?si=BXCdRljMyyAQKbPY)) 
 6.  afikra. “Exploring New Horizons: A Conversation on Arabic Science Fiction | Ashraf Fagih.” YouTube video, January 25, 2023. ([video](https://youtu.be/JpFxK4SELZU)) 
 7. The Fire These Times. “Space Travel, Nostalgia, and Retrofuturism (With Nat Muller).”February 4, 2022. ([audio recording](https://thefirethesetimes.com/2022/02/04/98-space-travel-nostalgia-and-retrofuturism-with-nat-muller/))
-8. Countless Palestinian Futures, a project by Danah Abdulla and Sarona Abuaker. ([web](https://palifutures.com/))
+8. _Countless Palestinian Futures_, a project by Danah Abdulla and Sarona Abuaker. ([web](https://palifutures.com/))
 
-**\_\_\_**
+**___**
 
 Image: Palestinian man with horse on the beach in Jaffa, 2023. Photograph by Majd Al-Shihabi.
