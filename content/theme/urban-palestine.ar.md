@@ -84,7 +84,7 @@ English version: Seikaly, May. 1995. _Haifa: Transformation of an Arab Society, 
 بالعربية: تماري، سليم.2012. ”أم الغريب: تخطيط المدن وتطور الحيِّز العام في فلسطين العثمانية.“ **حوليات القدس** (13): 26-46. ([مصدر مفتوح الوصول](https://store.palestine-studies.org/sites/default/files/hq-articles/11464.pdf))
 
 20. Tayeb, Sami. 2019. "The Palestinian McCity in the Neoliberal Era," _Middle East Report_ 290, (Spring). ([open-access link](https://merip.org/2019/07/the-palestinian-mccity-in-the-neoliberal-era/))
-21. يزبك، محمود. 2013. ”يافا ما قبل النكبة: مدينة تنبض بالحياة.“ **مجلة الدراسات الفلسطينية**_،_ 93 (شتاء): 36 - 49. ([مصدر مفتوح الوصول](https://store.palestine-studies.org/sites/default/files/mdf-articles/MDF_036-049.pdf))
+21. يزبك، محمود. 2013. ”يافا ما قبل النكبة: مدينة تنبض بالحياة.“ **مجلة الدراسات الفلسطينية**_،_ 93 (شتاء): 36-49. ([مصدر مفتوح الوصول](https://store.palestine-studies.org/sites/default/files/mdf-articles/MDF_036-049.pdf))
 
 ## **مواد سمعية وبصرية**
 
