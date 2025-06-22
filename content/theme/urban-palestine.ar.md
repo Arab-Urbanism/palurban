@@ -34,7 +34,7 @@ images:
 
 ## مراجع رئيسيّة
 
-1. Taraki, Lisa. n.d. “Urban Palestine: Divergent Trajectories of Spatial and Social Transformations.” Interactive Encyclopedia of the Palestine Question. ([open-access link](https://www.palquest.org/en/highlight/14513/urban-palestine))
+1. Taraki, Lisa. n.d. “Urban Palestine: Divergent Trajectories of Spatial and Social Transformations.” _Interactive Encyclopedia of the Palestine Question_. ([open-access link](https://www.palquest.org/en/highlight/14513/urban-palestine))
 
 بالعربية: تراكي، ليزا. د.ت. ” فلسطين الحضريّة: مسارات متباينة لتحوّلات مكانية واجتماعية.“ **الموسوعة التفاعلية للقضية الفلسطينية**. ([مصدر مفتوح الوصول](https://www.palquest.org/ar/highlight/14514/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D8%A7%D9%84%D8%AD%D8%B6%D8%B1%D9%8A%D9%91%D8%A9))
 
@@ -98,6 +98,6 @@ English version: Seikaly, May. 1995. _Haifa: Transformation of an Arab Society, 
 8. جبارة طيبي، مروة، مخرجة. **مصور غزة الأول – كيغام جغليان** . الجزيرة الوثائقية. 2021. 27:30 د.  ([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=tosuD3YwjhA))
 9. السقا، أباهر، وعمر ذوابة. ”غزة: التاريخ الاجتماعي تحت الاستعمار البريطاني | أباهر السقا.“ تقديم عمر ذوابة، بودكاست عفكرة ، أكتوبر 31، 2023. بودكاست، رابط يوتيوب، 1:12:15.  ([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=vDBlPC7qMKw))
 
-**\_\_\_**
+**___**
 
 الصورة: جمع التبرعات للعائلات الفلسطينية المتضررة من الإضراب العام عام 1936، من باب الخليل إلى البلدة القديمة في القدس. أرشيف مؤسسة الدراسات الفلسطينية.
