@@ -36,7 +36,7 @@ images:
 1. Amiry, Suad. 2017. “Patterns of Settlement in 19th Century Rural Palestine.” In _Peasant Architecture in Palestine: Space, Kinship and Gender._ Ramallah: Riwaq, 9-36. ([open-access link](https://palestine.araburbanism.com/img/Patterns%20of%20Settlement%20in%2019th%20Century%20Rural%20Palestine.pdf))
 2. Amiry, Suad, and Vera Tamari. 2003. _The Palestinian Village Home_. 2nd edition. Ramallah: Riwaq, 16 – 33. ([open-access link](https://palestine.araburbanism.com/img/The%20Palestinian%20Village%20Home.pdf))
 3. Falah, Ghazi. 1985. “How Israel Controls The Bedouin in Israel.’’ _Journal of Palestine Studies_, 14(2): 35-51. ([open-access link](https://drive.google.com/file/d/1K052hxLUeeu6Aig7_OSFFMoSzWkSHPUr/view?usp=sharing))
-4. Berg, Kjersti. n.d. “The Evolving Infrastructure of Palestinian Refugee Camps: Perpetuating the Temporary.”\_ Interactive Encyclopedia of the Palestine Question\_. ([open-access link](https://www.palquest.org/en/highlight/22473/evolving-infrastructure-palestinian-refugee-camps))
+4. Berg, Kjersti. n.d. “The Evolving Infrastructure of Palestinian Refugee Camps: Perpetuating the Temporary.”_ Interactive Encyclopedia of the Palestine Question_. ([open-access link](https://www.palquest.org/en/highlight/22473/evolving-infrastructure-palestinian-refugee-camps))
 
 بالعربية: بيرغ، كيرستي. د.ت. ” تطوّر البنية التحتية للمخيمات الفلسطيني.“ **الموسوعة التفاعلية للقضية الفلسطينية**. ([مصدر مفتوح الوصول](https://www.palquest.org/ar/highlight/22474/%D8%AA%D8%B7%D9%88%D9%91%D8%B1-%D8%A7%D9%84%D8%A8%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D8%AA%D9%8A%D8%A9-%D9%84%D9%84%D9%85%D8%AE%D9%8A%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9)) 
 
@@ -53,12 +53,12 @@ _الرجاء&#160;[التواصل معنا](https://palestine.araburbanism.com/
 5. Ayoub, Venus. 2020. The Problematics of ‘Informal Urbanism’ as a Terminology and its Use to Refer to Palestinian Localities in Israel. _Arab Urbanism.&#32;_([open-access link)](https://www.araburbanism.com/magazine/problematics-of-informality)
 6. Bshara, Khaldun. 2014. “Spatial Memories: The Palestinian Refugee Camps as Time Machine.” _Jerusalem Quarterly_, 60 (Autumn): 14-31.[ (open-access link](https://www.palestine-studies.org/en/node/202708))
 7. Bshara, Khaldun. 2015. “Rural Urbanization: the Commodification of Land in Post-Oslo Palestine.” In _Reclaiming Space: The Rehabilitation of 50 Villages in Rural Palestine_, edited by Suad Amiry and Khaldun Bshara, 92-103. Ramallah: Riwaq. ([open-access link](https://www.academia.edu/16677257/Rural_Urbanization_the_Commodification_of_Land_in_Post_Oslo_Palestine))
-8. Charpentier, Paul. n.d. “Regulating Palestinian Land.”\_ Interactive Encyclopedia of the Palestine Question\_. ([open-access link](https://palquest.palestine-studies.org/en/overallchronology?nid=150&chronos=150))
+8. Charpentier, Paul. n.d. “Regulating Palestinian Land.”_&#32;Interactive Encyclopedia of the Palestine Question_. ([open-access link](https://palquest.palestine-studies.org/en/overallchronology?nid=150&chronos=150))
 
 بالعربيّة: شاربنتيه، بيار. د. ت. ”التنظيم القانوني للأراضي في فلسطين.“ **الموسوعة التفاعلية للقضية الفلسطينية**. ([مصدر مفتوح الوصول](https://palquest.palestine-studies.org/ar/overallchronology?nid=240&chronos=240)) 
 
 9. Clarno, Andy. 2017. “Bethlehem: Neoliberal Colonization.” In _Neoliberal Apartheid: Palestine/Israel and South Africa after 1994_, Chicago: University of Chicago Press, 89–124. ([chapter description](https://academic.oup.com/chicago-scholarship-online/book/21675/chapter-abstract/181579553?redirectedFrom=fulltext) and [WorldCat link](https://search.worldcat.org/title/972734099))
-10. Falah, Ghazi-Walid. 2012. “Growing up in rural Galilee, Palestine: memories of childhood geographies.” _Cultural Geographies_, 20(3): 299–318. ([link](https://doi.org/10.1177/1474474012447760)) 
+10. Falah, Ghazi-Walid. 2012. “Growing up in rural Galilee, Palestine: memories of childhood geographies.” _Cultural Geographies_, 20 (3): 299–318. ([link](https://doi.org/10.1177/1474474012447760)) 
 11. Ghadban, Shadi. 2015. “Palestinian dry stone structures: an endogenous expression of cultural landscape.” _Journal of Sustainable Development, Culture, Traditions_, 1b (January): 34-47. ([open-access link](https://sdct-journal.hua.gr/index.php/2015-10-18-22-23-19/2015-volume-1-b/367-palestinian-dry-stone-structures-an-endogenous-expression-of-cultural-landscape)) 
 12. Jabareen, Yosef, and Orwa Switat. 2019. “Insurgent informality: the struggle over space production between the Israeli state and its Palestinian Bedouin communities.” _Space and Polity_, 23(1): 92–113. ([open-access link](https://www.researchgate.net/publication/331584770_Insurgent_informality_the_struggle_over_space_production_between_the_Israeli_state_and_its_Palestinian_Bedouin_communities))
 13. Ragette, Friedrich. 2003. _Traditional Domestic Architecture of the Arab Region_. Stuttgart; London: Edition Axel Menges ([WorldCat link](https://search.worldcat.org/title/52188574))
@@ -85,6 +85,6 @@ _الرجاء&#160;[التواصل معنا](https://palestine.araburbanism.com/
 5. خليفي، ميشيل، مخرج. **حكاية الجواهر الثلاث**. عمر القطان وميشيل خليفي. 1995. 31 د. ([مصدر مفتوح الوصول](https://ok.ru/video/1436562164382))
 6. رمضان، يارا وغدير نجار. ”تراث العمارة المؤقتة - مخيمات اللجوء.“ تقديم غدير نجارة، أبريل، 13، 2023. قناة يوتيوب، رابط يوتيوب: 1:06:09. ([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=MYCRbXiujXk))
 
-**\_\_\_**
+**___**
 
 الصورة: حي سلوان في القدس، 2019. تصوير [Mksg1](https://commons.wikimedia.org/wiki/File:Jerusalem_Hills.jpg).
