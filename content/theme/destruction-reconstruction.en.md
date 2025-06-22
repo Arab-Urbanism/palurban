@@ -66,10 +66,10 @@ English version: Weizman, Eyal. 2007. “Urban Warfare: Walking Through Walls,�
 
 ## Audiovisual Material
 
-1. Abu Jabal, Salim, director. _Roshmia_. Boujabel Productions. 2015. 70 min. ([link](https://www.youtube.com/watch?v=1PHYtQu5NSU))
-2. Bakri, Mohammed, director. _Jenin, Jenin_. Iyad Tahar Samoudi. 2002. 54 min. ([open-access link](https://www.youtube.com/watch?v=dU9iNGc5Bf4))
-3. Hadjithomas, Joana, and Khalil Joreige, directors. _Je veux voir_. Mille et Une Productions. 2008. 75 min. ([link](https://vimeo.com/153902289))
-4. خليفي، ميشيل، مخرج. **معلول تحتفل بدمارها**. ميشيل خليفي وبيرين هامبله. 1984. 31 د. ([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=D44KIMcPRnQ))
+1. Abu Jabal, Salim, director. 2015. _Roshmia_. Boujabel Productions. 70 min. ([link](https://www.youtube.com/watch?v=1PHYtQu5NSU))
+2. Bakri, Mohammed, director. 2002. _Jenin, Jenin_. Iyad Tahar Samoudi. 54 min. ([open-access link](https://www.youtube.com/watch?v=dU9iNGc5Bf4))
+3. Hadjithomas, Joana, and Khalil Joreige, directors. 2008. _Je veux voir_. Mille et Une Productions. 75 min. ([link](https://vimeo.com/153902289))
+4. خليفي، ميشيل، مخرج. 1984. **معلول تحتفل بدمارها**. ميشيل خليفي وبيرين هامبله. 31 د. ([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=D44KIMcPRnQ))
 5. Sharp, Deen, Helga Tawil-Souri, Fadi Shayya, and Tareq Baconi. 2021. “Open Gaza Launch Video.” February 28, 2021. YouTube link, 1:00:44. ([open-access link](https://www.youtube.com/watch?v=RumfL3-3wQ4&t=475s))
 
 **___**
