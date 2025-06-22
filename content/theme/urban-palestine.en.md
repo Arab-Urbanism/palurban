@@ -38,7 +38,7 @@ The study of the modern urban history of Palestine, like other spaces in the Glo
 
 بالعربية: تراكي، ليزا. د.ت. ” فلسطين الحضريّة: مسارات متباينة لتحوّلات مكانية واجتماعية.“ **الموسوعة التفاعلية للقضية الفلسطينية**. ([مصدر مفتوح الوصول](https://www.palquest.org/ar/highlight/14514/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D8%A7%D9%84%D8%AD%D8%B6%D8%B1%D9%8A%D9%91%D8%A9))
 
-2. تماري، سليم. 2005. الجبل ضد البحر: دراسات في إشكاليات الحداثة الفلسطينية.**&#32;**الطبعة الثانية. رام الله: مواطن، المؤسسة الفلسطينية لدراسة الديمقراطية، 9-33. ([مصدر مفتوح الوصول](https://muwatin.birzeit.edu/sites/default/files/publications/attachments/Salim%E2%80%AD_%E2%80%ACBook%E2%80%AD_sm.pdf))
+2. تماري، سليم. 2005. **الجبل ضد البحر: دراسات في إشكاليات الحداثة الفلسطينية**. الطبعة الثانية. رام الله: مواطن، المؤسسة الفلسطينية لدراسة الديمقراطية، 9-33. ([مصدر مفتوح الوصول](https://muwatin.birzeit.edu/sites/default/files/publications/attachments/Salim%E2%80%AD_%E2%80%ACBook%E2%80%AD_sm.pdf))
 
 English version: Tamari, Salim. 2008. _Mountain against the Sea:_ _Essays on Palestinian Society and Culture._ Berkley: University of California Press, 1-35. ([link](https://www.ucpress.edu/book/9780520251298/mountain-against-the-sea))
 
