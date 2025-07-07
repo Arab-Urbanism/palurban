@@ -8,7 +8,7 @@ featured_image: /theme/publicspaceresistance.png
 images:
   - /theme/publicspaceresistance.png
 ---
-غالباً ما يُنظر إلى الاحتجاج الجماهيري في الفضاء العام باعتباره النمط السائد للمقاومة في الدول المعاصرة. وقد أكدت  ذلك، في 2011،  تلك الاحتجاجات الجماهيرية الثورية في كبرى الفضاءات العامة في عواصم عدة عبر أنحاء المنطقة العربية. في فلسطين، تتخلخل العلاقة المعهودة بين الفضاء العام والمقاومة بعدما أدت عقود من الاستعمار، والتخطيط القمعي، والرقابة الأمنية، خصوصاً مع استمرار قضية اللاجئين، إلى اضطراب المفاهيم حول ما يشكل "الجمهور" وتمثيله في المساحات التي تصممها وتديرها "الدولة". تُسلّط دراسة الفضاء العام والمقاومة في فلسطين الضوء على القيود والإمكانات المرتبطة بهذين المفهومين، وتوفر مصادر مُلهمة حول أعمال مقاومة في مواقع متنوعة.
+غالباً ما يُنظر إلى الاحتجاج الجماهيري في الفضاء العام باعتباره النمط السائد للمقاومة في الدول المعاصرة. وقد أكدت  ذلك، في 2011،  تلك الاحتجاجات الجماهيرية الثورية في كبرى الفضاءات العامة في عواصم عدة عبر أنحاء المنطقة العربية. في فلسطين، تتخلخل العلاقة المعهودة بين الفضاء العام والمقاومة بعدما أدت عقود من الاستعمار، والتخطيط القمعي، والرقابة الأمنية، خصوصاً مع استمرار قضية اللاجئين، إلى اضطراب المفاهيم حول ما يشكل "الجمهور" وتمثيله في المساحات التي تصممها وتديرها "الدولة". تُسلّط دراسة الفضاء العام والمقاومة في فلسطين الضوء على القيود والإمكانات المرتبطة بهذين المفهومين، وتوفر مصادر مُلهمة حول أعمال المقاومة في مواقع متنوعة.
 
 ## أسئلة رئيسية
 
@@ -48,7 +48,7 @@ _الرجاء&#160;[التواصل معنا](https://palestine.araburbanism.com/
 7. بشارة، عزمي. 2003. "الحيز العام والحيز الخاص." في: **طروحات عن النهضة المعاقة**. رام الله: مواطن، المؤسسة الفلسطينية لدراسة الديمقراطية. 113-122. ([مصدر مفتوح الوصول](https://muwatin.birzeit.edu/sites/default/files/publications/attachments/Azmi%20Bishara%20-%20Theses%20on%20a%20Deferred%20Awakening.pdf))
 8. Chalcraft, John. 2016. _Popular Politics in the Making of the Modern Middle East_. Cambridge: Cambridge University Press. 240-56 ([WorldCat link](https://search.worldcat.org/title/922561826))
 9. Dibiasi, Caroline Mall. 2015. “Changing Trends in Palestinian Political Activism: The Second Intifada, the Wall Protests, and the Human Rights Turn.” _Geopolitics_ 20 (3): 669–95. ([link](https://www.tandfonline.com/doi/abs/10.1080/14650045.2015.1028028))
-10. El-Atrash, Ahmad. 2020. “Placemaking Interventions in Palestine as Demonstration Effects on the Ground.” _The Journal of Public Space&#32;_5 (1): 167–76. ([open-access link](https://www.journalpublicspace.org/index.php/jps/article/view/1256/769))
+10. El-Atrash, Ahmad. 2020. “Placemaking Interventions in Palestine as Demonstration Effects on the Ground.” _The Journal of Public Space _5 (1): 167–76. ([open-access link](https://www.journalpublicspace.org/index.php/jps/article/view/1256/769))
 11. Hasan, Dana, and Sahera Bleibleh. 2023. “The Everyday Art of Resistance: Interpreting ‘Resistancescapes’ against Urban Violence in Palestine.” _Political Geography_ 101: 102833. ([link](https://www.sciencedirect.com/science/article/abs/pii/S0962629823000112))
 12. حسن، دانة وساحرة بليبلة.، ”إعادة قراءة الفضاء العام: التعبير بالغرافيتي في مواجهة العنف المكاني في فلسطين.“، **جدليّة**، يونيو، 28، 2021. ([مصدر مفتوح الوصول](https://www.jadaliyya.com/Details/43033)) 
 13. Junka, Laura. 2006. “The Politics of Gaza Beach.” _Third Text_ 20 (3–4): 417–28. ([link](https://www.tandfonline.com/doi/full/10.1080/09528820600855428))
