@@ -1,7 +1,7 @@
 ---
 title: فلسطين العالمية
 slug: globalpalestine
-draft: true
+draft: false
 weight: null
 tags: []
 lastmod: 2025-08-26T17:28:00
