@@ -44,7 +44,7 @@ featured_image: /theme/Communal and Colonial Infrastructures 1.jpg
 6. Dimitriadis, Sotirios. 2018. “The Tramway Concession of Jerusalem, 1908–1914: Elite Citizenship, Urban Infrastructure, and the Abortive Modernization of a Late Ottoman City.”_ _In _Ordinary Jerusalem, 1840-1940: Opening New Archives, Revisiting a Global City_, edited by Angelos Dalachanis and Vincent Lemire, 475–89. BRILL eBooks. ([open-access link](https://brill.com/display/book/edcoll/9789004375741/BP000042.xml?language=en&srsltid=AfmBOoo2yKEZbOpc0qbfpFM7a3bECyJKMUyyqxxt6HNqjs5_K8IEJ2za))
 7. El Sakka, Abaher. 2023. “Electricity in the Palestinian Society in the Gaza Strip: Daily Life Practices and Mechanisms of Resilience and Community Resistance.” _Arab Urbanism_, special issue “Imaginaries from a Blackout” edited by Lana Judeh and Mohammed Abualrob. ([open-access link](https://drive.google.com/file/d/1aUUyV7JH7_93Hlck16yDcngVMejfsH-R/view))
 
-بالعربية: السقا، أباهر. 2023. "الكهرباء في المجتمع الفلسطيني في قطاع غزة: ممارسات الحياة اليومية وآليات الجَلَد والمقاومة المجتمعية،" في "لوين بتروح الكهربا."عدد خاص من **العمران العربي** (يونيو). ([مصدر مفتوح الوصول](https://www.araburbanism.com/magazine/electricity-gaza))
+بالعربية: السقا، أباهر. 2023. ”الكهرباء في المجتمع الفلسطيني في قطاع غزة: ممارسات الحياة اليومية وآليات الجَلَد والمقاومة المجتمعية،“ في ”لوين بتروح الكهربا.“عدد خاص من **العمران العربي** (يونيو). ([مصدر مفتوح الوصول](https://www.araburbanism.com/magazine/electricity-gaza))
 
 8. Haddad, Toufic. 2018. “Insurgent Infrastructure: Tunnels of the Gaza Strip.” _Middle East - Topics & Arguments_ 10 (June): 71–85. ([open-access link](https://archiv.ub.uni-marburg.de/ep/0003/2018/192/7594/7634.pdf))
 9. Hammami, Rema. 2005. “On The Importance of Thugs: The Moral Economy of a Checkpoint.” _Jerusalem Quarterly_ 22/23 (Winter/Autumn): 16-28. ([open-access link](https://www.palestine-studies.org/sites/default/files/jq-articles/22_23_thugs_1_0.pdf))
@@ -61,14 +61,14 @@ featured_image: /theme/Communal and Colonial Infrastructures 1.jpg
 20. Ziadah, Rafeef, Christian Henderson, Omar Jabary Salamanca, Sharri Plonski, Charmaine Chua, Riya Al Sanah, and Elia El Khazen. 2025. “Disruptive Geographies and the War on Gaza: Infrastructure and Global Solidarity.” _Geopolitics_ June, 1–39.  ([open-access link](https://www.tandfonline.com/doi/full/10.1080/14650045.2025.2510319#abstract))
 21. Masalmeh, Asmaa. 2024 “‘Coffins’ on Wheels: Israel Floods West Bank with ‘Totaled’ Cars.” _Environment and Development Horizons_, March 1, 2024. ([open-access link](https://www.maan-ctr.org/magazine/article/4156/))
 
-بالعربية:  مسالمة، أسماء. 2023. "إسرائيل تغزو الضفة بـ "توابيت" سيارة مشطوبة." **أريج**، ديسمبر 28، 2023. ([مصدر مفتوح الوصول](https://arij.net/investigations/cars-palestine/))
+بالعربية:  مسالمة، أسماء. 2023. ”إسرائيل تغزو الضفة بـ ’توابيت‘ سيارة مشطوبة.“ **أريج**، ديسمبر 28، 2023. ([مصدر مفتوح الوصول](https://arij.net/investigations/cars-palestine/))
 
 ## **مواد سمعية وبصرية**
 
 1. Nayfeh,  Ameen, director. 2020. _200 meters_. Odeh Films, 96 min.  ([link](https://www.youtube.com/watch?v=LhhF3Hr9bEw)).
 2. Andoni, Raed, director. 2017. _Ghost Hunting_. Palmyre Badinier, 94 min. ([link](https://www.google.com/search?q=2017.+Ghost+Hunting.+&sca_esv=ab25832c05e403ac&udm=7&biw=1360&bih=786&ei=NGZcaMWILYGCxc8P87qM0AE&ved=0ahUKEwjF8qi0vo2OAxUBQfEDHXMdAxoQ4dUDCBA&uact=5&oq=2017.+Ghost+Hunting.+&gs_lp=EhZnd3Mtd2l6LW1vZGVsZXNzLXZpZGVvIhUyMDE3LiBHaG9zdCBIdW50aW5nLiAyBhAAGBYYHjIFEAAY7wUyBRAAGO8FSKQrUJcOWNkocAF4AJABAJgBxAGgAfMEqgEDMC40uAEDyAEA-AEBmAIBoAKHAZgDAIgGAZIHAzAuMaAHywOyBwMwLjG4B4cBwgcDMy0xyAcI&sclient=gws-wiz-modeless-video#fpstate=ive&vld=cid:0cfd5085,vid:G1ISOJKX3uw,st:0)).
 3. Jarrar, Khaled, director. 2012._&#32;Infiltrators_. Sami Said and Mohanad Yaqubi, 94 min. ([link](https://www.youtube.com/watch?v=iEIjDfY5KyU))
-4. شحادة، لمى. 2019. "محاضرة حين يعطش الغرباء: الإدارة الصهيونية للمياه وتخريب طبيعة فلسطين." يناير، 2019. 
+4. شحادة، لمى. 2019. ”محاضرة حين يعطش الغرباء: الإدارة الصهيونية للمياه وتخريب طبيعة فلسطين.“ يناير، 2019. 
 
 **___**
 
