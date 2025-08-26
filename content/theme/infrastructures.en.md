@@ -1,7 +1,7 @@
 ---
 title: Communal and Colonial Infrastructures
 slug: infrastructures
-draft: true
+draft: false
 weight: null
 lastmod: 2024-10-15T22:20:00
 featured_image: /theme/Communal and Colonial Infrastructures 1.jpg
@@ -25,7 +25,7 @@ Throughout history, communities of peasants, urban dwellers, and Bedouins in Pal
 - Infrastructure of local production: [Grain mills](https://www.riwaq.org/book/23492) and [olive presses](https://www.palquest.org/en/highlight/36858/olive-oil-production-late-ottoman-rule)
 - Infrastructure of empire: [Ottoman railways in Palestine and Haifa Port](https://www.palestine-studies.org/en/node/77910)
 - Infrastructures of (im)mobility: [Checkpoint 300](https://www.sciencedirect.com/science/article/abs/pii/S0962629817304213), [Jerusalem’s roads and public transportation networks](https://www.araburbanism.com/magazine/the-landscape-beyond-the-highway). 
-- Borders and carceral infrastructure: [_Sumud_&#32;in Colonial Prisons](https://www.researchgate.net/publication/268443353_Sumud_A_Palestinian_Philosophy_of_Confrontation_in_Colonial_Prisons) , [expanding buffer zones in Gaza](https://forensic-architecture.org/investigation/ecocide-in-gaza) 
+- Borders and carceral infrastructure: [_Sumud_ in Colonial Prisons](https://www.researchgate.net/publication/268443353_Sumud_A_Palestinian_Philosophy_of_Confrontation_in_Colonial_Prisons) , [expanding buffer zones in Gaza](https://forensic-architecture.org/investigation/ecocide-in-gaza) 
 - Unsettled Infrastructure: [Stop the Wall](https://stopthewall.org/), [Protests against Occupied Golan Heights wind farm](https://www.escr-net.org/news/2023/stop-state-repression-in-occupied-syrian-golan/), [Campaign for a global energy embargo against Israel](https://bdsmovement.net/news/energy-embargo-now-end-genocide)
 - Waste disposal: [“totaled” cars from Israel to the West Bank](https://www.maan-ctr.org/magazine/article/4156/)
 
@@ -44,7 +44,7 @@ Throughout history, communities of peasants, urban dwellers, and Bedouins in Pal
 3. Arefin, Mohammed Rafi, and Benjamin Kaplan Weinger. 2020. “Infrastructural Occupations: Waste and Electricity in Palestine.” _Cultural Geographies_ 28 (3): 569–72. ([link](https://www.researchgate.net/publication/347275016_Infrastructural_occupations_waste_and_electricity_in_Palestine))
 4. عودة الله، خالد. 2018. ”يافا – القدس: تاريخٌ موجزٌ لسكّة الاستعمار.“ **باب الواد**، أكتوبر 16، 2018. ([مصدر مفتوح الوصول](https://babelwad.com/ar/%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86/%d9%8a%d8%a7%d9%81%d8%a7-%d8%a7%d9%84%d9%82%d8%af%d8%b3-%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae%d9%8c-%d9%85%d9%88%d8%ac%d8%b2%d9%8c-%d9%84%d8%b3%d9%83%d9%91%d8%a9-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b9%d9%85/)) 
 5. Dader, Khalid, and Mikko Joronen. 2025. “Fitful Infrastructures: Dwelling With Infrastructural Elimination in Gaza.” _Antipode_ 57 (3): 886-906. ([open-access link](https://www.researchgate.net/publication/390119731_Fitful_Infrastructures_Dwelling_with_Infrastructural_Elimination_in_Gaza))
-6. Dimitriadis, Sotirios. 2018. “The Tramway Concession of Jerusalem, 1908–1914: Elite Citizenship, Urban Infrastructure, and the Abortive Modernization of a Late Ottoman City.”_&#32;_In _Ordinary Jerusalem, 1840-1940: Opening New Archives, Revisiting a Global City_, edited by Angelos Dalachanis and Vincent Lemire, 475–89. BRILL eBooks. ([open-access link](https://brill.com/display/book/edcoll/9789004375741/BP000042.xml?language=en&srsltid=AfmBOoo2yKEZbOpc0qbfpFM7a3bECyJKMUyyqxxt6HNqjs5_K8IEJ2za))
+6. Dimitriadis, Sotirios. 2018. “The Tramway Concession of Jerusalem, 1908–1914: Elite Citizenship, Urban Infrastructure, and the Abortive Modernization of a Late Ottoman City.”_ _In _Ordinary Jerusalem, 1840-1940: Opening New Archives, Revisiting a Global City_, edited by Angelos Dalachanis and Vincent Lemire, 475–89. BRILL eBooks. ([open-access link](https://brill.com/display/book/edcoll/9789004375741/BP000042.xml?language=en&srsltid=AfmBOoo2yKEZbOpc0qbfpFM7a3bECyJKMUyyqxxt6HNqjs5_K8IEJ2za))
 7. El Sakka, Abaher. 2023. “Electricity in the Palestinian Society in the Gaza Strip: Daily Life Practices and Mechanisms of Resilience and Community Resistance.” _Arab Urbanism_, special issue “Imaginaries from a Blackout” edited by Lana Judeh and Mohammed Abualrob. ([open-access link](https://drive.google.com/file/d/1aUUyV7JH7_93Hlck16yDcngVMejfsH-R/view))
 
 بالعربية: السقا، أباهر. 2023. "الكهرباء في المجتمع الفلسطيني في قطاع غزة: ممارسات الحياة اليومية وآليات الجَلَد والمقاومة المجتمعية،" في "لوين بتروح الكهربا."عدد خاص من **العمران العربي** (يونيو). ([مصدر مفتوح الوصول](https://www.araburbanism.com/magazine/electricity-gaza))
@@ -73,7 +73,6 @@ Throughout history, communities of peasants, urban dwellers, and Bedouins in Pal
 3. Jarrar, Khaled, director. 2012._&#32;Infiltrators_. Sami Said and Mohanad Yaqubi, 94 min. ([link](https://www.youtube.com/watch?v=iEIjDfY5KyU))
 4. شحادة، لمى. 2019. "محاضرة حين يعطش الغرباء: الإدارة الصهيونية للمياه وتخريب طبيعة فلسطين." يناير، 2019. رابط يوتيوب :52:25. ([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=ksIaDtyFt2w))
 
-
-
+**___**
 
 Image: postcard with a photograph titled "Sakieh at Der el-Belah" of a group of workers and soldiers surrounding the water-raiser near Gaza. [The Widad Kawar Collection. the Palestinian Museum Digital Archive.](https://palarchive.org/index.php/Detail/objects/299772/lang/en_US)
