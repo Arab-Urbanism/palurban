@@ -50,7 +50,7 @@ Please contact us if you would like access to any resources.
 
 4. Chatzitheodorou, Christina. n.d. “From Greece to Palestine: Archiving as a Form of Solidarity.” _Archive Stories_. ([open-access link](https://archive-stories.com/From-Greece-to-Palestine))
 5. DeMaio, Matthew. 2024. “Made to Move: Placemaking and Accumulated Attachments among Palestinian Refugees from Syria.” PhD diss. The George Washington University. ([open-access link](https://scholarspace.library.gwu.edu/downloads/bc386k045?disposition=inline&locale=en))
-6. Erakat, Noura, and Marc Lamont Hill. 2019. “Black-Palestinian Transnational Solidarity: Renewals, Returns, and Practice.” _Journal of Palestine Studies&#32;_48 (4): 7–16. ([open-access link](https://www.palestine-studies.org/sites/default/files/attachments/jps-articles/JPS192_02_Erakat_Hill.pdf))
+6. Erakat, Noura, and Marc Lamont Hill. 2019. “Black-Palestinian Transnational Solidarity: Renewals, Returns, and Practice.” _Journal of Palestine Studies _48 (4): 7–16. ([open-access link](https://www.palestine-studies.org/sites/default/files/attachments/jps-articles/JPS192_02_Erakat_Hill.pdf))
 7. Gabiam. Nell. 2018. “Mapping Palestinian Identity in the Diaspora: Affective Attachments and Political Spaces.” _South Atlantic Quarterly_ 117 (1): 65-90. ([link](https://read.dukeupress.edu/south-atlantic-quarterly/article-abstract/117/1/65/133452/Mapping-Palestinian-Identity-in-the?redirectedFrom=fulltext))
 8. Ghabra, Shafeeq. 1987. _Palestinians in Kuwait and the Politics of Survival_. Boulder: Westview Press. ([open-access link](https://archive.org/details/palestiniansinku0000ghab/page/n3/mode/2up))
 
@@ -81,3 +81,7 @@ Please contact us if you would like access to any resources.
 5. Hafeda, Mohamad. director. 2018. _Sewing Borders_. Ashkal Alwan for Video Works. 25 mins. ([link](https://www.mohamadhafeda.com/sewing-borders))
 6. Jabaly, Mohamed. _A Palestinian filmmaker caught between two worlds in exile for seven years._ Al Jazeera English. 47 mins. ([open-access film](https://youtu.be/4r_xPTTV2ZQ?si=M5QR3fSmYjrI6BYd)) 
 7. _Palestinian Oral History Archive_. American University of Beirut. ([archive](https://libraries.aub.edu.lb/poha/?_gl=1*1cygt9i*_ga*NzEzNTE2ODgxLjE3MzUzOTY2OTE.*_ga_5G09CXDJQ3*czE3NDkxMjMwODQkbzIkZzAkdDE3NDkxMjMwODQkajYwJGwwJGgw&_ga=2.152894137.1492981738.1749123085-713516881.1735396691))
+
+**___**
+
+Image: Palestine House in London, 2024. Photograph by Dena Qaddumi.
