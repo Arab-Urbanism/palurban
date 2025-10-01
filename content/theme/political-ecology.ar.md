@@ -37,3 +37,10 @@ In English:  Dajani, Muna. 2014. “Drying Palestine: Israel’s Systemic Water
 الرجاء التواصل معنا للوصول لأي من المصادر التالية.
 
 ## **مواد سمعية وبصرية**
+
+1. Manna, Jumana, director. 2022. _Foragers._ 65 mins. ([website](https://www.jumanamanna.com/Foragers)).
+2. Palestine Institute for Biodiversity & Sustainability, Bethlehem University. ([website](https://www.palestinenature.org/))
+3. Price, Judy, director. 2013. _White Oil._ 64 mins. ([open-access film](https://www.cultureunplugged.com/documentary/watch-online/play/54968/white-oil))
+4. Sansour, Vivian. _Palestine Heirloom Seed Library_. ([website](https://viviensansour.com/Palestine-Heirloom))
+5. Tesdell, Omar, ed. 2018. _Palestinian Wild Food Plants_ /  **النباتات البرية الغذائية الفلسطينية**, ([open-access link](https://archive.org/details/palwildfoodplants2018/page/n17/mode/2up))
+6. Areej Ashab. ([website](https://areejashhab.com/about))
