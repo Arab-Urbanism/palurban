@@ -1,7 +1,7 @@
 ---
 title: الإيكولوجيا السياسية
 slug: political-ecology
-draft: true
+draft: false
 weight: null
 tags: []
 lastmod: 2025-10-01T09:27:00
