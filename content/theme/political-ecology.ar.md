@@ -44,3 +44,7 @@ In English:  Dajani, Muna. 2014. “Drying Palestine: Israel’s Systemic Water
 4. Sansour, Vivian. _Palestine Heirloom Seed Library_. ([website](https://viviensansour.com/Palestine-Heirloom))
 5. Tesdell, Omar, ed. 2018. _Palestinian Wild Food Plants_ /  **النباتات البرية الغذائية الفلسطينية**, ([open-access link](https://archive.org/details/palwildfoodplants2018/page/n17/mode/2up))
 6. Areej Ashab. ([website](https://areejashhab.com/about))
+
+**___**
+
+الصورة: مزارع فلسطيني يجمع البامية المروية بماء المطر في سهل البطّوف، الجليل، ٢٠١٧. تصوير منى دجاني.

@@ -70,3 +70,7 @@ English version: Agha, Zeina. 2019. “Climate Change, the Occupation, and a Vul
 4. Sansour, Vivian. _Palestine Heirloom Seed Library_. ([website](https://viviensansour.com/Palestine-Heirloom))
 5. Tesdell, Omar, ed. 2018. _Palestinian Wild Food Plants_ /  **النباتات البرية الغذائية الفلسطينية**, ([open-access link](https://archive.org/details/palwildfoodplants2018/page/n17/mode/2up))
 6. Areej Ashab. ([website](https://areejashhab.com/about))
+
+**___**
+
+Image: Palestinian farmers harvest rain-fed (_ba'ali_) okra (_bamyieh_) in al-Battuf valley, the Galilee, 2017. Photography by and courtesy of Muna Dajani.
