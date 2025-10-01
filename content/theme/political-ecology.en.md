@@ -24,22 +24,21 @@ Ecologies, the interdependent systems that sustain inhabitation, are always poli
 
 ## Key Resources
 
-1. Tesdall, O. and Iyad Issa. 2017. “Balu‘ as Residual Space: Landform and Sociality in Palestine”. _Jerusalem Quarterly._ Issue 69. 107-119.__ ([open-access link](https://www.palestine-studies.org/en/node/213047))
-2. Manna, Joumana. 2020. “Where Nature Ends and Settlements Begin.”_&#32;e-flux journal_, 113. ([open-access link](https://www.e-flux.com/journal/113/360006/where-nature-ends-and-settlements-begin/)); pair with **اليد الخضراء** _Foragers_ (2022), film by Joumana Manna ([website](https://www.jumanamanna.com/Foragers))
+1. Tesdall, O. and Iyad Issa. 2017. “Balu‘ as Residual Space: Landform and Sociality in Palestine”. _Jerusalem Quarterly._ Issue 69. 107-119. ([open-access link](https://www.palestine-studies.org/en/node/213047))
+2. Manna, Joumana. 2020. “Where Nature Ends and Settlements Begin.” _e-flux journal_, 113. ([open-access link](https://www.e-flux.com/journal/113/360006/where-nature-ends-and-settlements-begin/)); pair with **اليد الخضراء** _Foragers_ (2022), film by Joumana Manna. ([website](https://www.jumanamanna.com/Foragers))
 3. Rubaii, Kali. 2016. “Concrete and Livability in Occupied Palestine.” _Engagement: A Blog Published by the Anthropology and Environment Society_, 20 September 2016. ([open-access link](https://aesengagement.wordpress.com/2016/09/20/concrete-and-livability-in-occupied-palestine/))
-4. Abusaada, Nadi. 2022. “Jerusalem Stone: The History and Identity of Palestinian Stereotomy.” _The Architecture Review_. ([open-access link](https://www.architectural-review.com/essays/city-portraits/jerusalem-stone-the-history-and-identity-of-palestinian-stereotomy)); pair with _White Oil_ (2013) film by Judy Price ([open-access film](https://www.cultureunplugged.com/documentary/watch-online/play/54968/white-oil))
+4. Abusaada, Nadi. 2022. “Jerusalem Stone: The History and Identity of Palestinian Stereotomy.” _The Architecture Review_. ([open-access link](https://www.architectural-review.com/essays/city-portraits/jerusalem-stone-the-history-and-identity-of-palestinian-stereotomy)); pair with _White Oil_ (2013) film by Judy Price. ([open-access film](https://www.cultureunplugged.com/documentary/watch-online/play/54968/white-oil))
 5. دجاني، منى. ٢.١٤. " تجفيف فلسطين: حرب إسرائيل المنهجية على المياه." _&#160;_**الشبكة**، ٤ سبتمبر ٢٠١٤ ([مصدر مفتوح الوصول](https://al-shabaka.org/briefs/%D8%AA%D8%AC%D9%81%D9%8A%D9%81-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D8%AD%D8%B1%D8%A8-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%86%D9%87%D8%AC%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%87/))
 
-In English:  Dajani, Muna. 2014. “Drying Palestine: Israel’s Systemic Water War.” _Al-Shabaka_. 4 September 2014. ([open-access link](https://al-shabaka.org/briefs/drying-palestine-israels-systemic-water-war/)); pair with _Weaponising Water in Palestine (_2025), documentary by Al Jazeera. ([open-access film](https://www.aljazeera.com/program/people-power/2023/7/27/weaponising-water-in-palestine))
+In English:  Dajani, Muna. 2014. “Drying Palestine: Israel’s Systemic Water War.” _Al-Shabaka_. 4 September 2014. ([open-access link](https://al-shabaka.org/briefs/drying-palestine-israels-systemic-water-war/)); pair with _Weaponising Water in Palestine_ (2025), documentary by Al Jazeera. ([open-access film](https://www.aljazeera.com/program/people-power/2023/7/27/weaponising-water-in-palestine))
 
 ## Further Resources
 
 Please contact us if you would like access to any resources.
 
-1. 
-أبو قطيش، علاء. ٢.١٩، "سياسات المشهد الطبيعي في قرية صطاف المهجّرة قبل النكبة وبعدها."**&#32;باب الواد**، ١٨ نوفمبر ٢٠١٩. ([مصدر مفتوح الوصول](https://babelwad.com/article/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B4%D9%87%D8%AF-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A-%D9%81%D9%8A-%D9%82%D8%B1%D9%8A%D8%A9-%D8%B5%D8%B7%D8%A7%D9%81-%D8%A7%D9%84%D9%85))
+1. أبو قطيش، علاء. ٢.١٩، "سياسات المشهد الطبيعي في قرية صطاف المهجّرة قبل النكبة وبعدها."**&#32;باب الواد**، ١٨ نوفمبر ٢٠١٩. ([مصدر مفتوح الوصول](https://babelwad.com/article/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B4%D9%87%D8%AF-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A-%D9%81%D9%8A-%D9%82%D8%B1%D9%8A%D8%A9-%D8%B5%D8%B7%D8%A7%D9%81-%D8%A7%D9%84%D9%85))
 2. عبد الخالق، يارا، ٢.٢٤، " أيّ حديثٍ عن العدالة المناخية في ظلّ الاحتلال؟" **الصفر،** ٢٩ فبراير ٢٠٢٤. ([مصدر مفتوح الوصول](https://alsifr.org/climate-justice-inpalestine))
-3. الآغا، زينة. ٢.١٩. _&#160;_"التغير المناخي والاحتلال وفلسطين المعرَّضة للتأثر."__** الشبكة**. ([مصدر مفتوح الوصول](https://al-shabaka.org/briefs/%D8%A7%D9%84%D8%AA%D8%BA%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AE%D9%8A-%D9%88%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%88%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D8%B6%D8%A9-%D9%84%D9%84%D8%AA%D8%A3%D8%AB%D8%B1/))
+3. الآغا، زينة. ٢.١٩. _&#160;_"التغير المناخي والاحتلال وفلسطين المعرَّضة للتأثر."__**&#32;الشبكة**. ([مصدر مفتوح الوصول](https://al-shabaka.org/briefs/%D8%A7%D9%84%D8%AA%D8%BA%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AE%D9%8A-%D9%88%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%88%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D8%B6%D8%A9-%D9%84%D9%84%D8%AA%D8%A3%D8%AB%D8%B1/))
 
 English version: Agha, Zeina. 2019. “Climate Change, the Occupation, and a Vulnerable Palestine.” Al-Shabaka, March 26, 2019. ([open-access link](https://al-shabaka.org/briefs/climate-change-the-occupation-and-a-vulnerable-palestine/))
 
