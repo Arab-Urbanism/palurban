@@ -38,7 +38,7 @@ In English:  Dajani, Muna. 2014. “Drying Palestine: Israel’s Systemic Water
 
 1. أبو قطيش، علاء. ٢.١٩، ”سياسات المشهد الطبيعي في قرية صطاف المهجّرة قبل النكبة وبعدها.“**&#32;باب الواد**، ١٨ نوفمبر ٢٠١٩. ([مصدر مفتوح الوصول](https://babelwad.com/article/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B4%D9%87%D8%AF-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A-%D9%81%D9%8A-%D9%82%D8%B1%D9%8A%D8%A9-%D8%B5%D8%B7%D8%A7%D9%81-%D8%A7%D9%84%D9%85))
 2. عبد الخالق، يارا، ٢.٢٤، ”أيّ حديثٍ عن العدالة المناخية في ظلّ الاحتلال؟“ **الصفر،** ٢٩ فبراير ٢٠٢٤. ([مصدر مفتوح الوصول](https://alsifr.org/climate-justice-inpalestine))
-3. الآغا، زينة. ٢.١٩. _ _”التغير المناخي والاحتلال وفلسطين المعرَّضة للتأثر“ **الشبكة**. ([مصدر مفتوح الوصول](https://al-shabaka.org/briefs/%D8%A7%D9%84%D8%AA%D8%BA%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AE%D9%8A-%D9%88%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%88%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D8%B6%D8%A9-%D9%84%D9%84%D8%AA%D8%A3%D8%AB%D8%B1/))
+3. الآغا، زينة. ٢.١٩. ”التغير المناخي والاحتلال وفلسطين المعرَّضة للتأثر“ **الشبكة**. ([مصدر مفتوح الوصول](https://al-shabaka.org/briefs/%D8%A7%D9%84%D8%AA%D8%BA%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AE%D9%8A-%D9%88%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%88%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D8%B6%D8%A9-%D9%84%D9%84%D8%AA%D8%A3%D8%AB%D8%B1/))
 
 English version: Agha, Zeina. 2019. “Climate Change, the Occupation, and a Vulnerable Palestine.” Al-Shabaka, March 26, 2019. ([open-access link](https://al-shabaka.org/briefs/climate-change-the-occupation-and-a-vulnerable-palestine/))
 
