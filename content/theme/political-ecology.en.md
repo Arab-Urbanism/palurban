@@ -36,9 +36,9 @@ In English:  Dajani, Muna. 2014. “Drying Palestine: Israel’s Systemic Water
 
 Please contact us if you would like access to any resources.
 
-1. أبو قطيش، علاء. ٢.١٩، "سياسات المشهد الطبيعي في قرية صطاف المهجّرة قبل النكبة وبعدها."**&#32;باب الواد**، ١٨ نوفمبر ٢٠١٩. ([مصدر مفتوح الوصول](https://babelwad.com/article/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B4%D9%87%D8%AF-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A-%D9%81%D9%8A-%D9%82%D8%B1%D9%8A%D8%A9-%D8%B5%D8%B7%D8%A7%D9%81-%D8%A7%D9%84%D9%85))
-2. عبد الخالق، يارا، ٢.٢٤، " أيّ حديثٍ عن العدالة المناخية في ظلّ الاحتلال؟" **الصفر،** ٢٩ فبراير ٢٠٢٤. ([مصدر مفتوح الوصول](https://alsifr.org/climate-justice-inpalestine))
-3. الآغا، زينة. ٢.١٩. _&#160;_"التغير المناخي والاحتلال وفلسطين المعرَّضة للتأثر."__**&#32;الشبكة**. ([مصدر مفتوح الوصول](https://al-shabaka.org/briefs/%D8%A7%D9%84%D8%AA%D8%BA%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AE%D9%8A-%D9%88%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%88%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D8%B6%D8%A9-%D9%84%D9%84%D8%AA%D8%A3%D8%AB%D8%B1/))
+1. أبو قطيش، علاء. ٢.١٩، ”سياسات المشهد الطبيعي في قرية صطاف المهجّرة قبل النكبة وبعدها.“**&#32;باب الواد**، ١٨ نوفمبر ٢٠١٩. ([مصدر مفتوح الوصول](https://babelwad.com/article/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B4%D9%87%D8%AF-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A-%D9%81%D9%8A-%D9%82%D8%B1%D9%8A%D8%A9-%D8%B5%D8%B7%D8%A7%D9%81-%D8%A7%D9%84%D9%85))
+2. عبد الخالق، يارا، ٢.٢٤، ”أيّ حديثٍ عن العدالة المناخية في ظلّ الاحتلال؟“ **الصفر،** ٢٩ فبراير ٢٠٢٤. ([مصدر مفتوح الوصول](https://alsifr.org/climate-justice-inpalestine))
+3. الآغا، زينة. ٢.١٩. _&#160;_”التغير المناخي والاحتلال وفلسطين المعرَّضة للتأثر“ **الشبكة**. ([مصدر مفتوح الوصول](https://al-shabaka.org/briefs/%D8%A7%D9%84%D8%AA%D8%BA%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AE%D9%8A-%D9%88%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%88%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D8%B6%D8%A9-%D9%84%D9%84%D8%AA%D8%A3%D8%AB%D8%B1/))
 
 English version: Agha, Zeina. 2019. “Climate Change, the Occupation, and a Vulnerable Palestine.” Al-Shabaka, March 26, 2019. ([open-access link](https://al-shabaka.org/briefs/climate-change-the-occupation-and-a-vulnerable-palestine/))
 
@@ -54,13 +54,13 @@ English version: Agha, Zeina. 2019. “Climate Change, the Occupation, and a Vul
 13. Razek, Sherena. 2024. “Fire as Elemental Intifada in Colonized Palestine.” _Journal of Palestine Studies_ 53 (3): 94–107. ([link](https://www.tandfonline.com/doi/full/10.1080/0377919X.2024.2422287#:~:text=Elemental%20intifada%2C%20as%20a%20material,Indigenous%20Palestinian%20landscape%20beneath%20it.)) 
 14. Reynolds, Kate. 2024. _Political Ecologies of Palestine. Annotated Bibliography._ ([open-access link](https://edges.sites.olt.ubc.ca/files/2024/09/Political_Ecologies_of_Palestine_Annotated_Bib_KReynolds_2024.pdf))
 15. Ross, Andrew. 2019. _Stone Men: The Palestinians Who Built Israel._ London: Verso. ([link](https://www.versobooks.com/en-gb/products/733-stone-men?srsltid=AfmBOooa7cBxtA6ZNPeeyGKaDcEMgoC94duAPsAVx4QABDKZE-dewa7Y))
-16. Salih, Ruba and Olaf Corry. 2022. “Displacing the Anthropocene: Colonisation, Extinction and the Unruliness of Nature in Palestine.” _Environment and Planning E: Nature and Space_ 5(1): 381-400.([open-access link](https://journals.sagepub.com/doi/full/10.1177/2514848620982834))
-17. Sasa, Ghada. 2023. “Oppressive Pines: Uprooting Israeli Green Colonialism and Implanting Palestinian A’wna”. _Politics_ 43(2): 219-235. ([link](https://journals.sagepub.com/doi/10.1177/02633957221122366))
+16. Salih, Ruba and Olaf Corry. 2022. “Displacing the Anthropocene: Colonisation, Extinction and the Unruliness of Nature in Palestine.” _Environment and Planning E: Nature and Space_ 5(1): 381-400. ([open-access link](https://journals.sagepub.com/doi/full/10.1177/2514848620982834))
+17. Sasa, Ghada. 2023. “Oppressive Pines: Uprooting Israeli Green Colonialism and Implanting Palestinian A’wna.” _Politics_ 43(2): 219-235. ([link](https://journals.sagepub.com/doi/10.1177/02633957221122366))
 18. Stamatopoulou-Robbins, Sophia. 2019. _Waste Siege: The Life of Infrastructure in Palestine_. Stanford: Stanford University Press. ([link](https://www.sup.org/books/middle-east-studies/waste-siege))
 19. Stamatopoulou-Robbins, Sophia. 2020. “Essential Readings: Land, Water, and the Environment in Israeli Occupied Palestinian Territories.” Middle East Studies Pedagogy Initiative (MESPI). ([open-access link](https://www.jadaliyya.com/Details/42091/Essential-Readings-Land,-Water,-and-the-Environment-in-Israels-Occupied-Palestinian-Territories-by-Sophia-Stamatopoulou-Robbins))
-20. Tesdell, Omar. 2017. “Wild Wheat to Productive Drylands: Global Scientific Practice and the Agroecological Remaking of Palestine,” _Geoforum_ 78: 43–51. (o[pen-access link](https://www.sciencedirect.com/science/article/abs/pii/S0016718516302597))
-21. Turhan, Ethemcan. 2024. “Palestinian Political Ecologies Reader” _Undisciplined Environments._ ([open-access link](https://undisciplinedenvironments.org/2024/05/23/palestinian-political-ecologies-reader/))
-22. زحالقة، جمال. 2021. "الصهيونية والعنزة السوداء." **مجلة الدراسات الفلسطينية**__ 125 (شتاء): 35-60. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/1650886))
+20. Tesdell, Omar. 2017. “Wild Wheat to Productive Drylands: Global Scientific Practice and the Agroecological Remaking of Palestine.” _Geoforum_ 78: 43–51. (o[pen-access link](https://www.sciencedirect.com/science/article/abs/pii/S0016718516302597))
+21. Turhan, Ethemcan. 2024. “Palestinian Political Ecologies Reader.” _Undisciplined Environments._ ([open-access link](https://undisciplinedenvironments.org/2024/05/23/palestinian-political-ecologies-reader/))
+22. زحالقة، جمال. 2021. ”الصهيونية والعنزة السوداء.“ **مجلة الدراسات الفلسطينية** 125 (شتاء): 35-60. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/1650886))
 
 ## Audiovisual Material
 
