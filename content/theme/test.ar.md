@@ -1,7 +1,7 @@
 ---
 title: test
 slug: test
-draft: true
+draft: false
 weight: null
 tags: []
 lastmod: 2025-10-01T10:07:00
