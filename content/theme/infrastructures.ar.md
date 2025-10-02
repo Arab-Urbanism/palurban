@@ -22,7 +22,7 @@ featured_image: /theme/Communal and Colonial Infrastructures 1.jpg
 - البنى التحتية للتنقل (أو منع التنقل): [حاجز 300](https://www.sciencedirect.com/science/article/abs/pii/S0962629817304213)، و[شبكات الطرق والمواصلات العامة في القدس](https://www.araburbanism.com/magazine/the-landscape-beyond-the-highway)
 - البنية التحتية للحدود والسجون: [الصمود في السجون الاستعمارية](https://www.researchgate.net/publication/268443353_Sumud_A_Palestinian_Philosophy_of_Confrontation_in_Colonial_Prisons)، و[توسيع المنطقة العازلة في غزة](https://forensic-architecture.org/investigation/ecocide-in-gaza)
 - البنية التحتية غير المستقرة: [الحملة الشعبية لمقاومة الجدار والاستيطان](https://stopthewall.org/about-us-3/?lang=ar)، و[الاحتجاجات ضد مزارع الرياح في مرتفعات الجولان المحتلة](https://www.escr-net.org/ar/news/2023/%d8%a7%d9%88%d9%82%d9%81%d9%88%d8%a7-%d9%82%d9%85%d8%b9-%d8%a7%d9%84%d8%af%d9%88%d9%84%d8%a9-%d9%84%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d9%8a-%d8%aa%d9%82%d8%a7%d9%88/)، و[حملة حظر الطاقة العالمي المفروض على إسرائيل](https://bdsmovement.net/news/energy-embargo-now-end-genocide)
-- التخلص من النفايات: [التخلص من السيارات "المشطوبة" الإسرائيلية في الضفة الغربية](https://arij.net/investigations/cars-palestine/)
+- التخلص من النفايات: [التخلص من السيارات ”المشطوبة“ الإسرائيلية في الضفة الغربية](https://arij.net/investigations/cars-palestine/)
 
 ## **مراجع رئيسية**
 
