@@ -6,9 +6,9 @@ weight: null
 lastmod: 2024-10-15T22:20:00
 featured_image: /theme/Communal and Colonial Infrastructures 1.jpg
 image:
-  filename: featured
-  focal_point: Smart
   preview_only: false
+  focal_point: Smart
+  filename: featured
 featured: true
 ---
 Throughout history, communities of peasants, urban dwellers, and Bedouins in Palestine have cultivated a local knowledge of infrastructure—shaped through a close relationship with the natural environment and evolving socio-economic structures. This knowledge has included collective stewardship over water, means of production, and transportation. Simultaneously, the geography of Palestine has been, for millennia, a palimpsest of mega-infrastructure projects that fulfilled the dreams of imperial and colonial expansion—from Roman aqueducts and Ottoman railways to the British Mandate’s electrification project and Israel’s National Water Carrier. These projects have profoundly influenced the lives of ordinary people and their relationship with their surroundings. Against this backdrop, the "infrastructural turn" in Middle East and Palestine studies urges a closer examination of how infrastructure shapes spatial relations of power and dissent, while simultaneously connecting the region to global structures of capitalism and colonialism. Nowhere is this more evident than in Palestine, where everyday infrastructures—and their failures—are entangled with settler-colonial rule, humanitarian interventionism, developmentalist agendas, and segregationist logics. Whether through roads and checkpoints, waste management systems, or digital connectivity, infrastructure actively assembles political life—shaping how colonized space is governed and controlled by the colonial, and inhabited and resisted by the colonized.
@@ -27,7 +27,7 @@ Throughout history, communities of peasants, urban dwellers, and Bedouins in Pal
 - Infrastructures of (im)mobility: [Checkpoint 300](https://www.sciencedirect.com/science/article/abs/pii/S0962629817304213), [Jerusalem’s roads and public transportation networks](https://www.araburbanism.com/magazine/the-landscape-beyond-the-highway). 
 - Borders and carceral infrastructure: [_Sumud_ in Colonial Prisons](https://www.researchgate.net/publication/268443353_Sumud_A_Palestinian_Philosophy_of_Confrontation_in_Colonial_Prisons) , [expanding buffer zones in Gaza](https://forensic-architecture.org/investigation/ecocide-in-gaza) 
 - Unsettled Infrastructure: [Stop the Wall](https://stopthewall.org/), [Protests against Occupied Golan Heights wind farm](https://www.escr-net.org/news/2023/stop-state-repression-in-occupied-syrian-golan/), [Campaign for a global energy embargo against Israel](https://bdsmovement.net/news/energy-embargo-now-end-genocide)
-- Waste disposal: [“totaled” cars from Israel to the West Bank](https://www.maan-ctr.org/magazine/article/4156/)
+- Waste disposal: [Channeling “totaled” Israeli cars cars to the West Bank](https://www.maan-ctr.org/magazine/article/4156/)
 
 ## Key Resources
 
