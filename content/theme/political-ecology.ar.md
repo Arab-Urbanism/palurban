@@ -70,6 +70,7 @@ English version: Agha, Zeina. 2019. “Climate Change, the Occupation, and a Vul
 4. Sansour, Vivian. _Palestine Heirloom Seed Library_. ([website](https://viviensansour.com/Palestine-Heirloom))
 5. Tesdell, Omar, ed. 2018. _Palestinian Wild Food Plants_ /  **النباتات البرية الغذائية الفلسطينية**, ([open-access link](https://archive.org/details/palwildfoodplants2018/page/n17/mode/2up))
 6. Areej Ashab. ([website](https://areejashhab.com/about))
+7. Tan, Palin, director. 2023. _Landscapes as Archives: On the Spatial Production of Palestine_. YouTube. 19 mins. ([open-access film](https://youtu.be/_qLWukSNbHE?si=PWk_g-xc7s3I37Mp))
 
 **___**
 
