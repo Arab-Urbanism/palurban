@@ -14,7 +14,7 @@ The bilingual curriculum comprises several themes (more to come) that include an
 
 PSP is a collective of geographers, architects, and urban planners committed to the study of Palestine in relation to regional and global contexts. It is an offshoot of the [Arab Urbanism](https://www.araburbanism.com) platform. PSP emerges from conversations among scholars whose lifeworlds have been variously impacted by the colonization and occupation of their land, the destruction of their cities and villages, and displacement from their countries. 
 
-We are [Dena Qaddumi](https://www.lse.ac.uk/sociology/people/Dena-Qaddumi) (coordinator), [Nadi Abusaada](https://www.nadiabusaada.com), [Majd Al-Shihabi](https://majdal.cc), [Ammar Azzouz](https://www.geog.ox.ac.uk/staff/aazzouz.html), [Samia Henni](https://www.samiahenni.com), [Lana Judeh](https://birzeit.academia.edu/LanaJudeh), Faiq Mari, [Aya Nassar](https://www.durham.ac.uk/staff/aya-m-nassar/), and Omar Jabary Salamanca.
+We are [Dena Qaddumi](https://www.lse.ac.uk/people/dena-qaddumi) (coordinator), [Nadi Abusaada](https://www.nadiabusaada.com), [Majd Al-Shihabi](https://majdal.cc), [Ammar Azzouz](https://www.geog.ox.ac.uk/staff/aazzouz.html), [Samia Henni](https://www.samiahenni.com), [Lana Judeh](https://birzeit.academia.edu/LanaJudeh), Faiq Mari, [Aya Nassar](https://www.durham.ac.uk/staff/aya-m-nassar/), and Omar Jabary Salamanca.
 
 _-------------------_
 
