@@ -54,7 +54,7 @@ _الرجاء&#160;[التواصل معنا](https://palestine.araburbanism.com/
 13. Junka, Laura. 2006. “The Politics of Gaza Beach.” _Third Text_ 20 (3–4): 417–28. ([link](https://www.tandfonline.com/doi/full/10.1080/09528820600855428))
 14. كنفاني، غسان. **ثورة ٣٦ - ٣٩ في فلسطين: خلفيات و تفاصيل و تحليل**.  د.ن ([مصدر مفتوح الوصول](https://archive.org/details/36393/page/n1/mode/2up))
 
-English version:Kanafani, Ghassan. 1980 [1972]. _The 1936-39 Revolt in Palestine_. London: Tricontinental Society. ([open-access link](https://yplus.ps/wp-content/uploads/2021/01/Kanafani-Ghassan-The-1936-39-Revolt-in-Palestine.pdf))
+English version: Kanafani, Ghassan. 1980 [1972]. _The 1936-39 Revolt in Palestine_. London: Tricontinental Society. ([open-access link](https://yplus.ps/wp-content/uploads/2021/01/Kanafani-Ghassan-The-1936-39-Revolt-in-Palestine.pdf))
 
 15. Murray, Hubert. 2021. “Landscape as Resistance in the West Bank.” _Places Journal_. ([open-access link](https://placesjournal.org/article/battir-landscape-as-palestinian-resistance-in-the-west-bank))
 16. Salah, Shadi. 2023. “On Public Spaces of Palestinian Refugee Camps: The Social Production and Construction of Almarkaz ‘Taxi Station.’” In _Living Politics in the City: Architecture as Catalyst for Public Space_, edited by Marion Hohlfedt and Carmen Popescu. Leuven: Leuven University Press. ([WorldCat link](https://search.worldcat.org/title/1342623596))
