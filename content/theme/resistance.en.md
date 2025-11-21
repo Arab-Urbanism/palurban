@@ -3,41 +3,41 @@ title: Public Space and Resistance
 slug: resistance
 draft: false
 weight: 1
-lastmod: 2024-10-20T20:07:00
+lastmod: 2025-11-21T17:16:00
 featured_image: /theme/publicspaceresistance.png
 images:
   - /theme/publicspaceresistance.png
 ---
-Mass protest in public space is often situated as the normative mode of resistance in contemporary states. This was emphasized in 2011 when mass revolutionary protest emerged in large-scale public spaces in capital cities across the Arab region. In Palestine, this overlap of public space and resistance is interrupted. Decades of colonization, oppressive planning and policing, and the perpetuation of the refugee question have troubled notions of what constitutes the “public” and its representation in spaces designed and managed by the “state”. Studying public space and resistance in Palestine sheds light on the limitations and potentials of coupling these concepts, while providing inspiration for resistance acts in varied site types. 
+Mass protest in public space is often situated as the normative mode of resistance in contemporary states. This was emphasized in 2011 when mass revolutionary protest emerged in large-scale public spaces in capital cities across the Arab region. In Palestine, this overlap of public space and resistance is interrupted. Decades of colonization, oppressive planning and policing, and the perpetuation of the refugee question have troubled notions of what constitutes the “public” and its representation in spaces designed and managed by the “state”. Studying public space and resistance in Palestine sheds light on the limitations and potentials of coupling these concepts, while providing inspiration for resistance acts in varied site types.
 
 ## Key Questions
 
 - In what ways is public space a site of resistance in contexts of colonization and domination?
-- How does colonial expansion, through the built and natural environments, multiply sites of resistance? 
-- How have Palestinians used the material and symbolic power of different kinds of public space to make political claims? 
+- How does colonial expansion, through the built and natural environments, multiply sites of resistance?
+- How have Palestinians used the material and symbolic power of different kinds of public space to make political claims?
 
 ## Key Cases
 
 - Palestine Arab Revolt (1936–1939)
 - Land Day
 - 1st and 2nd Intifadas
-- Great March of Return 
+- Great March of Return
 - Public space in Palestinian cities
 - Resistance in refugee camps
 - Resistance on apartheid infrastructure
 
 ## Key Resources
 
-1. Alaqra, Ahmad. 2018. “(Un)Making Qalandia: Politicized Spatial Practices of the Palestinian Refugee Camp.” _The Funambulist Magazine_, March 9, 2018. ([open-access link](https://thefunambulist.net/magazine/16-proletarian-fortresses/unmaking-qalandia-politicized-spatial-practices-palestinian-refugee-camp-ahmad-alaqra)) 
+1. Alaqra, Ahmad. 2018. “(Un)Making Qalandia: Politicized Spatial Practices of the Palestinian Refugee Camp.” _The Funambulist Magazine_, March 9, 2018. ([open-access link](https://thefunambulist.net/magazine/16-proletarian-fortresses/unmaking-qalandia-politicized-spatial-practices-palestinian-refugee-camp-ahmad-alaqra))
 2. Falah, Ghazi-Walid, and Colin Flint. 2004. “Geopolitical Spaces: The Dialectic of Public and Private Space in the Palestine–Israel Conflict.” _The Arab World Geographer_ 7 (1–2): 117–34. ([open-access link](https://www.researchgate.net/profile/Colin-Flint-3/publication/292692290_Geopolitical_spaces_The_dialectic_of_public_and_private_space_in_the_Palestine-Israel_conflict/links/58a2433daca272046aafe6bd/Geopolitical-spaces-The-dialectic-of-public-and-private-space-in-the-Palestine-Israel-conflict.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19))
 3. Nasasra, Mansour. 2022. “From Damascus Gate to Shaikh Jarrah: The Palestinian Sovereignty Protests in East Jerusalem.” _Protest_ 1 (2): 329–45. ([open-access link](https://brill.com/view/journals/prot/1/2/article-p329_006.xml))
 4. تماري، سليم.2012. ”أم الغريب: تخطيط المدن وتطور الحيِّز العام في فلسطين العثمانية.“ **حوليات القدس**. 13. 26-46. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/43170#:~:text=نبذة%20مختصرة%3A,المحليين،%20والإصلاح%20المحلي%20والحرب%20العظمى.))
 
 English version: Tamari, Salim. 2017. “The Sweet Aroma of Holy Sewage: Urban Planning and the New Public Space in Palestine.” In _The Great War and the Remaking of Palestine_. Berkeley, CA: University of California Press, 38-66. ([chapter description](https://academic.oup.com/california-scholarship-online/book/16086/chapter-abstract/171088224?redirectedFrom=fulltext) and [WorldCat link](https://search.worldcat.org/title/1038189463))
 
-## Further Resources 
+## Further Resources
 
-_Please&#32;[contact us](https://palestine.araburbanism.com/contact/)&#32;if you would like access to any resources._
+_Please [contact us](https://palestine.araburbanism.com/contact/) if you would like access to any resources._
 
 1. Abusalim, Jehad. 2018. “The Great March of Return: An Organizer’s Perspective.” _Journal of Palestine Studies_ 47 (4): 90–100. ([link](https://www.tandfonline.com/doi/abs/10.1525/jps.2018.47.4.90))
 2. Alım, Eray. 2020. “The Art of Resistance in the Palestinian Struggle Against Israel.” _Turkish Journal of Middle Eastern Studies_ 7 (1): 45-79. ([open-access link](https://dergipark.org.tr/tr/download/article-file/1112140))
@@ -50,7 +50,7 @@ _Please&#32;[contact us](https://palestine.araburbanism.com/contact/)&#32;if you
 9. Dibiasi, Caroline Mall. 2015. “Changing Trends in Palestinian Political Activism: The Second Intifada, the Wall Protests, and the Human Rights Turn.” _Geopolitics_ 20 (3): 669–95. ([link](https://www.tandfonline.com/doi/abs/10.1080/14650045.2015.1028028))
 10. El-Atrash, Ahmad. 2020. “Placemaking Interventions in Palestine as Demonstration Effects on the Ground.” _The Journal of Public Space_ 5 (1): 167–76. ([open-access link](https://www.journalpublicspace.org/index.php/jps/article/view/1256/769))
 11. Hasan, Dana, and Sahera Bleibleh. 2023. “The Everyday Art of Resistance: Interpreting ‘Resistancescapes’ against Urban Violence in Palestine.” _Political Geography_ 101: 102833. ([link](https://www.sciencedirect.com/science/article/abs/pii/S0962629823000112))
-12. حسن، دانة وساحرة بليبلة.، ”إعادة قراءة الفضاء العام: التعبير بالغرافيتي في مواجهة العنف المكاني في فلسطين.“، **جدليّة**، يونيو، 28، 2021. ([مصدر مفتوح الوصول](https://www.jadaliyya.com/Details/43033)) 
+12. حسن، دانة وساحرة بليبلة.، ”إعادة قراءة الفضاء العام: التعبير بالغرافيتي في مواجهة العنف المكاني في فلسطين.“، **جدليّة**، يونيو، 28، 2021. ([مصدر مفتوح الوصول](https://www.jadaliyya.com/Details/43033))
 13. Junka, Laura. 2006. “The Politics of Gaza Beach.” _Third Text_ 20 (3–4): 417–28. ([link](https://www.tandfonline.com/doi/full/10.1080/09528820600855428))
 14. كنفاني، غسان. **ثورة ٣٦ - ٣٩ في فلسطين: خلفيات و تفاصيل و تحليل**.  د.ن ([مصدر مفتوح الوصول](https://archive.org/details/36393/page/n1/mode/2up))
 

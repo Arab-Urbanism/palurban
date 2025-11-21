@@ -3,7 +3,7 @@ title: الفضاء العام والمقاومة
 slug: resistance
 draft: false
 weight: 1
-lastmod: 2024-10-20T20:06:00
+lastmod: 2025-11-21T17:16:00
 featured_image: /theme/publicspaceresistance.png
 images:
   - /theme/publicspaceresistance.png
@@ -28,7 +28,7 @@ images:
 
 ## مراجع رئيسية
 
-1. Alaqra, Ahmad. 2018. “(Un)Making Qalandia: Politicized Spatial Practices of the Palestinian Refugee Camp.” _The Funambulist Magazine_, March 9, 2018. ([open-access link](https://thefunambulist.net/magazine/16-proletarian-fortresses/unmaking-qalandia-politicized-spatial-practices-palestinian-refugee-camp-ahmad-alaqra)) 
+1. Alaqra, Ahmad. 2018. “(Un)Making Qalandia: Politicized Spatial Practices of the Palestinian Refugee Camp.” _The Funambulist Magazine_, March 9, 2018. ([open-access link](https://thefunambulist.net/magazine/16-proletarian-fortresses/unmaking-qalandia-politicized-spatial-practices-palestinian-refugee-camp-ahmad-alaqra))
 2. Falah, Ghazi-Walid, and Colin Flint. 2004. “Geopolitical Spaces: The Dialectic of Public and Private Space in the Palestine–Israel Conflict.” _The Arab World Geographer_ 7 (1–2): 117–34. ([open-access link](https://www.researchgate.net/profile/Colin-Flint-3/publication/292692290_Geopolitical_spaces_The_dialectic_of_public_and_private_space_in_the_Palestine-Israel_conflict/links/58a2433daca272046aafe6bd/Geopolitical-spaces-The-dialectic-of-public-and-private-space-in-the-Palestine-Israel-conflict.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19))
 3. Nasasra, Mansour. 2022. “From Damascus Gate to Shaikh Jarrah: The Palestinian Sovereignty Protests in East Jerusalem.” _Protest_ 1 (2): 329–45. ([open-access link](https://brill.com/view/journals/prot/1/2/article-p329_006.xml))
 4. تماري، سليم.2012. ”أم الغريب: تخطيط المدن وتطور الحيِّز العام في فلسطين العثمانية.“ **حوليات القدس**. 13. 26-46. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/43170#:~:text=نبذة%20مختصرة%3A,المحليين،%20والإصلاح%20المحلي%20والحرب%20العظمى.))
@@ -50,7 +50,7 @@ _الرجاء&#160;[التواصل معنا](https://palestine.araburbanism.com/
 9. Dibiasi, Caroline Mall. 2015. “Changing Trends in Palestinian Political Activism: The Second Intifada, the Wall Protests, and the Human Rights Turn.” _Geopolitics_ 20 (3): 669–95. ([link](https://www.tandfonline.com/doi/abs/10.1080/14650045.2015.1028028))
 10. El-Atrash, Ahmad. 2020. “Placemaking Interventions in Palestine as Demonstration Effects on the Ground.” _The Journal of Public Space_ 5 (1): 167–76. ([open-access link](https://www.journalpublicspace.org/index.php/jps/article/view/1256/769))
 11. Hasan, Dana, and Sahera Bleibleh. 2023. “The Everyday Art of Resistance: Interpreting ‘Resistancescapes’ against Urban Violence in Palestine.” _Political Geography_ 101: 102833. ([link](https://www.sciencedirect.com/science/article/abs/pii/S0962629823000112))
-12. حسن، دانة وساحرة بليبلة.، ”إعادة قراءة الفضاء العام: التعبير بالغرافيتي في مواجهة العنف المكاني في فلسطين.“، **جدليّة**، يونيو، 28، 2021. ([مصدر مفتوح الوصول](https://www.jadaliyya.com/Details/43033)) 
+12. حسن، دانة وساحرة بليبلة.، ”إعادة قراءة الفضاء العام: التعبير بالغرافيتي في مواجهة العنف المكاني في فلسطين.“، **جدليّة**، يونيو، 28، 2021. ([مصدر مفتوح الوصول](https://www.jadaliyya.com/Details/43033))
 13. Junka, Laura. 2006. “The Politics of Gaza Beach.” _Third Text_ 20 (3–4): 417–28. ([link](https://www.tandfonline.com/doi/full/10.1080/09528820600855428))
 14. كنفاني، غسان. **ثورة ٣٦ - ٣٩ في فلسطين: خلفيات و تفاصيل و تحليل**.  د.ن ([مصدر مفتوح الوصول](https://archive.org/details/36393/page/n1/mode/2up))
 
