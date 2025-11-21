@@ -4,18 +4,18 @@ slug: urban-palestine
 draft: false
 weight: null
 tags: []
-lastmod: 2024-10-20T20:06:00
+lastmod: 2025-11-21T17:17:00
 featured_image: /theme/urban-Palestine.jpg
 images:
   - /theme/urban-Palestine.jpg
 ---
-The study of the modern urban history of Palestine, like other spaces in the Global South, is often dominated by colonial experiments, figures, visions, and projects. Recently, there has been a growing interest in revisiting this history beyond the colonial frame, acknowledging the active role Palestinians took in producing their urban modernity within and beyond imperial and colonial influence. This perspective positions Palestinian collective agency within regional and global networks of urban modernity that helped shape new Palestinian urban classes and modern forms of urban governance, political life, economic pursuits, and cultural expressions. The continuous waves of urbanisation and de-urbanisation in Palestine under colonial rule have transformed and reshaped Palestinian social fabric. This has impacted class structure, urban-rural dynamics, and urban identities, citizenship, lifestyles, and spatial organisation. A key historic moment was the loss of the cosmopolitan space and urban networks of the coastal cities, juxtaposed with the rising prominence of mountain cities after the 1948 Nakba. Urban colonial policies, whether through urban annihilation, heritage dispossession, ghettoization, gentrification, or through aggressive new developments, have motivated Palestinians for over a century to engage in various forms of urban resistance. 
+The study of the modern urban history of Palestine, like other spaces in the Global South, is often dominated by colonial experiments, figures, visions, and projects. Recently, there has been a growing interest in revisiting this history beyond the colonial frame, acknowledging the active role Palestinians took in producing their urban modernity within and beyond imperial and colonial influence. This perspective positions Palestinian collective agency within regional and global networks of urban modernity that helped shape new Palestinian urban classes and modern forms of urban governance, political life, economic pursuits, and cultural expressions. The continuous waves of urbanisation and de-urbanisation in Palestine under colonial rule have transformed and reshaped Palestinian social fabric. This has impacted class structure, urban-rural dynamics, and urban identities, citizenship, lifestyles, and spatial organisation. A key historic moment was the loss of the cosmopolitan space and urban networks of the coastal cities, juxtaposed with the rising prominence of mountain cities after the 1948 Nakba. Urban colonial policies, whether through urban annihilation, heritage dispossession, ghettoization, gentrification, or through aggressive new developments, have motivated Palestinians for over a century to engage in various forms of urban resistance.
 
 ## Key Questions
 
 - What are the distinct roles of the city and the village in formulating Palestinian identity prior to the 1948 Nakba and how did this inform the national project?
 - How did the historical relationship between the Palestinian city and other forms of human settlement (the village, the bedouin settlement, the refugee camp, etc.) evolve in the modern era, in the context of an ongoing colonialism?
-- How have Palestinian cities been connected to and influenced by regional and global networks of social, cultural and economic exchange?  
+- How have Palestinian cities been connected to and influenced by regional and global networks of social, cultural and economic exchange?
 - Why is urbanity a central concern of the colonial encounter and how does this evolve over time?
 - How has the neoliberal doctrine reshaped Palestinian life and its urban environments in recent decades?
 - How is Palestinian resistance—as in political activism, civil disobedience and insurgency—reflected in and through the city?
@@ -30,7 +30,7 @@ The study of the modern urban history of Palestine, like other spaces in the Glo
 - Bedouin urbanism and settlement: the environs and the city of Bir al-Sabi’
 - Cities Exhibitions Series (six editions: [Ramallah](https://universes.art/en/nafas/articles/2010/ramallah), Jerusalem, [Nablus](http://museum.birzeit.edu/exhibitions/third-annual-cities-exhibition-between-ebal-and-gerzim), [Jericho](http://museum.birzeit.edu/exhibitions/4th-edition-cities-exhibition-jericho-%E2%80%93-beyond-celestial-and-terrestrial), [Gaza](http://museum.birzeit.edu/exhibitions/5th-edition-cities-exhibition%E2%80%98gaza-%E2%80%93-reconstruction%E2%80%99), and [al-Lydd](http://museum.birzeit.edu/exhibitions/5th-edition-cities-exhibition%E2%80%98gaza-%E2%80%93-reconstruction%E2%80%99).
 - “Palestinian Cities” book series from the Institute for Palestine Studies [in Arabic] ([link](https://www.palestine-studies.org/en/books/explorer1?f%5B0%5D=field_book_type%3A17061))
-- Urban lives: Karimeh Abbud, Hind al-Husseini, Fatima Budeiri, Muhammad 'Izzat Darwaza, Emile Habibi, Wasif Jawhariyyeh, Najib and Sadhij Nassar, Khalil Raad, Khalil Sakakini, Fadwa Tuqan, Tawfiq Zayyad, and Akram Zu'aytir. 
+- Urban lives: Karimeh Abbud, Hind al-Husseini, Fatima Budeiri, Muhammad 'Izzat Darwaza, Emile Habibi, Wasif Jawhariyyeh, Najib and Sadhij Nassar, Khalil Raad, Khalil Sakakini, Fadwa Tuqan, Tawfiq Zayyad, and Akram Zu'aytir.
 
 ## Key Resources
 
@@ -50,7 +50,7 @@ English version: Tamari, Salim. 2008. _Mountain against the Sea:_ _Essays on Pal
 
 ## Further Resources
 
-_Please&#32;[contact us](https://palestine.araburbanism.com/contact/)&#32;if you would like access to any resources._
+_Please [contact us](https://palestine.araburbanism.com/contact/) if you would like access to any resources._
 
 1. Abusaada, Nadi. 2021. “Building Urban Palestine: Jaffa and Nablus 1870-1930.” Thesis. University of Cambridge. ([open-access link)](https://www.repository.cam.ac.uk/items/d344acc0-066b-4205-9c53-2ecbc64b41bb)
 2. Abusaada, Nadi. 2022. “Essential Readings on Urban Palestine.” _Jadaliyya_, (January 16). ([open-access link](https://www.jadaliyya.com/Details/44213))
@@ -67,7 +67,7 @@ _Please&#32;[contact us](https://palestine.araburbanism.com/contact/)&#32;if you
 10. IPS Ramllah. 2022.“Wadi al-Joz and Her Sisters: Jerusalem Communities.” _Jerusalem Quarterly_, (April 04). ([open-access link](https://www.palestine-studies.org/en/node/1652704))
 11. Mansour, Johnny. 2006. “The Hijaz-Palestine Railway and the Development of Haifa.” _Jerusalem Quarterly_ 28 (Autumn):5-21. ([open-access link](https://www.palestine-studies.org/en/node/77910))
 12. مصطفى، مهند، وعرين هوّاري (محرران). 2016. عدد خاص، ”المدينة الفلسطينيّة، تحوّلاتها الثقافيّة، السياسيّة، الاجتماعيّة والعمرانيّة.“ **مجلة جدل من مدى الكرمل**، 27-28 (يوليو). ([مصدر مفتوح الوصول](https://mada-research.org/storage/uploads/2016/08/JDL2728-Full.pdf))
-13. Nasasra, Mansour, and Bruce E. Stanley. 2023. “Assembling Urban Worlds: Always-becoming Urban in and Through Bir al-Saba’.” _Urban History_ 51, no. 2 (February): 1–23. ([open-access link](https://www.researchgate.net/publication/368269911_Assembling_urban_worlds_always-becoming_urban_in_and_through_Bir_al-Saba'))  
+13. Nasasra, Mansour, and Bruce E. Stanley. 2023. “Assembling Urban Worlds: Always-becoming Urban in and Through Bir al-Saba’.” _Urban History_ 51, no. 2 (February): 1–23. ([open-access link](https://www.researchgate.net/publication/368269911_Assembling_urban_worlds_always-becoming_urban_in_and_through_Bir_al-Saba'))
 14. Rabie, Kareem. 2021. _Palestine Is Throwing a Party and the Whole World Is Invited: Capital and State Building in the West Bank._ Durham, NC: Duke University Press. ([link](https://www.dukeupress.edu/Assets/PubMaterials/978-1-4780-1409-6_601.pdf))
 15. Rotbard, Sharon. 2015. _White City, Black City: Architecture and War in Tel Aviv and Jaffa._ London: Pluto Press. ([link](https://www.plutobooks.com/9781783713141/white-city-black-city/))
 16. Sa‘di-Ibraheem, Yara. 2023. “Jaffa amid Theoretical Transformations: Demolition as a Research Prism.” _Jerusalem Quarterly_ 93 (Spring): 88-99. ([open-access link](https://www.palestine-studies.org/en/node/1653833))

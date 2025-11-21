@@ -4,7 +4,7 @@ slug: urban-palestine
 draft: false
 weight: null
 tags: []
-lastmod: 2024-10-20T20:06:00
+lastmod: 2025-11-21T17:17:00
 featured_image: /theme/urban-Palestine.jpg
 images:
   - /theme/urban-Palestine.jpg
@@ -67,7 +67,7 @@ _الرجاء&#160;[التواصل معنا](https://palestine.araburbanism.com/
 10. IPS Ramllah. 2022.“Wadi al-Joz and Her Sisters: Jerusalem Communities.” _Jerusalem Quarterly_, (April 04). ([open-access link](https://www.palestine-studies.org/en/node/1652704))
 11. Mansour, Johnny. 2006. “The Hijaz-Palestine Railway and the Development of Haifa.” _Jerusalem Quarterly_ 28 (Autumn):5-21. ([open-access link](https://www.palestine-studies.org/en/node/77910))
 12. مصطفى، مهند، وعرين هوّاري (محرران). 2016. عدد خاص، ”المدينة الفلسطينيّة، تحوّلاتها الثقافيّة، السياسيّة، الاجتماعيّة والعمرانيّة.“ **مجلة جدل من مدى الكرمل**، 27-28 (يوليو). ([مصدر مفتوح الوصول](https://mada-research.org/storage/uploads/2016/08/JDL2728-Full.pdf))
-13. Nasasra, Mansour, and Bruce E. Stanley. 2023. “Assembling Urban Worlds: Always-becoming Urban in and Through Bir al-Saba’.” _Urban History_ 51, no. 2 (February): 1–23. ([open-access link](https://www.researchgate.net/publication/368269911_Assembling_urban_worlds_always-becoming_urban_in_and_through_Bir_al-Saba'))  
+13. Nasasra, Mansour, and Bruce E. Stanley. 2023. “Assembling Urban Worlds: Always-becoming Urban in and Through Bir al-Saba’.” _Urban History_ 51, no. 2 (February): 1–23. ([open-access link](https://www.researchgate.net/publication/368269911_Assembling_urban_worlds_always-becoming_urban_in_and_through_Bir_al-Saba'))
 14. Rabie, Kareem. 2021. _Palestine Is Throwing a Party and the Whole World Is Invited: Capital and State Building in the West Bank._ Durham, NC: Duke University Press. ([link](https://www.dukeupress.edu/Assets/PubMaterials/978-1-4780-1409-6_601.pdf))
 15. Rotbard, Sharon. 2015. _White City, Black City: Architecture and War in Tel Aviv and Jaffa._ London: Pluto Press. ([link](https://www.plutobooks.com/9781783713141/white-city-black-city/))
 16. Sa‘di-Ibraheem, Yara. 2023. “Jaffa amid Theoretical Transformations: Demolition as a Research Prism.” _Jerusalem Quarterly_ 93 (Spring): 88-99. ([open-access link](https://www.palestine-studies.org/en/node/1653833))
