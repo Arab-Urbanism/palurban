@@ -4,7 +4,7 @@ slug: political-ecology
 draft: false
 weight: null
 tags: []
-lastmod: 2025-10-01T09:27:00
+lastmod: 2025-11-21T17:16:00
 featured_image: /theme/Political Ecology Muna Dajani.JPG
 images: []
 ---
@@ -12,7 +12,7 @@ Ecologies, the interdependent systems that sustain inhabitation, are always poli
 
 ## Key Questions
 
--  How do logics of nature conservation rely on erasing Palestinian ecological interdependencies? And how do they continue to be resisted? 
+-  How do logics of nature conservation rely on erasing Palestinian ecological interdependencies? And how do they continue to be resisted?
 - How does attending to plants, stone and water articulate the political and existential terrains in Palestine?
 - How does the settler colonial discourse on “making the desert bloom” connect to environmental orientalism?
 
@@ -36,7 +36,7 @@ In English:  Dajani, Muna. 2014. “Drying Palestine: Israel’s Systemic Water
 
 Please contact us if you would like access to any resources.
 
-1. أبو قطيش، علاء. ٢.١٩، ”سياسات المشهد الطبيعي في قرية صطاف المهجّرة قبل النكبة وبعدها.“**&#32;باب الواد**، ١٨ نوفمبر ٢٠١٩. ([مصدر مفتوح الوصول](https://babelwad.com/article/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B4%D9%87%D8%AF-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A-%D9%81%D9%8A-%D9%82%D8%B1%D9%8A%D8%A9-%D8%B5%D8%B7%D8%A7%D9%81-%D8%A7%D9%84%D9%85))
+1. أبو قطيش، علاء. ٢.١٩، ”سياسات المشهد الطبيعي في قرية صطاف المهجّرة قبل النكبة وبعدها.“** باب الواد**، ١٨ نوفمبر ٢٠١٩. ([مصدر مفتوح الوصول](https://babelwad.com/article/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B4%D9%87%D8%AF-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A-%D9%81%D9%8A-%D9%82%D8%B1%D9%8A%D8%A9-%D8%B5%D8%B7%D8%A7%D9%81-%D8%A7%D9%84%D9%85))
 2. عبد الخالق، يارا، ٢.٢٤، ”أيّ حديثٍ عن العدالة المناخية في ظلّ الاحتلال؟“ **الصفر،** ٢٩ فبراير ٢٠٢٤. ([مصدر مفتوح الوصول](https://alsifr.org/climate-justice-inpalestine))
 3. الآغا، زينة. ٢.١٩. ”التغير المناخي والاحتلال وفلسطين المعرَّضة للتأثر“ **الشبكة**. ([مصدر مفتوح الوصول](https://al-shabaka.org/briefs/%D8%A7%D9%84%D8%AA%D8%BA%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AE%D9%8A-%D9%88%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%88%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D8%B6%D8%A9-%D9%84%D9%84%D8%AA%D8%A3%D8%AB%D8%B1/))
 
@@ -46,12 +46,12 @@ English version: Agha, Zeina. 2019. “Climate Change, the Occupation, and a Vul
 5. Alqaisiya, Walaa. 2023. “The Decolonial Wor(l)ds of Indigenous Women.” _Social & Cultural Geography_ 25 (7): 1025–43. ([open-access link](https://www.tandfonline.com/doi/full/10.1080/14649365.2023.2268583?scroll=top&needAccess=true#d1e168))
 6. Azoulay, Ariella Aïsha. 2022. “Imperial Desert Effect: Palestine Is There, Where It Had Always Been.” In _Deserts are not Empty_, edited by Samia Henni, 109-42. New York: Columbia University Press.
 7. Boast, Hannah, 2012. “‘Planted Over The Past’: Ideology and Ecology in Israel's National Eco-Imaginary”. _Green Letters_ 16(1): 46-58. ([link](https://www.tandfonline.com/doi/abs/10.1080/14688417.2012.10589099))
-8. Braverman, Irus. 2023. _Settling Nature: The Conservation Regime in Palestine-Israel_. Minneapolis: University of Minnesota Press. ([open-access link](https://www.jstor.org/stable/10.5749/j.ctv2z9g0pw)) 
+8. Braverman, Irus. 2023. _Settling Nature: The Conservation Regime in Palestine-Israel_. Minneapolis: University of Minnesota Press. ([open-access link](https://www.jstor.org/stable/10.5749/j.ctv2z9g0pw))
 9. Dajani, Muna. 2020. “Thirsty Water Carriers: The Production of Uneven Waterscapes in Sahl al-Battuf.” _Contemporary Levant_ 5(2): 97-112. ([link](https://www.tandfonline.com/doi/full/10.1080/20581831.2020.1820147))
 10. Davis, Diana K., and Edmund Burke. 2011. _Environmental Imaginaries of the Middle East and North Africa_. Athens: Ohio University Press. ([link](https://www.jstor.org/stable/j.ctt1j7x58w))
 11. Harb, Samir. 2022. “Exhausted Circulation: The Limits to Cement Transportation and Urban Metabolism in the West Bank.” _Journal of Palestine Studies_ 51 (4): 45–67. ([open-access link](https://www.tandfonline.com/doi/full/10.1080/0377919X.2022.2133969#abstract))
 12. Hassouna, Silvia. 2023. “Cultivating Biodiverse Futures at the (postcolonial) Botanical Garden”. _Transactions of the Institute of British Geographers_ 49 (2): 1-16. ([open-access link](https://rgs-ibg.onlinelibrary.wiley.com/doi/full/10.1111/tran.12639))
-13. Razek, Sherena. 2024. “Fire as Elemental Intifada in Colonized Palestine.” _Journal of Palestine Studies_ 53 (3): 94–107. ([link](https://www.tandfonline.com/doi/full/10.1080/0377919X.2024.2422287#:~:text=Elemental%20intifada%2C%20as%20a%20material,Indigenous%20Palestinian%20landscape%20beneath%20it.)) 
+13. Razek, Sherena. 2024. “Fire as Elemental Intifada in Colonized Palestine.” _Journal of Palestine Studies_ 53 (3): 94–107. ([link](https://www.tandfonline.com/doi/full/10.1080/0377919X.2024.2422287#:~:text=Elemental%20intifada%2C%20as%20a%20material,Indigenous%20Palestinian%20landscape%20beneath%20it.))
 14. Reynolds, Kate. 2024. _Political Ecologies of Palestine. Annotated Bibliography._ ([open-access link](https://edges.sites.olt.ubc.ca/files/2024/09/Political_Ecologies_of_Palestine_Annotated_Bib_KReynolds_2024.pdf))
 15. Ross, Andrew. 2019. _Stone Men: The Palestinians Who Built Israel._ London: Verso. ([link](https://www.versobooks.com/en-gb/products/733-stone-men?srsltid=AfmBOooa7cBxtA6ZNPeeyGKaDcEMgoC94duAPsAVx4QABDKZE-dewa7Y))
 16. Salih, Ruba and Olaf Corry. 2022. “Displacing the Anthropocene: Colonisation, Extinction and the Unruliness of Nature in Palestine.” _Environment and Planning E: Nature and Space_ 5(1): 381-400. ([open-access link](https://journals.sagepub.com/doi/full/10.1177/2514848620982834))
