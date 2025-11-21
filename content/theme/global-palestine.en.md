@@ -4,7 +4,7 @@ slug: globalpalestine
 draft: false
 weight: null
 tags: []
-lastmod: 2025-08-26T17:28:00
+lastmod: 2025-11-21T17:15:00
 featured_image: /theme/Global Palestine.jpeg
 images: []
 ---
