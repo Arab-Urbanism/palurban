@@ -3,7 +3,7 @@ title: التدمير وإعادة الإعمار
 slug: destruction-reconstruction
 draft: false
 weight: null
-lastmod: 2024-10-20T18:47:00
+lastmod: 2025-11-21T17:16:00
 featured_image: /theme/Destruction and reconstruction-1.jpg
 images:
   - /theme/Destruction and reconstruction-1.jpg
@@ -39,7 +39,7 @@ English version: Khalidi, Walid, ed. 1992. _All That Remains: The Palestinian Vi
 4. أبو سعادة، ندي. 2024. ”إعادة الإعمار ومشروعنا التحرري.“ **مؤسسة الدراسات الفلسطينية**. أبريل 17، 2024. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/1655449))
 5. بشارة، خلدون. 2024. ” تربية الأمل: نفعل في غزة ما يفعله العاطلون عن العمل.“ **مجلة الدراسات الفلسطينية**، 137 (شتاء):46 - 51. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/1654963))
 
-## 
+##
 
 ## مراجع أخرى
 
@@ -52,7 +52,7 @@ _الرجاء&#160;[التواصل معنا](https://palestine.araburbanism.com/
 5. Forensic Architecture. 2024. Destruction of Medical Infrastructure in Gaza. ([open-access link](https://forensic-architecture.org/investigation/destruction-of-medical-infrastructure-in-gaza))
 6. Hanafi, Sari. 2009. “Spacio-cide: Colonial Politics, Invisibility and Rezoning in Palestinian Territory.” _Contemporary Arab Affairs_ 2 (1): 106–21. ([open-access link](https://www.academia.edu/5966113/Spacio_cide_colonial_politics_invisibility_and_rezoning_in_Palestinian_territory))
 7. El Khoudary, Yasmeen. 2019. “Gaza's Historical Cycles of Prosperity and Destruction.” In _Routledge Handbook on Middle East Cities_, 1st edition, edited by Haim Yacobi and Mansour Nasasra. New York: Routledge. ([chapter description](https://www.taylorfrancis.com/chapters/edit/10.4324/9781315625164-7/gaza-historical-cycles-prosperity-destruction-yasmeen-el-khoudary) and [WorldCat link](https://search.worldcat.org/title/1089841501))
-8. Jabareen, Yosef. 2024. “The Architecture of Dispossession: On the Dark Side of Architecture and Art in Transforming Original Spaces and Displacing People.” _Environment and Planning C: Politics and Space_. ([open-access link](https://doi.org/10.1177/23996544241259312)) 
+8. Jabareen, Yosef. 2024. “The Architecture of Dispossession: On the Dark Side of Architecture and Art in Transforming Original Spaces and Displacing People.” _Environment and Planning C: Politics and Space_. ([open-access link](https://doi.org/10.1177/23996544241259312))
 9. Milton, Sansom, Ghassan Elkahlout, and Saba Attallah. 2024. “Shrinking reconstruction space in the Gaza Strip: rebuilding after the 2021 and 2022 wars.” _Conflict, Security & Development_, 24(1): 49-78. ([open-access link](https://www.tandfonline.com/doi/full/10.1080/14678802.2024.2314034))
 10. Sorkin, Michael, and Deen Sharp, eds. 2021. _Open Gaza: Architectures of Hope. Cairo_. New York: Cairo University Press. ([WorldCat link](https://search.worldcat.org/title/1162796841))
 11. Munayer, Luzan. 2024. “Cultural restoration: Kafr ‘Aqab in the West Bank, Palestine by Riwaq.” _The Architectural Review_, February 7, 2024. ([open-access link](https://www.architectural-review.com/buildings/cultural-restoration-kafr-aqab-in-the-west-bank-palestine-by-riwaq#:~:text=Founded%20in%201991%2C%20Riwaq%20is,development%20of%20Palestine's%20architectural%20heritage))
