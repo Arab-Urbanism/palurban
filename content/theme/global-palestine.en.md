@@ -15,7 +15,7 @@ The postcolonial global condition is often characterised by migration patterns l
 - What are the main features of the _shatat’s_ spatial politics and practices?
 - How do Palestinians in exile engage in spatial practices that connect them to Palestine and to each other? How are these practices a product of the general diasporic condition and how are they specific to the _shatat_ in various locations?
 - In what ways does the site of exile influence the relation to Palestine and possibilities for return?
-- How have the _shatat_ developed social and spatial relations with other global solidarity movements?
+- How have the _shatat_ developed social and spatial relations with other global solidarity movements? 
 
 ## Key Cases
 
