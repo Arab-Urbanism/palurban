@@ -12,10 +12,15 @@ x
 
 ## **مواد سمعية وبصرية**
 
-1. Nayfeh,  Ameen, director. 2020. _200 meters_. Odeh Films, 96 min.  ([link](https://www.youtube.com/watch?v=LhhF3Hr9bEw)).
-2. Andoni, Raed, director. 2017. _Ghost Hunting_. Palmyre Badinier, 94 min. ([link](https://www.google.com/search?q=2017.+Ghost+Hunting.+&sca_esv=ab25832c05e403ac&udm=7&biw=1360&bih=786&ei=NGZcaMWILYGCxc8P87qM0AE&ved=0ahUKEwjF8qi0vo2OAxUBQfEDHXMdAxoQ4dUDCBA&uact=5&oq=2017.+Ghost+Hunting.+&gs_lp=EhZnd3Mtd2l6LW1vZGVsZXNzLXZpZGVvIhUyMDE3LiBHaG9zdCBIdW50aW5nLiAyBhAAGBYYHjIFEAAY7wUyBRAAGO8FSKQrUJcOWNkocAF4AJABAJgBxAGgAfMEqgEDMC40uAEDyAEA-AEBmAIBoAKHAZgDAIgGAZIHAzAuMaAHywOyBwMwLjG4B4cBwgcDMy0xyAcI&sclient=gws-wiz-modeless-video#fpstate=ive&vld=cid:0cfd5085,vid:G1ISOJKX3uw,st:0)).
-3. Jarrar, Khaled, director. 2012._ Infiltrators_. Sami Said and Mohanad Yaqubi, 94 min. ([link](https://www.youtube.com/watch?v=iEIjDfY5KyU))
-4. شحادة، لمى. 2019. ”محاضرة حين يعطش الغرباء: الإدارة الصهيونية للمياه وتخريب طبيعة فلسطين.“ يناير، 2019. رابط يوتيوب :52:25. ([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=ksIaDtyFt2w))
+1. El-Funoun Palestinian Popular Dance Troupe. ([website](https://www.el-funoun.org/pages/previous-productions)) 
+2. Forensic Architecture. 2021. Living Archeology in Gaza. ([film](https://vimeo.com/611220125?cjdata=MXxZfDB8WXww&cjevent=fe4984dc408111f083c6006d0a18b8fa&clickid=fe4984dc408111f083c6006d0a18b8fa&utm_campaign=2470763&utm_channel=affiliate&utm_source=affiliate) and [investigation](https://forensic-architecture.org/investigation/living-archaeology-in-gaza/)) 
+3. جلال، نادر. 2025. "إطلاق كتاب ’فلسطين في النهضة الموسيقية العربية: النصف الأول من القرن العشرين.‘" يونيو، 2025. رابط يوتيوب 1:22:15. ([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=gatbx4HaHbg))
+4. Mansour, Carol. Director. 2017. _Stitching Palestine_. 78 mins. (film)
+5. Palestinian Heritage Center in Bethlehem. ([website](http://www.palestinianheritagecenter.com/)) 
+6. سليمان, فرج. 2020. "شارع يافا." ([أغنية](https://www.youtube.com/watch?v=jXohY3fgC7k))
+7. Srouji, Dima. director. 2020. _Sebastia_. 25 mins. ([film](https://nostalgiainterrupted.com/dima-srouji.html)) 
+8. Tarwida Podcast ([YouTube page](https://www.youtube.com/@TarwidaPodcast))
+9. Tirazain | طرازين. ([archive](https://tirazain.com/)) 
 
 **___**
 
