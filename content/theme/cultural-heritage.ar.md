@@ -5,11 +5,10 @@ draft: true
 weight: null
 tags: []
 lastmod: 2026-01-05T18:38:00
-featured_image: ''
+featured_image: /theme/The Rashad Shawa Cultural Center, destroyed by Israeli bombing in November 2023_By Jaber Badwen.jpg
 images: []
 ---
 x
-
 
 ## **مواد سمعية وبصرية**
 
@@ -20,4 +19,4 @@ x
 
 **___**
 
-الصورة: بطاقة بريدية تحمل صورة فوتوغرافية بعنوان "ساقية دير البلح" لمجموعة من العمال والجنود يحيطون بمضخة المياه بالقرب من غزة. [مجموعة وداد قعوار، أرشيف المتحف الفلسطيني. ](https://palarchive.org/index.php/Detail/objects/299772/lang/ar_PS)
+الصورة: مركز رشاد الشوا الثقافي, تدمر في تفجير إسرائيلي في تشرين الثاني ٢٠٢٣.[ تصوير جابر جهاد بدوين](https://commons.wikimedia.org/wiki/File:Images_of_war_23-25_from_Gaza,_by_Jaber_Badwen,_IMG_5995.jpg).

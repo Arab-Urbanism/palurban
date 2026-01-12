@@ -5,7 +5,7 @@ draft: true
 weight: null
 tags: []
 lastmod: 2026-01-05T18:38:00
-featured_image: ''
+featured_image: /theme/The Rashad Shawa Cultural Center, destroyed by Israeli bombing in November 2023_By Jaber Badwen.jpg
 images: []
 ---
 From Aleppo to Beirut, Jerusalem, and Alexandria, cultural heritage sites in Bilad al-Sham and the Eastern Mediterranean span thousands of years. Within this context, notions of value, authenticity, and representation are contested and redefined. Yet, this complexity is perhaps most acute in Palestine, given its centrality to early explorations by European consular, scientific, and religious missions. Resulting from these interventions, Palestine's cultural heritage has long been dominated by Orientalist, colonial, and theological narratives. In contrast, Palestinians have cultivated and sustained a heritage rooted in inclusivity—embracing diverse civilizations, historical layers, social classes, and religious groups—in deliberate contrast to the ethno-national exclusivity imposed by the settler colonial project. Cycles of expulsion, destruction, theft and spaciocide have damaged much of the tangible aspects of Palestinian life—such as civic buildings, homes, furniture, personal belongings, photographs, and documents—and, in parallel, have eroded centuries of intangible heritage, traditions, and social life. This has sparked a fervent awakening to preserve all facets of tangible and intangible heritage both within Palestine and in the diaspora (shatat). The preservation and documentation of traditional knowledge; solidarity and alternative cultural tourism; as well as the revitalization of  historic towns have become tools of resistance, helping to remember the past, combat its erasure, and shape an emancipatory future. Architects, local communities, and heritage specialists actively work to preserve cultural heritage, engaging in critical questions about Palestine’s heritage sites—from the cultural landscape of olive groves and vineyards in Battir, the old city of Acre and the Saint Hilarion Monastery/Tell Umm Amer, to the modern architecture of refugee camps.
@@ -67,11 +67,6 @@ English version: Khalidi, Walid, ed. 1992. _All That Remains: The Palestinian Vi
 22. Toukan, Hanan. “The Palestinian Museum.” _Radical Philosophy_ 203: 10-22. ([open-access link](https://www.radicalphilosophy.com/article/the-palestinian-museum))
 23. يحيى، عادل. 2009. "آثار فلسطين بين النهب والإنقاذ: كيف يستبيح جدار الفصل والتنقيب غير المشروع وتجارة الآثار التراث الفلسطيني." **حوليات القدس** 7: 16 - 39. ([مصدر مفتوح الوصول](https://palquest.palestine-studies.org/sites/default/files/athr_flsTyn_byn_lnhb_wlnqdh-_dl_yHy.pdf))
 
-
-
-
-
-
 **___**
 
-Image: postcard with a photograph titled "Sakieh at Der el-Belah" of a group of workers and soldiers surrounding the water-raiser near Gaza. [The Widad Kawar Collection. the Palestinian Museum Digital Archive.](https://palarchive.org/index.php/Detail/objects/299772/lang/en_US)
+Image: The Rashad Shawa Cultural Center, destroyed by Israeli bombing in November 2023. [Photograph by Jaber Jehad Badwen](https://commons.wikimedia.org/wiki/File:Images_of_war_23-25_from_Gaza,_by_Jaber_Badwen,_IMG_5995.jpg).
