@@ -31,10 +31,10 @@ images: []
 ## **مراجع رئيسية**
 
 1. Bshara, Khaldun. 2013. “Heritage in Palestine: Colonial Legacy in Postcolonial Discourse.” _Archaeologies_ 9 (2). ([open-access link](https://www.academia.edu/13911177/Heritage_in_Palestine_Colonial_Legacy_in_Postcolonial_Discourse))
-2. Guillaume, Alexia. 2022. “Cultural Apartheid: Israel’s Erasure of Palestinian Heritage in Gaza”. _Al-Haq._  ([open-access link](https://content.forensic-architecture.org/wp-content/uploads/2022/02/Cultural-Apartheid-Interactive-1-Page-View.pdf))
+2. Guillaume, Alexia. 2022. “Cultural Apartheid: Israel’s Erasure of Palestinian Heritage in Gaza.” _Al-Haq._  ([open-access link](https://content.forensic-architecture.org/wp-content/uploads/2022/02/Cultural-Apartheid-Interactive-1-Page-View.pdf))
 3. Munawar, Nour Allah, and Issam Nassar. 2025.  “Decolonizing the Sacred: The Politics of Heritage in Jerusalem.” _Heritage Memory and Conflict Journal_ 5 (1): 1-22. ([open-access link](https://www.aup-online.com/content/journals/10.5117/HMC2025.1.001.MUNA))
-4. Saad, Dima. 2019. “Materializing Palestinian Memory: Objects of Home and the Everyday Eternities of Exile”. _Jerusalem Quarterly_ 80: 57-81. ([open-access link](https://www.palestine-studies.org/en/node/1649530))
-5. طه، حمدان. 2025. "الحفاظ على التراث الثقافي في سياق استعماري." **مجلة الدراسات الفلسطينية** 142: 63-73. ([مصدر مفتوح الوصول)](https://www.palestine-studies.org/ar/node/1657084)
+4. Saad, Dima. 2019. “Materializing Palestinian Memory: Objects of Home and the Everyday Eternities of Exile.” _Jerusalem Quarterly_ 80: 57-81. ([open-access link](https://www.palestine-studies.org/en/node/1649530))
+5. طه، حمدان. 2025. ”الحفاظ على التراث الثقافي في سياق استعماري.“ **مجلة الدراسات الفلسطينية** 142: 63-73. ([مصدر مفتوح الوصول)](https://www.palestine-studies.org/ar/node/1657084)
 
 ## **مراجع أخرى**
 
