@@ -6,9 +6,9 @@ weight: null
 lastmod: 2025-11-21T17:15:00
 featured_image: /theme/Communal and Colonial Infrastructures 1.jpg
 image:
-  preview_only: false
-  focal_point: Smart
   filename: featured
+  focal_point: Smart
+  preview_only: false
 featured: true
 ---
 Throughout history, communities of peasants, urban dwellers, and Bedouins in Palestine have cultivated a local knowledge of infrastructure—shaped through a close relationship with the natural environment and evolving socio-economic structures. This knowledge has included collective stewardship over water, means of production, and transportation. Simultaneously, the geography of Palestine has been, for millennia, a palimpsest of mega-infrastructure projects that fulfilled the dreams of imperial and colonial expansion—from Roman aqueducts and Ottoman railways to the British Mandate’s electrification project and Israel’s National Water Carrier. These projects have profoundly influenced the lives of ordinary people and their relationship with their surroundings. Against this backdrop, the "infrastructural turn" in Middle East and Palestine studies urges a closer examination of how infrastructure shapes spatial relations of power and dissent, while simultaneously connecting the region to global structures of capitalism and colonialism. Nowhere is this more evident than in Palestine, where everyday infrastructures—and their failures—are entangled with settler-colonial rule, humanitarian interventionism, developmentalist agendas, and segregationist logics. Whether through roads and checkpoints, waste management systems, or digital connectivity, infrastructure actively assembles political life—shaping how colonized space is governed and controlled by the colonial, and inhabited and resisted by the colonized.
@@ -75,4 +75,4 @@ Throughout history, communities of peasants, urban dwellers, and Bedouins in Pal
 
 **___**
 
-Image: postcard with a photograph titled "Sakieh at Der el-Belah" of a group of workers and soldiers surrounding the water-raiser near Gaza. [The Widad Kawar Collection. the Palestinian Museum Digital Archive.](https://palarchive.org/index.php/Detail/objects/299772/lang/en_US)
+Image: Postcard with a photograph titled "Sakieh at Der el-Belah" of a group of workers and soldiers surrounding the water-raiser near Gaza. [The Widad Kawar Collection. the Palestinian Museum Digital Archive.](https://palarchive.org/index.php/Detail/objects/299772/lang/en_US)
