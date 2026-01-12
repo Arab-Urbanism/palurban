@@ -20,7 +20,7 @@ Ecologies, the interdependent systems that sustain inhabitation, are always poli
 
 - Plants (seeds, food, landscape, trees)
 - Stone (building material, such as stone and cement)
-- Water (infrastructure, waste, weaponising water )
+- Water (infrastructure, waste, weaponising water)
 
 ## Key Resources
 
