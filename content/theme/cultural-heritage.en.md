@@ -1,7 +1,7 @@
 ---
 title: Cultural Heritage
 slug: cultural-heritage
-draft: true
+draft: false
 weight: null
 tags: []
 lastmod: 2026-01-05T18:38:00
@@ -54,8 +54,8 @@ English version: Khalidi, Walid, ed. 1992. _All That Remains: The Palestinian Vi
 9. Doughman, Najwa and Mahdi Sabbagh. 2020. “The Rewriting of Palestinian Cities: Spatial Dislocations in Haifa and Akka.” _Arab Urbanism_. ([open-access link](https://www.araburbanism.com/magazine/rewriting-palestinian-cities))
 10. _Jerusalem Quarterly_. 2024. “Food and Foodways (Part 1)” Special Issue 98. ([open-access link](https://www.palestine-studies.org/en/node/1656234))
 11. Judeh, Lana. 2018. “‘Everything Was Anti-Gigantic’: On Architectural Conservation in Palestine’s Central Highlands.” _Jerusalem Quarterly_ 76: 33-45. ([open-access link](https://www.palestine-studies.org/sites/default/files/jq-articles/Pages_from_JQ_76_-_Judeh.pdf))
-12. كناعنة، شريف. 2010. "التراث: بين الفوضى وتأكيد الهوية." في **دراسات في الثقافة والتراث والهوية**. رام الله: مواطن، المؤسسة الفلسطينية لدراسة الديمقراطية. 113-122. ([مصدر مفتوح الوصول](http://www.muwatin.birzeit.edu/sites/default/files/publications/attachments/ShareefKananeh.pdf))
-13. Mansour, N.A. 2021. “The Rise and Folly of the Refugee Cookbook.” _The Counter_, October 21_._ ([open-access link](https://thecounter.org/the-rise-and-folly-of-the-refugee-cookbook-food-media-tropes-conflict/))
+12. كناعنة، شريف. 2010. ”التراث: بين الفوضى وتأكيد الهوية.“ في **دراسات في الثقافة والتراث والهوية**. رام الله: مواطن، المؤسسة الفلسطينية لدراسة الديمقراطية. 113-122. ([مصدر مفتوح الوصول](http://www.muwatin.birzeit.edu/sites/default/files/publications/attachments/ShareefKananeh.pdf))
+13. Mansour, N.A. 2021. “The Rise and Folly of the Refugee Cookbook.” _The Counter_, October 21. ([open-access link](https://thecounter.org/the-rise-and-folly-of-the-refugee-cookbook-food-media-tropes-conflict/))
 14. Mayaleh, Asala, and Bilal Hamamra. 2024. “Instruments of Resilience: Cultural Tourism in Palestinian Resistance.” _International Journal of Heritage Studies_ 30 (9): 1103–19. ([link](https://www.tandfonline.com/doi/full/10.1080/13527258.2024.2369553))
 15. Nasser-Khoury, Omar Joseph. 2020. “Let’s Not Tatreez: Normalisation in the Age of Neoliberal Depoliticisation.” _Counter Punch_, August 28. ([open-access link](https://www.counterpunch.org/2020/08/28/lets-not-tatreez-normalisation-in-the-age-of-neoliberal-depoliticisation/))
 16. Riwaq. List of Articles on Palestine’s Cultural Heritage. ([link](https://www.riwaq.org/page/40))
@@ -69,15 +69,15 @@ English version: Khalidi, Walid, ed. 1992. _All That Remains: The Palestinian Vi
 
 ## Audiovisual Material
 
-1. El-Funoun Palestinian Popular Dance Troupe. ([website](https://www.el-funoun.org/pages/previous-productions)) 
-2. Forensic Architecture. 2021. Living Archeology in Gaza. ([film](https://vimeo.com/611220125?cjdata=MXxZfDB8WXww&cjevent=fe4984dc408111f083c6006d0a18b8fa&clickid=fe4984dc408111f083c6006d0a18b8fa&utm_campaign=2470763&utm_channel=affiliate&utm_source=affiliate) and [investigation](https://forensic-architecture.org/investigation/living-archaeology-in-gaza/)) 
+1. El-Funoun Palestinian Popular Dance Troupe. ([website](https://www.el-funoun.org/pages/previous-productions))
+2. Forensic Architecture. 2021. Living Archeology in Gaza. ([film](https://vimeo.com/611220125?cjdata=MXxZfDB8WXww&cjevent=fe4984dc408111f083c6006d0a18b8fa&clickid=fe4984dc408111f083c6006d0a18b8fa&utm_campaign=2470763&utm_channel=affiliate&utm_source=affiliate) and [investigation](https://forensic-architecture.org/investigation/living-archaeology-in-gaza/))
 3. جلال، نادر. 2025. "إطلاق كتاب ’فلسطين في النهضة الموسيقية العربية: النصف الأول من القرن العشرين.‘" يونيو، 2025. رابط يوتيوب 1:22:15. ([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=gatbx4HaHbg))
 4. Mansour, Carol. Director. 2017. _Stitching Palestine_. 78 mins. (film)
-5. Palestinian Heritage Center in Bethlehem. ([website](http://www.palestinianheritagecenter.com/)) 
+5. Palestinian Heritage Center in Bethlehem. ([website](http://www.palestinianheritagecenter.com/))
 6. سليمان, فرج. 2020. "شارع يافا." ([أغنية](https://www.youtube.com/watch?v=jXohY3fgC7k))
-7. Srouji, Dima. director. 2020. _Sebastia_. 25 mins. ([film](https://nostalgiainterrupted.com/dima-srouji.html)) 
+7. Srouji, Dima. director. 2020. _Sebastia_. 25 mins. ([film](https://nostalgiainterrupted.com/dima-srouji.html))
 8. Tarwida Podcast ([YouTube page](https://www.youtube.com/@TarwidaPodcast))
-9. Tirazain | طرازين. ([archive](https://tirazain.com/)) 
+9. Tirazain | طرازين. ([archive](https://tirazain.com/))
 
 **___**
 
