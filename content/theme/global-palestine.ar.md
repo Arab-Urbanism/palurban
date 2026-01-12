@@ -81,6 +81,7 @@ images: []
 5. Hafeda, Mohamad. director. 2018. _Sewing Borders_. Ashkal Alwan for Video Works. 25 mins. ([link](https://www.mohamadhafeda.com/sewing-borders))
 6. Jabaly, Mohamed. _A Palestinian filmmaker caught between two worlds in exile for seven years._ Al Jazeera English. 47 mins. ([open-access film](https://youtu.be/4r_xPTTV2ZQ?si=M5QR3fSmYjrI6BYd))
 7. _Palestinian Oral History Archive_. American University of Beirut. ([archive](https://libraries.aub.edu.lb/poha/?_gl=1*1cygt9i*_ga*NzEzNTE2ODgxLjE3MzUzOTY2OTE.*_ga_5G09CXDJQ3*czE3NDkxMjMwODQkbzIkZzAkdDE3NDkxMjMwODQkajYwJGwwJGgw&_ga=2.152894137.1492981738.1749123085-713516881.1735396691))
+8.  صالح، توفيق. مخرج. 1972. **المخدوعون**. 107 دقيقة. ([مصدر](https://www.youtube.com/watch?v=ZCY19ge1OFI)[ ](https://www.youtube.com/watch?v=ZCY19ge1OFI)[مفتوح](https://www.youtube.com/watch?v=ZCY19ge1OFI)[ ](https://www.youtube.com/watch?v=ZCY19ge1OFI)[الوصول](https://www.youtube.com/watch?v=ZCY19ge1OFI))
 
 **___**
 
