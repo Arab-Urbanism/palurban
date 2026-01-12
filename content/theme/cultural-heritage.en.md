@@ -47,7 +47,7 @@ Please contact us if you would like access to any resources.
 English version: Khalidi, Walid, ed. 1992. _All That Remains: The Palestinian Villages Occupied and Depopulated by Israel in 1948._ Washington DC: The Institute for Palestine Studies. ([book description](https://www.palestine-studies.org/en/node/1649445) and [WorldCat link](https://search.worldcat.org/title/25632612))
 
 4. Assi, Eman. 2012. “World Heritage Sites, Human Rights and Cultural Heritage in Palestine.” _International Journal of Heritage Studies_ 18 (3): 316-23. ([link](https://www.tandfonline.com/doi/full/10.1080/13527258.2012.652975))
-5. Barnard, Ryvka and Hassan Muamer.  2015. “Ongoing Dispossession and a Heritage of Resistance: The Village of Battir vs. Israeli Settler-colonialism.” In T_he Politics and Power of Tourism in Palestine_, edited by Rami Isaac, Michael Hall and Freya Higgins-Desbiolles, 63-78. Routledge. ([Worldcat link](https://search.worldcat.org/title/1020449682))
+5. Barnard, Ryvka and Hassan Muamer.  2015. “Ongoing Dispossession and a Heritage of Resistance: The Village of Battir vs. Israeli Settler-colonialism.” In _The Politics and Power of Tourism in Palestine_, edited by Rami Isaac, Michael Hall and Freya Higgins-Desbiolles, 63-78. Routledge. ([Worldcat link](https://search.worldcat.org/title/1020449682))
 6. Barnard, Ryvka. 2017. “Colonization and Resistance at Bethlehem's Manger Square.” _Radical History Review_ 129: 125-43. ([link](https://read.dukeupress.edu/radical-history-review/article-abstract/2017/129/125/131952/Colonization-and-Resistance-at-Bethlehem-s-Manger?redirectedFrom=fulltext))
 7. Bshara, Khaldun. 2016. “The Structures and Fractures of Heritage Protection in Palestine.” In _Challenging the Dichotomy: The Licit and the Illicit in Archaeological and Heritage Discourses_, edited by Les Field, Cristobal Gnecco, and Joe Watkins, 106-26. Tucson: University of Arizona Press. ([open-access link](https://library.oapen.org/bitstream/handle/20.500.12657/43859/external_content.pdf?sequence=1&isAllowed=y))
 8. De Cesari, Chiara. 2019. _Heritage and the Cultural Struggle for Palestine_. Stanford: Stanford University Press. ([Worldcat link](https://search.worldcat.org/title/1178768929))
@@ -62,19 +62,19 @@ English version: Khalidi, Walid, ed. 1992. _All That Remains: The Palestinian Vi
 17. Rjoob, Ahmed A. 2009. “The Impact of Israeli Occupation on the Conservation of Cultural Heritage Sites in the Occupied Palestinian Territories: The Case of ‘Salvage Excavations’”. _Conservation and Management of Archaeological Sites_ 11 (3-4): 214-35. ([link](https://www.tandfonline.com/doi/abs/10.1179/175355210X12747818485367))
 18. Sa‘di-Ibraheem, Yara. 2023. “Jaffa amid Theoretical Transformations: Demolition as a Research Prism.” _Jerusalem Quarterly_ 93: 88-99. ([open-access link](https://www.palestine-studies.org/en/node/1653833))
 19. Sleiman, Hana and Kaoukab Chebaro. 2018. “Narrating Palestine: The Palestinian Oral History Archive Project.” _Journal of Palestine Studies_ 47 (2): 63–76. ([link](https://www.tandfonline.com/doi/abs/10.1525/jps.2018.47.2.63))
-20.  سلعوس، لارا .٢٠٢٢. "كرسي صوف: التصميم كفعل للذاكرة في فلسطين." **العُمران العربي**. ([مصدر مفتوح الوصول](https://www.araburbanism.com/tafseela/ar/lara-salous))
+20.  سلعوس، لارا .٢٠٢٢. ”كرسي صوف: التصميم كفعل للذاكرة في فلسطين.“ **العُمران العربي**. ([مصدر مفتوح الوصول](https://www.araburbanism.com/tafseela/ar/lara-salous))
 21. Taha, Hamdan. 2024. “Destruction of Cultural Heritage in Gaza.” _Institute for Palestine Studies_. ([open-access link](https://www.palestine-studies.org/en/node/1655123))
 22. Toukan, Hanan. “The Palestinian Museum.” _Radical Philosophy_ 203: 10-22. ([open-access link](https://www.radicalphilosophy.com/article/the-palestinian-museum))
-23. يحيى، عادل. 2009. "آثار فلسطين بين النهب والإنقاذ: كيف يستبيح جدار الفصل والتنقيب غير المشروع وتجارة الآثار التراث الفلسطيني." **حوليات القدس** 7: 16 - 39. ([مصدر مفتوح الوصول](https://palquest.palestine-studies.org/sites/default/files/athr_flsTyn_byn_lnhb_wlnqdh-_dl_yHy.pdf))
+23. يحيى، عادل. 2009. ”آثار فلسطين بين النهب والإنقاذ: كيف يستبيح جدار الفصل والتنقيب غير المشروع وتجارة الآثار التراث الفلسطيني.“ **حوليات القدس** 7: 16 - 39. ([مصدر مفتوح الوصول](https://palquest.palestine-studies.org/sites/default/files/athr_flsTyn_byn_lnhb_wlnqdh-_dl_yHy.pdf))
 
 ## Audiovisual Material
 
 1. El-Funoun Palestinian Popular Dance Troupe. ([website](https://www.el-funoun.org/pages/previous-productions))
 2. Forensic Architecture. 2021. Living Archeology in Gaza. ([film](https://vimeo.com/611220125?cjdata=MXxZfDB8WXww&cjevent=fe4984dc408111f083c6006d0a18b8fa&clickid=fe4984dc408111f083c6006d0a18b8fa&utm_campaign=2470763&utm_channel=affiliate&utm_source=affiliate) and [investigation](https://forensic-architecture.org/investigation/living-archaeology-in-gaza/))
-3. جلال، نادر. 2025. "إطلاق كتاب ’فلسطين في النهضة الموسيقية العربية: النصف الأول من القرن العشرين.‘" يونيو، 2025. رابط يوتيوب 1:22:15. ([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=gatbx4HaHbg))
+3. جلال، نادر. 2025. ”إطلاق كتاب ’فلسطين في النهضة الموسيقية العربية: النصف الأول من القرن العشرين.‘“ يونيو، 2025. رابط يوتيوب 1:22:15. ([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=gatbx4HaHbg))
 4. Mansour, Carol. Director. 2017. _Stitching Palestine_. 78 mins. (film)
 5. Palestinian Heritage Center in Bethlehem. ([website](http://www.palestinianheritagecenter.com/))
-6. سليمان, فرج. 2020. "شارع يافا." ([أغنية](https://www.youtube.com/watch?v=jXohY3fgC7k))
+6. سليمان، فرج. 2020. ”شارع يافا.“ ([أغنية](https://www.youtube.com/watch?v=jXohY3fgC7k))
 7. Srouji, Dima. director. 2020. _Sebastia_. 25 mins. ([film](https://nostalgiainterrupted.com/dima-srouji.html))
 8. Tarwida Podcast ([YouTube page](https://www.youtube.com/@TarwidaPodcast))
 9. Tirazain | طرازين. ([archive](https://tirazain.com/))
