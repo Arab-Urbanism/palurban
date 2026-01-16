@@ -41,7 +41,7 @@ Please contact us if you would like access to any resources.
 
 1. Al-Hardeen, Anaheed. 2017. “Palestinian Refugees: Who Sets the Agenda?.” _Al-Shabaka_, April 27, 2017. ([open-access link](https://al-shabaka.org/commentaries/researching-palestinian-refugees-who-sets-the-agenda))
 
-بالعربية: الحردان، أناهيد. 2017. ”البحوث حول اللاجئين الفلسطينيين: مَن يحدد الأجندة؟.“ **الشبكة**، أبريل 27، 2017. ([مصدر مفتوح الوصول](https://al-shabaka.org/commentaries/%D8%A7%D9%84%D8%A8%D8%AD%D9%88%D8%AB-%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D9%84%D8%A7%D8%AC%D8%A6%D9%8A%D9%86-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%8A%D9%86-%D9%85%D9%86-%D9%8A%D8%AD%D8%AF%D8%AF-%D8%A7%D9%84%D8%A3%D8%AC%D9%86%D8%AF%D8%A9/)).
+بالعربية: الحردان، أناهيد. 2017. ”البحوث حول اللاجئين الفلسطينيين: مَن يحدد الأجندة؟“ **الشبكة**، أبريل 27، 2017. ([مصدر مفتوح الوصول](https://al-shabaka.org/commentaries/%D8%A7%D9%84%D8%A8%D8%AD%D9%88%D8%AB-%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D9%84%D8%A7%D8%AC%D8%A6%D9%8A%D9%86-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%8A%D9%86-%D9%85%D9%86-%D9%8A%D8%AD%D8%AF%D8%AF-%D8%A7%D9%84%D8%A3%D8%AC%D9%86%D8%AF%D8%A9/))
 
 2. Bawalsa, Nadim. 2022. _Transnational Palestine: Migration and the Right of Return before 1948_. Stanford: Stanford University Press. ([Worldcat link](https://search.worldcat.org/title/1295617210))
 3. Brand. Laurie A. 1988. _Palestinians in the Arab World: Institution Building and the Search for State_. New York: Columbia University Press. ([Worldcat link](https://search.worldcat.org/title/17619137))
