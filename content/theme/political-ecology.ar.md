@@ -30,7 +30,7 @@ images: []
 4. Abusaada, Nadi. 2022. “Jerusalem Stone: The History and Identity of Palestinian Stereotomy.” _The Architecture Review_. ([open-access link](https://www.architectural-review.com/essays/city-portraits/jerusalem-stone-the-history-and-identity-of-palestinian-stereotomy)); pair with _White Oil_ (2013) film by Judy Price. ([open-access film](https://www.cultureunplugged.com/documentary/watch-online/play/54968/white-oil))
 5. دجاني، منى. ٢.١٤. ” تجفيف فلسطين: حرب إسرائيل المنهجية على المياه.“ **الشبكة**، ٤ سبتمبر ٢٠١٤ ([مصدر مفتوح الوصول](https://al-shabaka.org/briefs/%D8%AA%D8%AC%D9%81%D9%8A%D9%81-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D8%AD%D8%B1%D8%A8-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D9%86%D9%87%D8%AC%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%87/))
 
-In English:  Dajani, Muna. 2014. “Drying Palestine: Israel’s Systemic Water War.” _Al-Shabaka_. 4 September 2014. ([open-access link](https://al-shabaka.org/briefs/drying-palestine-israels-systemic-water-war/)); pair with _Weaponising Water in Palestine_ (2025), documentary by Al Jazeera. ([open-access film](https://www.aljazeera.com/program/people-power/2023/7/27/weaponising-water-in-palestine))
+In English: Dajani, Muna. 2014. “Drying Palestine: Israel’s Systemic Water War.” _Al-Shabaka_. 4 September 2014. ([open-access link](https://al-shabaka.org/briefs/drying-palestine-israels-systemic-water-war/)); pair with _Weaponising Water in Palestine_ (2025), documentary by Al Jazeera. ([open-access film](https://www.aljazeera.com/program/people-power/2023/7/27/weaponising-water-in-palestine))
 
 ## **مراجع أخرى**
 
@@ -60,7 +60,7 @@ English version: Agha, Zeina. 2019. “Climate Change, the Occupation, and a Vul
 19. Stamatopoulou-Robbins, Sophia. 2020. “Essential Readings: Land, Water, and the Environment in Israeli Occupied Palestinian Territories.” Middle East Studies Pedagogy Initiative (MESPI). ([open-access link](https://www.jadaliyya.com/Details/42091/Essential-Readings-Land,-Water,-and-the-Environment-in-Israels-Occupied-Palestinian-Territories-by-Sophia-Stamatopoulou-Robbins))
 20. Tesdell, Omar. 2017. “Wild Wheat to Productive Drylands: Global Scientific Practice and the Agroecological Remaking of Palestine.” _Geoforum_ 78: 43–51. (o[pen-access link](https://www.sciencedirect.com/science/article/abs/pii/S0016718516302597))
 21. Turhan, Ethemcan. 2024. “Palestinian Political Ecologies Reader.” _Undisciplined Environments._ ([open-access link](https://undisciplinedenvironments.org/2024/05/23/palestinian-political-ecologies-reader/))
-22. زحالقة، جمال. 2021. ”الصهيونية والعنزة السوداء.“ **مجلة الدراسات الفلسطينية** 125 (شتاء): 35-60. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/1650886))
+22. زحالقة، جمال. 2021. ”الصهيونية والعنزة السوداء.“ **مجلة الدراسات الفلسطينية** 125 : 35-60. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/1650886))
 
 ## **مواد سمعية وبصرية**
 
@@ -68,7 +68,7 @@ English version: Agha, Zeina. 2019. “Climate Change, the Occupation, and a Vul
 2. Palestine Institute for Biodiversity & Sustainability, Bethlehem University. ([website](https://www.palestinenature.org/))
 3. Price, Judy, director. 2013. _White Oil._ 64 mins. ([open-access film](https://www.cultureunplugged.com/documentary/watch-online/play/54968/white-oil))
 4. Sansour, Vivian. _Palestine Heirloom Seed Library_. ([website](https://viviensansour.com/Palestine-Heirloom))
-5. Tesdell, Omar, ed. 2018. _Palestinian Wild Food Plants_ /  **النباتات البرية الغذائية الفلسطينية**, ([open-access link](https://archive.org/details/palwildfoodplants2018/page/n17/mode/2up))
+5. Tesdell, Omar, ed. 2018. _Palestinian Wild Food Plants_ / **النباتات البرية الغذائية الفلسطينية**, ([open-access link](https://archive.org/details/palwildfoodplants2018/page/n17/mode/2up))
 6. Areej Ashab. ([website](https://areejashhab.com/about))
 7. Tan, Palin, director. 2023. _Landscapes as Archives: On the Spatial Production of Palestine_. YouTube. 19 mins. ([open-access film](https://youtu.be/_qLWukSNbHE?si=PWk_g-xc7s3I37Mp))
 
