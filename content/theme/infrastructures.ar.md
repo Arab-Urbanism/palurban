@@ -1,7 +1,7 @@
 ---
 title: البُنى التحتية المجتمعية والاستعمارية
 slug: infrastructures
-description: 'A resource on communal and colonial Infrastructures in the Palestinian context, a part of the Palestine: Spaces and Politics introductory curriculum.'
+description: 'مورد عن البُنى التحتية المجتمعية والاستعمارية في سياق فلسطين، جزء من منهاج  فلسطين: الفضاءات والسياسة'
 draft: false
 weight: null
 lastmod: 2025-11-21T17:15:00
