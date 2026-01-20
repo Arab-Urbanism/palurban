@@ -1,6 +1,7 @@
 ---
 title: Political Ecology
 slug: political-ecology
+description: 'A resource on political ecology in the Palestinian context, a part of the Palestine: Spaces and Politics introductory curriculum.'
 draft: false
 weight: null
 tags: []

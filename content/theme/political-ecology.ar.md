@@ -1,6 +1,7 @@
 ---
 title: الإيكولوجيا السياسية
 slug: political-ecology
+description: 'مورد عن الإيكولوجيا السياسية في سياق فلسطين، جزء من منهاج  فلسطين: الفضاءات والسياسة'
 draft: false
 weight: null
 tags: []
