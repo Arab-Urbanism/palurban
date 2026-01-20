@@ -1,6 +1,7 @@
 ---
 title: The Vernacular and the Informal
 slug: vernacular-informal
+description: 'A resource on the vernacular and the informal in the Palestinian context, a part of the Palestine: Spaces and Politics introductory curriculum.'
 draft: false
 weight: 3
 lastmod: 2025-11-21T17:17:00
