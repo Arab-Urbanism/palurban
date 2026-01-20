@@ -36,7 +36,7 @@ languages:
 
 params:
   tagline: 'A spatial Palestine curriculum by the Arab Urbanism team.'
-  description: 'a curriculum by Arab Urbanism from a spatial perspective at all scales. '
+  description: 'A curriculum by Arab Urbanism from a spatial perspective at all scales.'
   images:
     - /img/homepage.jpeg
   keywords:
@@ -66,6 +66,8 @@ params:
 
   seo:
     publisher: 'Arab Urbanism' 
+  
+  enableRobotsTXT: true
   
   privacy: 
     googleTagManager:
