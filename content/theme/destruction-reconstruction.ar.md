@@ -1,6 +1,7 @@
 ---
 title: التدمير وإعادة الإعمار
 slug: destruction-reconstruction
+description: 'مورد عن التدمير وإعادة الإعمار في سياق فلسطين، جزء من منهاج  فلسطين: الفضاءات والسياسة'
 draft: false
 weight: null
 lastmod: 2025-11-21T17:16:00

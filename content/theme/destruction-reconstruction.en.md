@@ -1,6 +1,7 @@
 ---
 title: Destruction and Reconstruction
 slug: destruction-reconstruction
+description: 'A resource on destruction and reconstruction in the Palestinian context, a part of the Palestine: Spaces and Politics introductory curriculum.'
 draft: false
 weight: null
 lastmod: 2025-11-21T17:16:00
