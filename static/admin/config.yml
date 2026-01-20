@@ -36,6 +36,13 @@ collections:
       - { label: "Title", name: "title", widget: "string", i18n: true }
       - { label: "Slug", name: "slug", widget: "string", i18n: duplicate }
       - {
+          label: Description (for SEO),
+          name: description,
+          widget: string,
+          i18n: true,
+          required: true,
+        }
+      - {
           label: "Is draft",
           name: "draft",
           widget: "boolean",
@@ -98,7 +105,7 @@ collections:
         file: "content/_index.{{locale}}.md"
         fields:
           - { label: Title, name: title, widget: string, i18n: true }
-          - { label: Subtitle, name: description, widget: string, i18n: true }
+          - { label: Description, name: description, widget: string, i18n: true }
           - {
               label: Image,
               name: featured_image,
@@ -129,7 +136,7 @@ collections:
         fields:
           - { label: Title, name: title, widget: string, i18n: true }
           - {
-              label: Subtitle,
+              label: Description,
               name: description,
               widget: string,
               i18n: true,
@@ -151,7 +158,7 @@ collections:
         fields:
           - { label: Title, name: title, widget: string, i18n: true }
           - {
-              label: Subtitle,
+              label: Description,
               name: subtitle,
               widget: string,
               i18n: true,

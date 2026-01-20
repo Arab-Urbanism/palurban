@@ -1,6 +1,6 @@
 ---
 title: 'Palestine: Spaces and Politics'
-description: Introductory Curriculum
+description: An open-access introductory curriculum that offers resources for education and research on Palestine’s built and natural environments through a critical lens. 
 featured_image: /img/homepage.jpeg
 images:
   - /img/homepage.jpeg
@@ -16,6 +16,6 @@ PSP is a collective of geographers, architects, and urban planners committed to 
 
 We are [Dena Qaddumi](https://www.lse.ac.uk/people/dena-qaddumi) (coordinator), [Nadi Abusaada](https://www.nadiabusaada.com), [Majd Al-Shihabi](https://majdal.cc), [Ammar Azzouz](https://www.geog.ox.ac.uk/staff/aazzouz.html), [Samia Henni](https://www.samiahenni.com), [Lana Judeh](https://birzeit.academia.edu/LanaJudeh), Faiq Mari, [Aya Nassar](https://www.durham.ac.uk/staff/aya-m-nassar/), and Omar Jabary Salamanca.
 
-_-------------------_
+-------------------
 
 Image: Bethlehem, 2013. Photograph by Dena Qaddumi.
