@@ -1,6 +1,7 @@
 ---
 title: فلسطين الحضرية
 slug: urban-palestine
+description: 'مورد عن فلسطين الحضرية في سياق فلسطين، جزء من منهاج  فلسطين: الفضاءات والسياسة'
 draft: false
 weight: null
 tags: []

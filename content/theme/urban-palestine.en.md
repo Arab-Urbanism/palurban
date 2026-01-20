@@ -1,6 +1,7 @@
 ---
 title: Urban Palestine
 slug: urban-palestine
+description: 'A resource on urban Palestine in the Palestinian context, a part of the Palestine: Spaces and Politics introductory curriculum.'
 draft: false
 weight: null
 tags: []
