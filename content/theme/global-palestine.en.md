@@ -1,6 +1,7 @@
 ---
 title: Global Palestine
 slug: globalpalestine
+description: 'A resource on global Palestine in the Palestinian context, a part of the Palestine: Spaces and Politics introductory curriculum.'
 draft: false
 weight: null
 tags: []

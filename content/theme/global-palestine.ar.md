@@ -1,6 +1,7 @@
 ---
 title: فلسطين العالمية
 slug: globalpalestine
+description: 'مورد عن فلسطين العالمية في سياق فلسطين، جزء من منهاج  فلسطين: الفضاءات والسياسة'
 draft: false
 weight: null
 tags: []
