@@ -1,6 +1,7 @@
 ---
 title: 'Palestine Futures: Spaces and Imaginations'
 slug: futures
+description: 'A resource on Palestine futures, spaces and imaginations in the Palestinian context, a part of the Palestine: Spaces and Politics introductory curriculum.'
 draft: false
 weight: 1
 lastmod: 2025-11-21T17:16:00
