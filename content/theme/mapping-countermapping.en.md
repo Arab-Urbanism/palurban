@@ -1,6 +1,7 @@
 ---
 title: Mapping and Counter-mapping
 slug: mapping-countermapping
+description: 'A resource on mapping and counter-mapping in the Palestinian context, a part of the Palestine: Spaces and Politics introductory curriculum.'
 draft: false
 weight: 2
 lastmod: 2025-11-21T17:16:00

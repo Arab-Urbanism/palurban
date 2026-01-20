@@ -1,6 +1,7 @@
 ---
 title: الخرائطية والخرائطية المضادة
 slug: mapping-countermapping
+description: 'مورد عن الخرائط والخرائط المضادة في سياق فلسطين، جزء من منهاج  فلسطين: الفضاءات والسياسة'
 draft: false
 weight: 2
 lastmod: 2025-11-21T17:16:00
