@@ -1,6 +1,7 @@
 ---
 title: Cultural Heritage
 slug: cultural-heritage
+description: 'A resource on cultural heritage in the Palestinian context, a part of the Palestine: Spaces and Politics introductory curriculum.'
 draft: false
 weight: null
 tags: []

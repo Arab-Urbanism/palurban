@@ -1,6 +1,7 @@
 ---
 title: التراث الثقافي
 slug: cultural-heritage
+description: 'مورد عن التراث الثقافي في سياق فلسطين، جزء من منهاج  فلسطين: الفضاءات والسياسة'
 draft: false
 weight: null
 tags: []
