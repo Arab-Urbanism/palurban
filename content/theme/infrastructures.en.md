@@ -7,11 +7,12 @@ weight: null
 lastmod: 2025-11-21T17:15:00
 featured_image: /theme/Communal and Colonial Infrastructures 1.jpg
 image:
-  filename: featured
-  focal_point: Smart
   preview_only: false
+  focal_point: Smart
+  filename: featured
 featured: true
 ---
+
 Throughout history, communities of peasants, urban dwellers, and Bedouins in Palestine have cultivated a local knowledge of infrastructure—shaped through a close relationship with the natural environment and evolving socio-economic structures. This knowledge has included collective stewardship over water, means of production, and transportation. Simultaneously, the geography of Palestine has been, for millennia, a palimpsest of mega-infrastructure projects that fulfilled the dreams of imperial and colonial expansion—from Roman aqueducts and Ottoman railways to the British Mandate’s electrification project and Israel’s National Water Carrier. These projects have profoundly influenced the lives of ordinary people and their relationship with their surroundings. Against this backdrop, the "infrastructural turn" in Middle East and Palestine studies urges a closer examination of how infrastructure shapes spatial relations of power and dissent, while simultaneously connecting the region to global structures of capitalism and colonialism. Nowhere is this more evident than in Palestine, where everyday infrastructures—and their failures—are entangled with settler-colonial rule, humanitarian interventionism, developmentalist agendas, and segregationist logics. Whether through roads and checkpoints, waste management systems, or digital connectivity, infrastructure actively assembles political life—shaping how colonized space is governed and controlled by the colonial, and inhabited and resisted by the colonized.
 
 ## Key Questions
@@ -71,7 +72,7 @@ Throughout history, communities of peasants, urban dwellers, and Bedouins in Pal
 
 1. Nayfeh, Ameen, director. 2020. _200 meters_. Odeh Films, 96 min. ([link](https://www.youtube.com/watch?v=LhhF3Hr9bEw)).
 2. Andoni, Raed, director. 2017. _Ghost Hunting_. Palmyre Badinier, 94 min. ([link](https://www.google.com/search?q=2017.+Ghost+Hunting.+&sca_esv=ab25832c05e403ac&udm=7&biw=1360&bih=786&ei=NGZcaMWILYGCxc8P87qM0AE&ved=0ahUKEwjF8qi0vo2OAxUBQfEDHXMdAxoQ4dUDCBA&uact=5&oq=2017.+Ghost+Hunting.+&gs_lp=EhZnd3Mtd2l6LW1vZGVsZXNzLXZpZGVvIhUyMDE3LiBHaG9zdCBIdW50aW5nLiAyBhAAGBYYHjIFEAAY7wUyBRAAGO8FSKQrUJcOWNkocAF4AJABAJgBxAGgAfMEqgEDMC40uAEDyAEA-AEBmAIBoAKHAZgDAIgGAZIHAzAuMaAHywOyBwMwLjG4B4cBwgcDMy0xyAcI&sclient=gws-wiz-modeless-video#fpstate=ive&vld=cid:0cfd5085,vid:G1ISOJKX3uw,st:0)).
-3. Jarrar, Khaled, director. 2012._ Infiltrators_. Sami Said and Mohanad Yaqubi, 94 min. ([link](https://www.youtube.com/watch?v=iEIjDfY5KyU))
+3. Jarrar, Khaled, director. 2012. _Infiltrators_. Sami Said and Mohanad Yaqubi, 94 min. ([link](https://www.youtube.com/watch?v=iEIjDfY5KyU))
 4. شحادة، لمى. 2019. ”محاضرة حين يعطش الغرباء: الإدارة الصهيونية للمياه وتخريب طبيعة فلسطين.“ يناير، 2019. رابط يوتيوب :52:25. ([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=ksIaDtyFt2w))
 
 **___**

@@ -7,6 +7,7 @@ weight: null
 lastmod: 2025-11-21T17:15:00
 featured_image: /theme/Communal and Colonial Infrastructures 1.jpg
 ---
+
 على مر التاريخ، طوّرت مجتمعات الفلاحين والحَضَر والبدو في فلسطين معرفة محلية بالبُنى التحتية، في علاقة وثيقة مع النظام الطبيعي، والبُنى الاجتماعية والاقتصادية المتغيرة. وشملت تلك المعرفة الإدارة الجماعية للمياه ووسائل الإنتاج والنقل. في موازاة ذلك، كانت فلسطين بمثابة طِرْسٍ تُخطّ عليه، منذ آلاف السنين، مشاريع بُنى تحتية ضخمة جسّدت أحلام التوسع الإمبراطوري والاستعماري؛ من قنوات المياه الرومانية، وخطوط السكك الحديدية العثمانية، إلى مشروع الكهرباء في عهد الانتداب البريطاني، ومشروع الناقل الوطني للمياه في إسرائيل. أثرت هذه المشاريع بعمق في حياة الناس العاديين، وفي علاقتهم بالبيئة من حولهم. وفي هذا السياق، تدفع دراسة البُنى التحتية في الشرق الأوسط وفلسطين نحو فحص معمّق لكيفية تشكيل البنية التحتية علاقات القوة والممانعة المكانية، وفي الوقت ذاته، في ربط المنطقة بالبُنى العالمية للرأسمالية والاستعمار. يتجلّى ذلك بوضوح في فلسطين، من خلال تشابك البُنى التحتية اليومية -وإخفاقاتها- مع منظومات الحكم الاستعماري الاستيطاني، والعمل الإنساني، والأجندات التنموية، وما يرافقها من منطق الفصل العنصري. تُشكّل البُنى التحتية الحياة السياسية بفاعلية من خلال أدوات السيطرة على الحيّز من قبل المستعمِر- كالطرق ونقاط التفتيش، أو أنظمة إدارة النفايات، أو الاتصال الرقمي، ومن خلال ما يبتكره المُستعمَر من بُنى للعيش والمقاومة.
 
 ##  **أسئلة رئيسية**
@@ -68,7 +69,7 @@ featured_image: /theme/Communal and Colonial Infrastructures 1.jpg
 
 1. Nayfeh, Ameen, director. 2020. _200 meters_. Odeh Films, 96 min. ([link](https://www.youtube.com/watch?v=LhhF3Hr9bEw)).
 2. Andoni, Raed, director. 2017. _Ghost Hunting_. Palmyre Badinier, 94 min. ([link](https://www.google.com/search?q=2017.+Ghost+Hunting.+&sca_esv=ab25832c05e403ac&udm=7&biw=1360&bih=786&ei=NGZcaMWILYGCxc8P87qM0AE&ved=0ahUKEwjF8qi0vo2OAxUBQfEDHXMdAxoQ4dUDCBA&uact=5&oq=2017.+Ghost+Hunting.+&gs_lp=EhZnd3Mtd2l6LW1vZGVsZXNzLXZpZGVvIhUyMDE3LiBHaG9zdCBIdW50aW5nLiAyBhAAGBYYHjIFEAAY7wUyBRAAGO8FSKQrUJcOWNkocAF4AJABAJgBxAGgAfMEqgEDMC40uAEDyAEA-AEBmAIBoAKHAZgDAIgGAZIHAzAuMaAHywOyBwMwLjG4B4cBwgcDMy0xyAcI&sclient=gws-wiz-modeless-video#fpstate=ive&vld=cid:0cfd5085,vid:G1ISOJKX3uw,st:0)).
-3. Jarrar, Khaled, director. 2012._ Infiltrators_. Sami Said and Mohanad Yaqubi, 94 min. ([link](https://www.youtube.com/watch?v=iEIjDfY5KyU))
+3. Jarrar, Khaled, director. 2012. _Infiltrators_. Sami Said and Mohanad Yaqubi, 94 min. ([link](https://www.youtube.com/watch?v=iEIjDfY5KyU))
 4. شحادة، لمى. 2019. ”محاضرة حين يعطش الغرباء: الإدارة الصهيونية للمياه وتخريب طبيعة فلسطين.“ يناير، 2019. رابط يوتيوب :52:25. ([مصدر مفتوح الوصول](https://www.youtube.com/watch?v=ksIaDtyFt2w))
 
 **___**
