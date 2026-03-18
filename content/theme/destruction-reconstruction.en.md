@@ -9,6 +9,7 @@ featured_image: /theme/Destruction and reconstruction-1.jpg
 images:
   - /theme/Destruction and reconstruction-1.jpg
 ---
+
 Today, as the world continues to watch the mass destruction of Gaza, questions of reconstruction emerge again, reflecting on more than a century marked by destruction, writing and rewriting of history in Palestine. The settler colonial system has destroyed hundreds of Palestinian villages, educational centers, archives, and universities, changed streets’ and villages’ names, and continues to forcibly evict Palestinians from their homes and cities. This material and symbolic erasure has been used by Israel as a tool to uproot Palestinians and their heritage from their homeland. Millions of Palestinian refugees remain scattered around the world with no right to return even to the ruins of their homes and to commemorate the Nakba. Despite the scale of this loss and injury, Palestine teaches us—geographers, architects and urban planners—to rethink the politics and aims of reconstruction towards imagining a free and just future that connects Palestinians within their own country, as well as Palestinians in diaspora. But where to start without an end of colonization?
 
 ## Key Questions
@@ -33,7 +34,7 @@ Today, as the world continues to watch the mass destruction of Gaza, questions o
 
 1. Ahmad, Nadia N. 2011. “Gaza: a case study of urban destruction through military involvement.” Master Thesis, The Temple University. ([open-access link](https://scholarshare.temple.edu/bitstream/handle/20.500.12613/645/Ahmad_temple_0225M_10714.pdf?sequence=1&isAllowed=y))
 2. Al-Haq. 2012. Escalation in Forcible Transfer and Demolitions in Area C. Palestinian Human Rights Organizations’ Council, September 28, 2012. ([open-access link](https://docslib.org/doc/2743276/escalation-in-forcible-transfer-and-demolitions-in-area-c-al-haq-on))
-3. الخالدي، وليد، محرر، **كي لا ننسى: قرى فلسطين التي دمرتها إسرائيل سنة 1948 وأسماء شهدائها. ترجمة حسني زينة**. واشنطن: مؤسسة الدراسات الفلسطينية. ([مصدر مفتوح الوصول)](https://archive.org/details/1948_20221204/page/n9/mode/2up)
+3. الخالدي، وليد، محرر، **كي لا ننسى: قرى فلسطين التي دمرتها إسرائيل سنة 1948 وأسماء شهدائها. **ترجمة حسني زينة. واشنطن: مؤسسة الدراسات الفلسطينية. ([مصدر مفتوح الوصول)](https://archive.org/details/1948_20221204/page/n9/mode/2up)
 
 English version: Khalidi, Walid, ed. 1992. _All That Remains: The Palestinian Villages Occupied and Depopulated by Israel in 1948._ Washington DC: The Institute for Palestine Studies. ([book description](https://www.palestine-studies.org/en/node/1649445) and [WorldCat link](https://search.worldcat.org/title/25632612))
 
@@ -42,7 +43,7 @@ English version: Khalidi, Walid, ed. 1992. _All That Remains: The Palestinian Vi
 
 ## Further Resources
 
-_Please [contact us](https://palestine.araburbanism.com/contact/) if you would like access to any resources._
+_Please _[_contact us_](https://palestine.araburbanism.com/contact/)_ if you would like access to any resources._
 
 1. Abujidi, Nurhan. 2014. _Urbicide in Palestine: Spaces of Oppression and Resilience._ London. New York: Routledge. ([WorldCat link](https://search.worldcat.org/title/863043800))
 2. Amiry, Suad and Khaldun Bshara, eds. 2015. _Reclaiming Space: The Rehabilitation of 50 Villages in Rural Palestine_. Ramallah: Riwaq. ([open-access link](https://palestine.araburbanism.com/img/RECLAIMING%20SPACE%20RIWAQ%202015.pdf))

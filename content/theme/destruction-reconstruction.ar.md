@@ -9,6 +9,7 @@ featured_image: /theme/Destruction and reconstruction-1.jpg
 images:
   - /theme/Destruction and reconstruction-1.jpg
 ---
+
 في حين يواصل العالم اليوم مشاهدة التدمير ‏الهائل في غزة، تظهر أسئلة إعادة الإعمار مجدداً لتدفع بالتفكير فيما يزيد عن قرن من الزمن  شهدت فيه فلسطين دورات من التدمير و كتابة وإعادة كتابة التاريخ. دمّرت منظومة الاستعمار الاستيطاني مئات القرى الفلسطينية، ومراكز تعليمية، وأرشيفات، وجامعات وقامت بتغيير أسماء الشوارع والقرى في حين يستمر التهجير القسري للفلسطينيين من بيوتهم ومدنهم. وقد استخدمت إسرائيل هذا المحو المادي والمعنوي كأداة لاقتلاع الفلسطينيين وتراثهم من موطنهم، ولا يزال ملايين اللاجئين الفلسطينيين مشتتين في أنحاء العالم من دون الحق في العودة حتى إلى أطلال منازلهم، أو لإحياء ذكرى النكبة. ولكن بالرغم من حجم الخسارة والجراح، تُعلّمنا فلسطين كجغرافيين/ات، معماريين/ات، ومخططين/ات عمرانيين، أن نعيد التفكير في سياسات وأهداف إعادة الإعمار في شكل يسمح لنا بتخيل مستقبل عادل وحرّ؛ مستقبل يسمح للفلسطينيين بالتواصل مع وطنهم وأيضا مع فلسطينيّ المهجر. ولكن من أين نبدأ بدون إنهاء الاستعمار؟
 
 ## أسئلة رئيسية
@@ -33,18 +34,16 @@ images:
 
 1. Ahmad, Nadia N. 2011. “Gaza: a case study of urban destruction through military involvement.” Master Thesis, The Temple University. ([open-access link](https://scholarshare.temple.edu/bitstream/handle/20.500.12613/645/Ahmad_temple_0225M_10714.pdf?sequence=1&isAllowed=y))
 2. Al-Haq. 2012. Escalation in Forcible Transfer and Demolitions in Area C. Palestinian Human Rights Organizations’ Council, September 28, 2012. ([open-access link](https://docslib.org/doc/2743276/escalation-in-forcible-transfer-and-demolitions-in-area-c-al-haq-on))
-3. الخالدي، وليد، محرر، **كي لا ننسى: قرى فلسطين التي دمرتها إسرائيل سنة 1948 وأسماء شهدائها. ترجمة حسني زينة**. واشنطن: مؤسسة الدراسات الفلسطينية. ([مصدر مفتوح الوصول)](https://archive.org/details/1948_20221204/page/n9/mode/2up)
+3. الخالدي، وليد، محرر، **كي لا ننسى: قرى فلسطين التي دمرتها إسرائيل سنة 1948 وأسماء شهدائها. **ترجمة حسني زينة. واشنطن: مؤسسة الدراسات الفلسطينية. ([مصدر مفتوح الوصول)](https://archive.org/details/1948_20221204/page/n9/mode/2up)
 
 English version: Khalidi, Walid, ed. 1992. _All That Remains: The Palestinian Villages Occupied and Depopulated by Israel in 1948._ Washington DC: The Institute for Palestine Studies. ([book description](https://www.palestine-studies.org/en/node/1649445) and [WorldCat link](https://search.worldcat.org/title/25632612))
 
 4. أبو سعادة، ندي. 2024. ”إعادة الإعمار ومشروعنا التحرري.“ **مؤسسة الدراسات الفلسطينية**. أبريل 17، 2024. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/1655449))
 5. بشارة، خلدون. 2024. ” تربية الأمل: نفعل في غزة ما يفعله العاطلون عن العمل.“ **مجلة الدراسات الفلسطينية**، 137 (شتاء):46 - 51. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/1654963))
 
-##
-
 ## مراجع أخرى
 
-_الرجاء&#160;[التواصل معنا](https://palestine.araburbanism.com/ar/contact/)&#160;للوصول لأي من المصادر التالية._
+_الرجاء&#160;_[_التواصل معنا_](https://palestine.araburbanism.com/ar/contact/)_&#160;للوصول لأي من المصادر التالية._
 
 1. Abujidi, Nurhan. 2014. _Urbicide in Palestine: Spaces of Oppression and Resilience._ London. New York: Routledge. ([WorldCat link](https://search.worldcat.org/title/863043800))
 2. Amiry, Suad and Khaldun Bshara, eds. 2015. _Reclaiming Space: The Rehabilitation of 50 Villages in Rural Palestine_. Ramallah: Riwaq. ([open-access link](https://palestine.araburbanism.com/img/RECLAIMING%20SPACE%20RIWAQ%202015.pdf))
