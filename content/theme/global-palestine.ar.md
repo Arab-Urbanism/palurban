@@ -9,6 +9,7 @@ lastmod: 2025-11-21T17:15:00
 featured_image: /theme/Global Palestine.jpeg
 images: []
 ---
+
 تُشكل أنماط الهجرة التي تربط بين المراكز الحضرية للإمبراطوريات والمستعمرات السابقة إحدى السمات البنوية للسياق العالمي ما بعد الاستعماري. غير أن هذه الأنماط، بالنسبة إلى الفلسطينيين، لا تُمثّل مرحلة لاحقة بقدر ما تُجسّد استمراراً للوضع الاستعماري الذي يعمل وفق أنماط زمنية ومكانية فريدة، يستمر فيها الاستيطان الإحلالي ويترافق مع سياسات التطهير العرقي. وقد أدت لحظات تاريخية فارقة، مثل عامي 1948 و1967، إلى موجات تهجير جماعي داخل فلسطين وخارجها. ما أسفر عن وجود أكثر من 6 ملايين فلسطيني خارج وطنهم، متناثرين في أنحاء العالم ومسلوبين من حق العودة. يُصنّف ملايين الفلسطينيين خارج فلسطين، رغم تنوّع حالاتهم القانونية والمعيشية، على أنهم "الشتات" - سواء كانوا لاجئين أم مهاجرين أم مواطنين في دول أخرى. ويُشكل هذا الشتات في المنفى مجتمعات عابرة للحدود الوطنية، موزّعة مكانياً ضمن أنماط متعددة من البيئات المبنية ـ مثل المخيمات، والأحياء العرقية، والمناطق غير الرسمية، والأطراف الحضرية، والمراكز والضواحي، لا سيّما في العالم العربي وأوروبا والأمريكتين. يتجذّر الشتات في محليَات محددة ترتبط ببعضها البعض ومع فلسطين في آن واحد، منتجاً بذلك علاقات اجتماعية ومكانية ديناميكية، وموجات متكررة من النزوح والنفي والهجرة والعودة عبر الأجيال، من وإلى أراضٍ وجغرافيات ومجتمعات متعددة. وبهذا، ينخرط الشتات الفلسطيني في سياسات مكانية متعددة الأوجه تتعلق بصنع المدينة والعالم، مع الحفاظ على مجتمع يناضل من أجل التحرر، ويسهم في تشكيل التضامن العالمي المتعلق بمقاومة الاستعمار.
 
 ##  **أسئلة رئيسية**
@@ -34,7 +35,7 @@ images: []
 1. Abourahme, Nasser. 2021. “Revolution after Revolution: The Commune as Line of Flight in Palestinian Anticolonialism.” _Critical Times_ 4 (3): 445–75. ([open-access link](https://read.dukeupress.edu/critical-times/article/4/3/445/173562/Revolution-after-RevolutionThe-Commune-as-Line-of))
 2. Bshara, Khaldun. “Space and Memory: The Poetics and Politics of Home in the Palestinian Diaspora.” PhD diss. University of California Irvine. ([open-access link](https://www.proquest.com/docview/1024425320?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses))
 3. حمودي، سناء. 2023. ”مخيم عين الحلوة: ’عاصمة الشتات.‘“ **مؤسسة الدراسات الفلسطينية**. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/236037))
-4. Naber, Nadine. 2017. “‘The U.S. and Israel Make the Connections for Us’: Anti-Imperialism and Black-Palestinian Solidarity.” _Critical Ethnic Studies_ 3 (2): 15. ([open-access link](https://www.jstor.org/stable/pdf/10.5749/jcritethnstud.3.2.0015.pdf?refreqid=fastly-default%3Aaed1bea91e2fe1db14f7ed499ea6d134&ab_segments=&initiator=&acceptTC=1))
+4. Naber, Nadine. 2017. “‘The U.S. and Israel Make the Connections for Us’: Anti-Imperialism and Black-Palestinian Solidarity.” _Critical Ethnic Studies_ 3 (2): 15-30. ([open-access link](https://www.jstor.org/stable/pdf/10.5749/jcritethnstud.3.2.0015.pdf?refreqid=fastly-default%3Aaed1bea91e2fe1db14f7ed499ea6d134&ab_segments=&initiator=&acceptTC=1))
 
 ## **مراجع أخرى**
 

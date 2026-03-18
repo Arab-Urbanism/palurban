@@ -9,6 +9,7 @@ lastmod: 2025-11-21T17:15:00
 featured_image: /theme/Global Palestine.jpeg
 images: []
 ---
+
 The postcolonial global condition is often characterised by migration patterns linking urban centres of empire with former colonies. For Palestinians, the colonial condition is ongoing and operates in distinct temporal and spatial modalities, in which settler colonialism persists alongside policies of ethnic cleansing. Key markers, such as 1948 and 1967, triggered  waves of mass forced displacement both within and beyond Palestine, resulting in the presence of over 6 million Palestinians outside their homeland, scattered across the globe and denied the right of return. Variously categorised as the _shatat_—whether as refugees, migrants, or citizens of other countries—they form transnational communities in exile spatialised in a diversity of built forms—e.g. camps, ethnic neighbourhoods, informal settlements, and urban peripheries, centres and suburbs—predominately across the Arab world, Europe, and the Americas. The _shatat_ are simultaneously rooted in a particular locality while networked with each other and with Palestine. This social and spatial relation is dynamic, producing waves of multi-generational displacement, exile, migration, and return to and from multiple territories, geographies, and communities. The Palestinian _shatat_ thus engages in a multi-faceted spatial politics related to both city and world-making, while maintaining a society struggling for liberation. In so doing, they have also contributed to global solidarities related to anticolonialism.
 
 ## Key Questions
@@ -34,7 +35,7 @@ The postcolonial global condition is often characterised by migration patterns l
 1. Abourahme, Nasser. 2021. “Revolution after Revolution: The Commune as Line of Flight in Palestinian Anticolonialism.” _Critical Times_ 4 (3): 445–75. ([open-access link](https://read.dukeupress.edu/critical-times/article/4/3/445/173562/Revolution-after-RevolutionThe-Commune-as-Line-of))
 2. Bshara, Khaldun. “Space and Memory: The Poetics and Politics of Home in the Palestinian Diaspora.” PhD diss. University of California Irvine. ([open-access link](https://www.proquest.com/docview/1024425320?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses))
 3. حمودي، سناء. 2023. ”مخيم عين الحلوة: ’عاصمة الشتات.‘“ **مؤسسة الدراسات الفلسطينية**. ([مصدر مفتوح الوصول](https://www.palestine-studies.org/ar/node/236037))
-4. Naber, Nadine. 2017. “‘The U.S. and Israel Make the Connections for Us’: Anti-Imperialism and Black-Palestinian Solidarity.” _Critical Ethnic Studies_ 3 (2): 15. ([open-access link](https://www.jstor.org/stable/pdf/10.5749/jcritethnstud.3.2.0015.pdf?refreqid=fastly-default%3Aaed1bea91e2fe1db14f7ed499ea6d134&ab_segments=&initiator=&acceptTC=1))
+4. Naber, Nadine. 2017. “‘The U.S. and Israel Make the Connections for Us’: Anti-Imperialism and Black-Palestinian Solidarity.” _Critical Ethnic Studies_ 3 (2): 15-30. ([open-access link](https://www.jstor.org/stable/pdf/10.5749/jcritethnstud.3.2.0015.pdf?refreqid=fastly-default%3Aaed1bea91e2fe1db14f7ed499ea6d134&ab_segments=&initiator=&acceptTC=1))
 
 ## Further Resources
 
