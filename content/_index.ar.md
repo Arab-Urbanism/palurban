@@ -15,10 +15,12 @@ draft: false
 
 لاطلاع على المنهاج في صيغة ملف [رقمي PDF](https://palestine.araburbanism.com/img/DIGITAL_Palestine_Spaces%20and%20Politics%202026.pdf) أو كتيب للطباعة PDF (حجم A4 أو A3، طباعة على كلا الجانبين، مع تحديد خيار عكس الصفحات على الحافة القصيرة).
 
+_---_
+
 تم إعداد منهاج ’فلسطين: الفضاءات والسياسة’ من قبل مجموعة من الجغرافيين/ات والمعماريين/ات والمخططين/ات الملتزمين بدراسة فلسطين ضمن السياقات الإقليمية والعالمية، والمتأثرين باستعمار واحتلال أراضيهم، وتدمير مدنهم وقراهم، والتهجير من بلدانهم، وهم جزء من فريق [العمران العربي](https://www.araburbanism.com/ar/home/).
 
 نحن [دينا قدّومي](https://www.lse.ac.uk/people/dena-qaddumi) (منسقة)، و[ندي أبو سعادة](https://www.nadiabusaada.com)، و[مجد الشهابي](https://majdal.cc)، و[سامية هنّي](https://www.samiahenni.com)، و[لانا جودة](https://birzeit.academia.edu/LanaJudeh)، وعمر جعبري سلامنكا، وفايق مرعي، و[عمّار عزّوز](https://www.geog.ox.ac.uk/staff/aazzouz.html)، و[آية نصّار](https://www.durham.ac.uk/staff/aya-m-nassar/).
 
-_------------------------_
+_---_
 
 الصورة: بيت لحم، 2013. تصوير دينا قدّومي.
