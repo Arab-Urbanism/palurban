@@ -15,12 +15,12 @@ The bilingual curriculum comprises several themes (more to come) that include an
 
 The curriculum can also be accessed as a [digital pdf](https://palestine.araburbanism.com/img/DIGITAL_Palestine_Spaces%20and%20Politics%202026.pdf) or a [print booklet pdf](https://palestine.araburbanism.com/img/PRINT_Palestine_Spaces%20and%20Politics%20(A3%20or%20A4_Double-sided,%20Short%20Edge).pdf) (A4 or A3, double-sided printing, flip on short edge in layout menu).
 
--
+--
 
 PSP is a collective of geographers, architects, and urban planners committed to the study of Palestine in relation to regional and global contexts. It is an offshoot of the [Arab Urbanism](https://www.araburbanism.com) platform. PSP emerges from conversations among scholars whose lifeworlds have been variously impacted by the colonization and occupation of their land, the destruction of their cities and villages, and displacement from their countries.
 
 We are [Dena Qaddumi](https://www.lse.ac.uk/people/dena-qaddumi) (coordinator), [Nadi Abusaada](https://www.nadiabusaada.com), [Majd Al-Shihabi](https://majdal.cc), [Ammar Azzouz](https://www.geog.ox.ac.uk/staff/aazzouz.html), [Samia Henni](https://www.samiahenni.com), [Lana Judeh](https://birzeit.academia.edu/LanaJudeh), Faiq Mari, [Aya Nassar](https://www.durham.ac.uk/staff/aya-m-nassar/), and Omar Jabary Salamanca.
 
--
+--
 
 Image: Bethlehem, 2013. Photograph by Dena Qaddumi.
